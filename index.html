@@ -969,8 +969,8 @@
           </select>
         </div>
         <div style="display:flex;gap:6px;align-items:center;">
-          <span style="font-weight:700;color:var(--text-muted);font-size:0.75rem;white-space:nowrap;">Pedido/Serviço:</span>
-          <input type="text" id="inpBeneficioExigencia" placeholder="Ex: Aposentadoria / Salário-Maternidade / BPC" oninput="atualizarTextoMontado()" />
+          <span style="font-weight:700;color:var(--text-muted);font-size:0.75rem;white-space:nowrap;">Nº do Protocolo:</span>
+          <input type="text" id="inpProtocoloExigencia" placeholder="Ex: 9801996024250" oninput="atualizarTextoMontado()" />
         </div>
       </div>
 
@@ -1475,13 +1475,18 @@
         }
       } else {
         const tipoCab = document.getElementById("selCabecalhoExigencia").value;
-        const beneficioNome = (document.getElementById("inpBeneficioExigencia").value || "").trim() || "[BENEFÍCIO OU SERVIÇO]";
+        const protocoloNum = (document.getElementById("inpProtocoloExigencia").value || "").trim() || "[PROTOCOLO]";
+        const blocosComProtocolo = blocos.map(b =>
+          protocoloNum !== "[PROTOCOLO]"
+            ? b.split("[PROTOCOLO]").join(protocoloNum).split("[PROTOCOLO PAT]").join(protocoloNum)
+            : b
+        );
         if (tipoCab === "nenhum" || !window.CABECALHOS_EXIGENCIA[tipoCab]) {
-          outEl.value = blocos.join("\n\n");
+          outEl.value = blocosComProtocolo.join("\n\n");
         } else {
           const template = window.CABECALHOS_EXIGENCIA[tipoCab];
-          const cab = template.cabecalho.replace("[BENEFÍCIO OU SERVIÇO]", beneficioNome);
-          outEl.value = `${cab}\n\n${blocos.join("\n\n")}\n\n${template.rodape}`;
+          const cab = template.cabecalho.replace("[PROTOCOLO]", protocoloNum);
+          outEl.value = `${cab}\n\n${blocosComProtocolo.join("\n\n")}\n\n${template.rodape}`;
         }
       }
     }

@@ -5,17 +5,17 @@
 window.CABECALHOS_EXIGENCIA = {
   padrao: {
     nome: "Padrão Geral (Meu INSS / 135 — 30 dias)",
-    cabecalho: "Prezado(a) Senhor(a),\n\nPara concluir a análise do seu pedido de [BENEFÍCIO OU SERVIÇO], você precisa apresentar os seguintes documentos no prazo de 30 (trinta) dias:",
+    cabecalho: "Prezado(a) Senhor(a),\nPara dar andamento ao processo [PROTOCOLO], solicitamos o envio eletrônico dos documentos descritos abaixo:",
     rodape: "Como enviar os documentos pelo Meu INSS:\n1. Acesse o site (meu.inss.gov.br) ou aplicativo Meu INSS e faça login com seu CPF e senha Gov.br;\n2. Clique na opção \"Cumprimento de Exigência\";\n3. Selecione o seu pedido, clique em \"Anexar arquivo\" e envie os documentos;\n4. Escreva uma confirmação no campo \"Responda Aqui\" e clique em \"Enviar\".\n\nSe preferir entregar pessoalmente, agende o serviço \"Cumprimento de Exigência\" pelo Meu INSS ou pelo telefone 135 (de segunda a sábado, das 7h às 22h).\n\nAtenção:\n• Envie fotos ou digitalizações coloridas, nítidas e completas (incluindo o verso, quando houver).\n• Confira se todos os documentos pedidos foram anexados. Caso não consiga enviar algum documento, explique o motivo no campo de resposta, pois não será aberta nova exigência para pedir os mesmos itens.\n• Se você não enviar os documentos nem se manifestar em até 30 dias, o seu processo poderá ser encerrado por desistência, sem prejuízo de fazer um novo pedido no futuro (conforme arts. 566 e 601 da Instrução Normativa PRES/INSS nº 128/2022)."
   },
   representacao30: {
     nome: "Representação / Procuração (Encerramento em 30 dias — Art. 574, § 4º, II)",
-    cabecalho: "Prezado(a) Senhor(a),\n\nPara validar a representação neste pedido de [BENEFÍCIO OU SERVIÇO] e permitir a análise do requerimento, você precisa regularizar os seguintes itens no prazo de 30 (trinta) dias:",
+    cabecalho: "Prezado(a) Senhor(a),\nPara dar andamento ao processo [PROTOCOLO], solicitamos o envio eletrônico dos documentos descritos abaixo:",
     rodape: "Como enviar os documentos pelo Meu INSS:\nAcesse o aplicativo ou site Meu INSS (meu.inss.gov.br) > opção \"Cumprimento de Exigência\", anexe o arquivo solicitado (quando exigida assinatura digital ICP-Brasil ou avançada, envie o arquivo PDF digital original, sem imprimir ou fotografar a tela) e clique em \"Enviar\".\n\nAtenção: Caso a pendência na representação não seja regularizada no prazo legal de 30 (trinta) dias contados da ciência, o processo será encerrado por desistência administrativa, sem análise do mérito do pedido, nos termos dos arts. 566, 574, § 4º, inciso II, e 601 da Instrução Normativa PRES/INSS nº 128/2022."
   },
   manutencao710: {
     nome: "Manutenção OL 710 (Cadastro de Procurador / Representante Legal)",
-    cabecalho: "Prezado(a) Senhor(a),\n\nPara analisar o seu pedido de inclusão/atualização de Procurador ou Representante Legal no benefício [NB], apresente os documentos abaixo no prazo de 30 (trinta) dias:",
+    cabecalho: "Prezado(a) Senhor(a),\nPara dar andamento ao processo [PROTOCOLO], solicitamos o envio eletrônico dos documentos descritos abaixo:",
     rodape: "Como enviar pelo Meu INSS:\n1. Faça login no aplicativo ou site Meu INSS (meu.inss.gov.br);\n2. Clique em \"Cumprimento de Exigência\" e selecione este requerimento;\n3. Clique em \"Anexar arquivo\", selecione os documentos coloridos e legíveis (frente e verso) e clique em \"Confirmar\";\n4. Escreva um comentário no campo \"Responda Aqui\" e clique em \"Enviar\".\n(Vídeo explicativo de apoio: https://www.youtube.com/watch?v=We1vdKP-dB8)\n\nSe preferir, agende o serviço \"Cumprimento de Exigência\" pelo Meu INSS ou pela Central 135 (segunda a sábado, das 7h às 22h) para apresentar os documentos em uma Agência do INSS.\n\nO não atendimento desta exigência ou a ausência de manifestação no prazo de 30 dias poderá acarretar a desistência do processo, sem prejuízo de apresentar um novo pedido futuramente (conforme art. 566 da Instrução Normativa PRES/INSS nº 128/2022 e art. 1º, inciso III, da Portaria PRES/INSS nº 412/2020)."
   }
 };
