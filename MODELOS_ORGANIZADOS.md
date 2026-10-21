@@ -97,42 +97,42 @@ Processo reanalisado considerando as normativas administrativas do INSS. Visto q
 *Solicita documento de identificação com foto, CPF e digitalização completa das Carteiras de Trabalho físicas.*
 
 ```text
-• Documento de Identificação e Carteiras de Trabalho (CTPS): Apresente um documento de identificação oficial com foto, o seu CPF e todas as suas Carteiras de Trabalho físicas. Envie fotos ou digitalizações legíveis e na ordem correta das páginas (incluindo a página com foto, qualificação civil, todos os contratos de trabalho, férias, alterações de salário, observações e extratos de FGTS). Se algum período trabalhado não estiver anotado na Carteira de Trabalho, envie os documentos que comprovem esse trabalho. Você pode consultar a lista completa de documentos aceitos em https://www.gov.br/inss/pt-br (Fundamentação: art. 19-B do Decreto nº 3.048/1999 e arts. 48 e 525 da Instrução Normativa PRES/INSS nº 128/2022).
+- Documento de Identificação e Carteiras de Trabalho (CTPS): Apresente um documento de identificação oficial com foto, o seu CPF e todas as suas Carteiras de Trabalho físicas. Envie fotos ou digitalizações legíveis e na ordem correta das páginas (incluindo a página com foto, qualificação civil, todos os contratos de trabalho, férias, alterações de salário, observações e extratos de FGTS). Se algum período trabalhado não estiver anotado na Carteira de Trabalho, envie os documentos que comprovem esse trabalho. Você pode consultar a lista completa de documentos aceitos em gov.br/inss/pt-br (Fundamentação: art. 19-B do Decreto nº 3.048/1999 e arts. 48 e 525 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência: Comparecimento à Perícia Médica e/ou Avaliação Social
 *Orienta o segurado a comparecer à Perícia Médica e/ou Avaliação Social agendada levando documentos originais.*
 
 ```text
-• Comparecimento à Perícia Médica e/ou Avaliação Social: Compareça à Perícia Médica e/ou à Avaliação Social na data, horário e local informados no comprovante de agendamento em anexo. No dia do atendimento, leve um documento de identificação oficial com foto e todos os seus documentos médicos ou sociais originais (como laudos, exames, atestados, prontuários e receitas médicas) que comprovem a sua condição de saúde (Fundamentação: art. 566 da Instrução Normativa PRES/INSS nº 128/2022).
+- Comparecimento à Perícia Médica e/ou Avaliação Social: Compareça à Perícia Médica e/ou à Avaliação Social na data, horário e local informados no comprovante de agendamento em anexo. No dia do atendimento, leve um documento de identificação oficial com foto e todos os seus documentos médicos ou sociais originais (como laudos, exames, atestados, prontuários e receitas médicas) que comprovem a sua condição de saúde (Fundamentação: art. 566 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência: Registro de Biometria (CIN, CNH ou Título Eleitoral)
 *Solicita comprovação de cadastro biométrico válido ou documento de dispensa legal.*
 
 ```text
-• Cadastro de Biometria Obrigatório: Para continuar a análise do seu pedido, é obrigatório possuir biometria (impressão digital e foto) registrada na Carteira de Identidade Nacional (CIN), na Carteira Nacional de Habilitação (CNH) ou no Título de Eleitor. Após regularizar a biometria em um desses órgãos, anexe o comprovante pelo Meu INSS. Estão dispensados dessa exigência: maiores de 80 anos com documento oficial com foto; pessoas com atestado médico de impossibilidade de locomoção; moradores de áreas de difícil acesso (Portaria nº 76/2025); migrantes ou refugiados com registro oficial; e residentes no exterior com declaração consular ou apostilada (Fundamentação: Decreto nº 12.561/2025).
+- Cadastro de Biometria Obrigatório: Para continuar a análise do seu pedido, é obrigatório possuir biometria (impressão digital e foto) registrada na Carteira de Identidade Nacional (CIN), na Carteira Nacional de Habilitação (CNH) ou no Título de Eleitor. Após regularizar a biometria em um desses órgãos, anexe o comprovante pelo Meu INSS. Estão dispensados dessa exigência: maiores de 80 anos com documento oficial com foto; pessoas com atestado médico de impossibilidade de locomoção; moradores de áreas de difícil acesso (Portaria nº 76/2025); migrantes ou refugiados com registro oficial; e residentes no exterior com declaração consular ou apostilada (Fundamentação: Decreto nº 12.561/2025).
 ```
 
 ### [EXIGENCIA] Exigência: Dúvida Fundada sobre a Assinatura do(a) Requerente
 *Solicita Termo de Requerimento assinado fisicamente (ou assinatura eletrônica avançada/qualificada) ou conferência presencial.*
 
 ```text
-• Confirmação da Assinatura do(a) Requerente: Identificamos divergência ou dúvida quanto à autenticidade da assinatura no documento apresentado. Para confirmar a sua solicitação, envie o Termo de Requerimento de Serviços original assinado de próprio punho (conforme o seu documento de identidade) ou assinado eletronicamente no padrão avançado/qualificado (como a assinatura Gov.br Prata/Ouro ou certificado ICP-Brasil). Se preferir, você pode comparecer a uma Agência do INSS levando o seu documento de identificação original para conferência presencial (Fundamentação: art. 63, § 1º, inciso II, e parágrafo único da Instrução Normativa PRES/INSS nº 128/2022, c/c art. 33, § 2º, da Portaria DIRBEN/INSS nº 993/2022 e Decreto nº 10.543/2020).
+- Confirmação da Assinatura do(a) Requerente: Identificamos divergência ou dúvida quanto à autenticidade da assinatura no documento apresentado. Para confirmar a sua solicitação, envie o Termo de Requerimento de Serviços original assinado de próprio punho (conforme o seu documento de identidade) ou assinado eletronicamente no padrão avançado/qualificado (como a assinatura Gov.br Prata/Ouro ou certificado ICP-Brasil). Se preferir, você pode comparecer a uma Agência do INSS levando o seu documento de identificação original para conferência presencial (Fundamentação: art. 63, § 1º, inciso II, e parágrafo único da Instrução Normativa PRES/INSS nº 128/2022, c/c art. 33, § 2º, da Portaria DIRBEN/INSS nº 993/2022 e Decreto nº 10.543/2020).
 ```
 
 ### [EXIGENCIA] Exigência: Prazo Adicional de 5 Dias (Resolução 166/2011)
 *Concede prazo complementar de 5 dias para conclusão do envio de documentos.*
 
 ```text
-• Prazo Adicional de 5 Dias: Concedemos o prazo adicional de 5 (cinco) dias para que você conclua o envio dos documentos pendentes solicitados na exigência anterior (Fundamentação: Resolução INSS/PRES nº 166/2011 e art. 599 da Instrução Normativa PRES/INSS nº 128/2022).
+- Prazo Adicional de 5 Dias: Concedemos o prazo adicional de 5 (cinco) dias para que você conclua o envio dos documentos pendentes solicitados na exigência anterior (Fundamentação: Resolução INSS/PRES nº 166/2011 e art. 599 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência Interna: Documentos Recebidos (Manter em Exigência para Controle)
 *Informa ao segurado que os documentos já foram recebidos e orienta a não encerrar a exigência (controle interno).*
 
 ```text
-• Aviso sobre o Andamento do Processo: Os seus documentos já foram recebidos e a análise do seu pedido continuará internamente pelo INSS. Você não precisa enviar novos documentos nem responder a esta mensagem neste momento. Por favor, mantenha o pedido na situação "Em exigência" (não clique em "Cumprir exigência" novamente) apenas para controle interno do sistema.
+- Aviso sobre o Andamento do Processo: Os seus documentos já foram recebidos e a análise do seu pedido continuará internamente pelo INSS. Você não precisa enviar novos documentos nem responder a esta mensagem neste momento. Por favor, mantenha o pedido na situação "Em exigência" (não clique em "Cumprir exigência" novamente) apenas para controle interno do sistema.
 ```
 
 ## 2. Salário-Maternidade (B80)
@@ -151,7 +151,7 @@ No que tange à possibilidade de recolhimento de contribuições na qualidade de
 No que tange à competência [COMPETÊNCIA, EX: 10/2025], paga em [DATA DO PAGAMENTO], verifica-se que o recolhimento não produz efeitos para fins de filiação ao Regime Geral de Previdência Social (RGPS). O fato gerador do benefício de Salário-Maternidade ocorreu em [DATA DO FATO GERADOR], coincidindo com a competência do recolhimento pretendido. Conforme preceitua o art. 107, § 5º, inciso I, da Instrução Normativa PRES/INSS nº 128/2022, é expressamente vedada a filiação na categoria de segurado facultativo na mesma competência em que se inicia o pagamento de benefício previdenciário. Portanto, a contribuição vertida nesta competência não pode ser validada para o reconhecimento da qualidade de segurado.
 ```
 
-### [DESPACHO] Maternidade: Indeferimento (Não Filiada — Único Vínculo Facultativo no Mês do Parto)
+### [DESPACHO] Maternidade: Indeferimento (Não Filiada - Único Vínculo Facultativo no Mês do Parto)
 *Indefere Salário-Maternidade por falta de filiação quando o único recolhimento como facultativo ocorreu na competência do nascimento.*
 
 ```text
@@ -216,11 +216,11 @@ Considerando o disposto no artigo 71-C da Lei nº 8.213/1991 e no artigo 357, §
 Haverá a suspensão dos pagamentos em conformidade com o art. 357, § 2º, da Instrução Normativa PRES/INSS nº 128/2022 e com o art. 457 da Portaria DIRBEN/INSS nº 991/2022, pois foi detectado o retorno à atividade de prestador(a) de serviço antes do término do período normal de duração do salário-maternidade. Será aberta tarefa para a Manutenção verificar os períodos devidos.
 ```
 
-### [EXIGENCIA] Exigência: Comprovação de Trabalho Autônomo (Contribuinte Individual — Salário-Maternidade)
+### [EXIGENCIA] Exigência: Comprovação de Trabalho Autônomo (Contribuinte Individual - Salário-Maternidade)
 *Solicita provas materiais contemporâneas do exercício efetivo de trabalho por conta própria antes do parto.*
 
 ```text
-• Comprovação de Trabalho por Conta Própria (Contribuinte Individual): Apresente documentos da época dos pagamentos que comprovem que você realmente exerceu atividade remunerada por conta própria antes do parto (como Recibos de Pagamento a Autônomo - RPA, Notas Fiscais de serviço, contratos de prestação de serviços, Declaração de Imposto de Renda com recibo de entrega, alvará de funcionamento ou comprovantes de ISS). Apenas pagar a guia do INSS (GPS/DARF) sem comprovar o trabalho efetivo não garante a filiação como contribuinte individual nem permite acumular o benefício com vínculo de carteira assinada (Fundamentação: arts. 90 e 361 da Instrução Normativa PRES/INSS nº 128/2022 c/c art. 59 da Portaria DIRBEN/INSS nº 990/2022 e art. 447 da Portaria DIRBEN/INSS nº 991/2022).
+- Comprovação de Trabalho por Conta Própria (Contribuinte Individual): Apresente documentos da época dos pagamentos que comprovem que você realmente exerceu atividade remunerada por conta própria antes do parto (como Recibos de Pagamento a Autônomo - RPA, Notas Fiscais de serviço, contratos de prestação de serviços, Declaração de Imposto de Renda com recibo de entrega, alvará de funcionamento ou comprovantes de ISS). Apenas pagar a guia do INSS (GPS/DARF) sem comprovar o trabalho efetivo não garante a filiação como contribuinte individual nem permite acumular o benefício com vínculo de carteira assinada (Fundamentação: arts. 90 e 361 da Instrução Normativa PRES/INSS nº 128/2022 c/c art. 59 da Portaria DIRBEN/INSS nº 990/2022 e art. 447 da Portaria DIRBEN/INSS nº 991/2022).
 ```
 
 ## 3. Rural / Segurado Especial
@@ -288,7 +288,7 @@ Orientamos que, nos casos em que não há a informação elencada, deve ser info
 *Indefere o reconhecimento de período rural quando a Autodeclaração do Segurado Especial permanece incompleta após exigência.*
 
 ```text
-Foram apresentados documentos para comprovação de Atividade Rural, porém não foi possível o reconhecimento de quaisquer dos períodos requeridos, em razão de não ter sido apresentada Autodeclaração do Segurado Especial devidamente preenchida e assinada, nos moldes dos Anexos I/II/III do Ofício-Circular nº 46/DIRBEN/INSS, de 13/09/2019, e do art. 115 da Instrução Normativa PRES/INSS nº 128/2022. O preenchimento encontra-se incompleto — faltam informações em campos essenciais referentes ao grupo familiar e ao proprietário da terra, o que impede a análise e a ratificação do documento quanto à forma.
+Foram apresentados documentos para comprovação de Atividade Rural, porém não foi possível o reconhecimento de quaisquer dos períodos requeridos, em razão de não ter sido apresentada Autodeclaração do Segurado Especial devidamente preenchida e assinada, nos moldes dos Anexos I/II/III do Ofício-Circular nº 46/DIRBEN/INSS, de 13/09/2019, e do art. 115 da Instrução Normativa PRES/INSS nº 128/2022. O preenchimento encontra-se incompleto - faltam informações em campos essenciais referentes ao grupo familiar e ao proprietário da terra, o que impede a análise e a ratificação do documento quanto à forma.
 O Ofício-Circular nº 46, de 13/09/2019, dispensa a apresentação de documento rural ano a ano, a entrevista rural e o processamento da Justificação Administrativa (JA), cabendo, contudo, o preenchimento completo e correto da autodeclaração, tendo em vista a natureza declaratória da atividade rural alegada. Foram formuladas exigências ao(à) Requerente, cujo cumprimento se deu de forma incompleta, não tendo sido sanada a pendência de apresentação da autodeclaração preenchida em todos os campos obrigatórios.
 ```
 
@@ -328,14 +328,14 @@ Portanto, deixa-se de emitir GPS indenizatória do período rural posterior a 10
 Cumpre destacar que, para a concessão da aposentadoria por idade híbrida conforme a Ação Civil Pública nº 2038261-15.2015.4.04.7100/RS (c/c o art. 257 da Instrução Normativa PRES/INSS nº 128/2022), o(a) requerente deverá estar em exercício de atividade (urbana ou rural) ou em período de manutenção da qualidade de segurado na data da implementação das condições ou na Data de Entrada do Requerimento (DER). Uma vez que para o trabalhador rural exige-se a verificação da manutenção da qualidade de segurado, estende-se essa regra ao trabalhador urbano para fins de estrito cumprimento à referida Ação Civil Pública.
 ```
 
-### [DESPACHO] Rural: Recebimento de Pensão por Morte (B21) Acima do Mínimo — Apuração pela Cota Individual
+### [DESPACHO] Rural: Recebimento de Pensão por Morte (B21) Acima do Mínimo - Apuração pela Cota Individual
 *Aplica o § 1º do art. 112 da IN 128/2022 para considerar apenas a cota individual da pensão por morte desmembrada.*
 
 ```text
 Verifica-se que o(a) requerente recebe benefício de Pensão por Morte (B21) com valor global superior ao salário mínimo; porém, conforme dispõe o § 1º do art. 112 da Instrução Normativa PRES/INSS nº 128/2022: "§ 1º Em se tratando de recebimento de pensão por morte e auxílio-reclusão, para a apuração do valor previsto na alínea 'a' do inciso VIII do caput, nos casos em que o benefício for pago a mais de um dependente, deverá ser considerada a cota individual."
 ```
 
-### [DESPACHO] Rural: Segurado Especial na Condição de Acampado (ACP — Vedação a partir de 16/01/2020)
+### [DESPACHO] Rural: Segurado Especial na Condição de Acampado (ACP - Vedação a partir de 16/01/2020)
 *Afasta o enquadramento como segurado especial na condição de acampado para períodos a partir de 16/01/2020.*
 
 ```text
@@ -346,21 +346,21 @@ Em observância à decisão judicial proferida na Ação Civil Pública (ACP) n�
 *Orienta o segurado a preencher e enviar eletronicamente a Autodeclaração Rural pelo Meu INSS ou 135.*
 
 ```text
-• Preenchimento da Autodeclaração Rural: Preencha a Autodeclaração do Segurado Especial diretamente no Meu INSS (acesse "Cumprimento de Exigência" > "Preencher Autodeclaração") ou pelo telefone 135. Preencha todos os campos solicitados (períodos trabalhados, dados da terra e componentes do grupo familiar) e clique no botão "Enviar" ao finalizar. Caso envie formulário físico digitalizado, todas as páginas devem estar completamente preenchidas e assinadas pelo(a) requerente ou representante legal (Fundamentação: art. 115 da Instrução Normativa PRES/INSS nº 128/2022).
+- Preenchimento da Autodeclaração Rural: Preencha a Autodeclaração do Segurado Especial diretamente no Meu INSS (acesse "Cumprimento de Exigência" - "Preencher Autodeclaração") ou pelo telefone 135. Preencha todos os campos solicitados (períodos trabalhados, dados da terra e componentes do grupo familiar) e clique no botão "Enviar" ao finalizar. Caso envie formulário físico digitalizado, todas as páginas devem estar completamente preenchidas e assinadas pelo(a) requerente ou representante legal (Fundamentação: art. 115 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência: Documentos para Comprovação de Atividade Rural
 *Solicita documentos contemporâneos que comprovem o trabalho rural, pesqueiro ou extrativista.*
 
 ```text
-• Comprovação de Trabalho Rural: Apresente documentos emitidos na época do trabalho que comprovem o exercício da atividade rural, pesqueira ou extrativista (como notas fiscais de produtor, contratos de parceria/arrendamento, certidões de casamento ou nascimento com profissão de lavrador/agricultor, histórico escolar rural, recibos de compra de insumos, ITR/INCRA ou declaração sindical homologada). Você pode consultar a lista completa de documentos aceitos em https://www.gov.br/inss/pt-br (Fundamentação: art. 116 da Instrução Normativa PRES/INSS nº 128/2022).
+- Comprovação de Trabalho Rural: Apresente documentos emitidos na época do trabalho que comprovem o exercício da atividade rural, pesqueira ou extrativista (como notas fiscais de produtor, contratos de parceria/arrendamento, certidões de casamento ou nascimento com profissão de lavrador/agricultor, histórico escolar rural, recibos de compra de insumos, ITR/INCRA ou declaração sindical homologada). Você pode consultar a lista completa de documentos aceitos em gov.br/inss/pt-br (Fundamentação: art. 116 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
-### [EXIGENCIA] Exigência: Certidão de Exercício de Atividade Rural — Indígena (FUNAI)
+### [EXIGENCIA] Exigência: Certidão de Exercício de Atividade Rural - Indígena (FUNAI)
 *Solicita a Certidão de Exercício de Atividade Rural emitida pela FUNAI nos moldes do Anexo XXV da IN 128/2022.*
 
 ```text
-• Comprovação de Atividade Rural (Indígena): Apresente a Certidão de Exercício de Atividade Rural — Indígena, emitida e assinada pela FUNAI (ou com certificação eletrônica válida), comprovando o período trabalhado e preenchida conforme o modelo do Anexo XXV da Instrução Normativa PRES/INSS nº 128/2022 (Fundamentação: art. 116, inciso X, da Instrução Normativa PRES/INSS nº 128/2022).
+- Comprovação de Atividade Rural (Indígena): Apresente a Certidão de Exercício de Atividade Rural - Indígena, emitida e assinada pela FUNAI (ou com certificação eletrônica válida), comprovando o período trabalhado e preenchida conforme o modelo do Anexo XXV da Instrução Normativa PRES/INSS nº 128/2022 (Fundamentação: art. 116, inciso X, da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ## 4. Atividade Especial / PPP
@@ -376,7 +376,7 @@ Apresentados documentos para comprovação de Atividade Especial, informa-se que
 *Despacho PAT encaminhando o processo à Perícia Médica Federal por enquadrar-se nas exceções do art. 5º da Portaria 1.630/2023.*
 
 ```text
-Encaminhou-se o presente processo à Perícia Médica Federal para análise do(s) período(s) de atividade especial, em conformidade com a Portaria PRES/INSS nº 1.630, de 17 de novembro de 2023 (c/c o art. 287 da Instrução Normativa PRES/INSS nº 128/2022), uma vez que a situação fática se amolda a, no mínimo, uma das hipóteses elencadas no art. 5º da referida norma (seja o inciso I, alíneas "a" ou "b"; ou o inciso II, alíneas "a" ou "b"), que excepcionam a análise administrativa de conformidade e determinam a apreciação pela Perícia Médica Federal.
+Encaminhou-se o presente processo à Perícia Médica Federal para análise do(s) período(s) de atividade especial, em conformidade com a Portaria PRES/INSS nº 1.630, de 17 de novembro de 2023 (c/c o art. 287 da Instrução Normativa PRES/INSS nº 128/2022), uma vez que a situação fática se amolda a, no mínimo, uma das hipóteses elencadas no art. 5º da referida norma (seja o inciso I, alíneas "a" ou "b". ou o inciso II, alíneas "a" ou "b"), que excepcionam a análise administrativa de conformidade e determinam a apreciação pela Perícia Médica Federal.
 ```
 
 ### [DESPACHO] Especial: PPP Analisado pelo Administrativo Sem Enquadramento (Sem Envio à PMF)
@@ -390,7 +390,7 @@ Foram apresentados documentos para comprovação de Atividade Especial, analisad
 *Registra análise administrativa parcial dos períodos especiais e o encaminhamento dos períodos remanescentes à Perícia Médica Federal.*
 
 ```text
-Foram apresentados documentos para comprovação de Atividade Especial, os quais foram parcialmente analisados pelo setor administrativo, conforme relatório conclusivo da análise da exposição a agentes prejudiciais à saúde, nos termos da Portaria PRES/INSS nº 1.630, de 2023, e da Portaria MPS nº 630, de 8 de novembro de 2023. Foram analisadas atividades passíveis de enquadramento por Categoria Profissional até 28/04/1995, nos termos do § 1º do art. 269 da Instrução Normativa PRES/INSS nº 128/2022; exposição a agentes prejudiciais à saúde; e/ou aproveitamento de períodos já analisados em requerimento anterior, com reanálise dispensada, nos termos do art. 270 da mesma Instrução Normativa. Adicionalmente, encaminhou-se o presente processo à Perícia Médica Federal para análise do(s) período(s) remanescente(s) de atividade especial, em conformidade com a Portaria PRES/INSS nº 1.630, de 17 de novembro de 2023, uma vez que a situação fática do(s) referido(s) período(s) se amolda a, no mínimo, uma das hipóteses elencadas no art. 5º da referida norma (seja o inciso I, alíneas "a" ou "b"; ou o inciso II, alíneas "a" ou "b"), que excepcionam a análise administrativa de conformidade e determinam a apreciação pela Perícia Médica Federal.
+Foram apresentados documentos para comprovação de Atividade Especial, os quais foram parcialmente analisados pelo setor administrativo, conforme relatório conclusivo da análise da exposição a agentes prejudiciais à saúde, nos termos da Portaria PRES/INSS nº 1.630, de 2023, e da Portaria MPS nº 630, de 8 de novembro de 2023. Foram analisadas atividades passíveis de enquadramento por Categoria Profissional até 28/04/1995, nos termos do § 1º do art. 269 da Instrução Normativa PRES/INSS nº 128/2022; exposição a agentes prejudiciais à saúde; e/ou aproveitamento de períodos já analisados em requerimento anterior, com reanálise dispensada, nos termos do art. 270 da mesma Instrução Normativa. Adicionalmente, encaminhou-se o presente processo à Perícia Médica Federal para análise do(s) período(s) remanescente(s) de atividade especial, em conformidade com a Portaria PRES/INSS nº 1.630, de 17 de novembro de 2023, uma vez que a situação fática do(s) referido(s) período(s) se amolda a, no mínimo, uma das hipóteses elencadas no art. 5º da referida norma (seja o inciso I, alíneas "a" ou "b". ou o inciso II, alíneas "a" ou "b"), que excepcionam a análise administrativa de conformidade e determinam a apreciação pela Perícia Médica Federal.
 ```
 
 ### [DESPACHO] Especial: Vedação de Conversão de Tempo Especial em Comum Após 13/11/2019 (EC 103)
@@ -400,7 +400,7 @@ Foram apresentados documentos para comprovação de Atividade Especial, os quais
 O artigo 25, § 2º, da Emenda Constitucional nº 103/2019 (c/c o art. 259 da Instrução Normativa PRES/INSS nº 128/2022) garante a conversão de tempo especial em comum apenas para o trabalho realizado até 13 de novembro de 2019. A norma proíbe essa conversão de acréscimo temporal para as atividades exercidas após a entrada em vigor da Reforma da Previdência.
 ```
 
-### [DESPACHO] Especial: PPP Não Enquadrado — Ausência de Representante Legal e/ou Responsável pelos Registros Ambientais
+### [DESPACHO] Especial: PPP Não Enquadrado - Ausência de Representante Legal e/ou Responsável pelos Registros Ambientais
 *Nega enquadramento por vício formal no PPP (ausência de dados do responsável pela emissão ou pelos registros ambientais).*
 
 ```text
@@ -413,7 +413,7 @@ Período ([PERÍODO]) NÃO enquadrado, em razão de o documento apresentado para
 *Informa que a partir de 01/01/2023 não é admitido PPP em meio físico, sendo obrigatório o envio do evento S-2240 no eSocial.*
 
 ```text
-Cumpre destacar que as empresas são obrigadas a informar o evento destinado às informações de saúde e segurança do trabalhador — Evento S-2240 no eSocial —, mesmo nos casos em que não houver exposição a agentes prejudiciais à saúde, conforme a Portaria MTP nº 313, de 22 de setembro de 2021 (c/c o art. 284 da Instrução Normativa PRES/INSS nº 128/2022). Nesses casos, não será admitido PPP em meio físico para períodos trabalhados a partir de 1º de janeiro de 2023, conforme o parágrafo único do artigo 2º da Portaria MTP nº 313, de 22 de setembro de 2021.
+Cumpre destacar que as empresas são obrigadas a informar o evento destinado às informações de saúde e segurança do trabalhador - Evento S-2240 no eSocial -, mesmo nos casos em que não houver exposição a agentes prejudiciais à saúde, conforme a Portaria MTP nº 313, de 22 de setembro de 2021 (c/c o art. 284 da Instrução Normativa PRES/INSS nº 128/2022). Nesses casos, não será admitido PPP em meio físico para períodos trabalhados a partir de 1º de janeiro de 2023, conforme o parágrafo único do artigo 2º da Portaria MTP nº 313, de 22 de setembro de 2021.
 ```
 
 ### [INTERNO] Especial: PPP de Trabalhador Avulso (Despacho PAT + E-mail CGRPMF Sem Fracionamento Prévio)
@@ -423,7 +423,7 @@ Cumpre destacar que as empresas são obrigadas a informar o evento destinado às
 Despacho no PAT:
 Destaque-se que, excepcionalmente, não foi realizado o fracionamento prévio das atividades especiais constantes nos formulários apresentados (Campo 15 do PPP) em face do elevado número de vínculos e das limitações operacionais do sistema GET. Desse modo, após a avaliação técnica por parte da Perícia Médica Federal, ocorrendo o enquadramento de qualquer período (integral ou parcial), serão os mesmos fracionados no sistema de benefícios (PRISMA) para fins de enquadramento e eventual conversão em tempo comum, na forma prevista no art. 70-E do Decreto nº 3.048/1999 e nos arts. 274 e 289 da Instrução Normativa PRES/INSS nº 128/2022.
 
----
+-
 Minuta de E-mail para a Perícia Médica Federal (CGRPMF):
 Assunto: Encaminhamento para Análise de PPP - Trabalhador Avulso - CPF: [CPF]
 
@@ -466,28 +466,28 @@ Quanto ao pleito de enquadramento como atividade especial por categoria profissi
 *Solicita PPP devidamente preenchido e assinado pelo representante legal e responsável técnico.*
 
 ```text
-• Perfil Profissiográfico Previdenciário (PPP): Apresente o formulário PPP referente à empresa [NOME DA EMPRESA / PERÍODO], totalmente preenchido, carimbado e assinado pelo representante legal da empresa, contendo também a identificação completa e o registro de classe (CREA ou CRM) do responsável técnico pelos registros ambientais (Engenheiro de Segurança do Trabalho ou Médico do Trabalho). Se o laudo técnico for de época diferente da trabalhada (extemporâneo), anexe declaração da empresa informando se o ambiente de trabalho sofreu alterações. Caso o PPP tenha assinatura digital (ICP-Brasil), envie o arquivo PDF digital original para permitir a validação da assinatura (Fundamentação: arts. 272 e 281 da Instrução Normativa PRES/INSS nº 128/2022 e art. 68, § 3º, do Decreto nº 3.048/1999).
+- Perfil Profissiográfico Previdenciário (PPP): Apresente o formulário PPP referente à empresa [NOME DA EMPRESA / PERÍODO], totalmente preenchido, carimbado e assinado pelo representante legal da empresa, contendo também a identificação completa e o registro de classe (CREA ou CRM) do responsável técnico pelos registros ambientais (Engenheiro de Segurança do Trabalho ou Médico do Trabalho). Se o laudo técnico for de época diferente da trabalhada (extemporâneo), anexe declaração da empresa informando se o ambiente de trabalho sofreu alterações. Caso o PPP tenha assinatura digital (ICP-Brasil), envie o arquivo PDF digital original para permitir a validação da assinatura (Fundamentação: arts. 272 e 281 da Instrução Normativa PRES/INSS nº 128/2022 e art. 68, § 3º, do Decreto nº 3.048/1999).
 ```
 
 ### [EXIGENCIA] Exigência: PPP Eletrônico no eSocial (Períodos a partir de 01/01/2023)
 *Orienta o segurado a solicitar ao empregador o envio do evento S-2240 no eSocial para períodos a partir de 01/01/2023.*
 
 ```text
-• PPP Eletrônico (eSocial — a partir de 01/01/2023): Para períodos trabalhados a partir de 01/01/2023, o INSS analisa exclusivamente o PPP Eletrônico. Como essas informações ainda não constam no seu cadastro (CNIS), solicite ao seu empregador ([NOME DA EMPRESA]) que envie imediatamente os dados de saúde e segurança do trabalho por meio do evento S-2240 no portal do eSocial (https://login.esocial.gov.br/) (Fundamentação: Portaria MTP nº 313/2021 e art. 284 da Instrução Normativa PRES/INSS nº 128/2022).
+- PPP Eletrônico (eSocial - a partir de 01/01/2023): Para períodos trabalhados a partir de 01/01/2023, o INSS analisa exclusivamente o PPP Eletrônico. Como essas informações ainda não constam no seu cadastro (CNIS), solicite ao seu empregador ([NOME DA EMPRESA]) que envie imediatamente os dados de saúde e segurança do trabalho por meio do evento S-2240 no portal do eSocial (login.esocial.gov.br/) (Fundamentação: Portaria MTP nº 313/2021 e art. 284 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência: Empresa Extinta e Comprovação de Atividade Especial (JA)
 *Informa os documentos necessários para Justificação Administrativa quando a empresa está baixada e não emitiu PPP.*
 
 ```text
-• Comprovação de Atividade Especial em Empresa Fechada (Extinta): Caso a empresa esteja fechada (baixada na Receita Federal) e você não possua o PPP, apresente: o comprovante de baixa do CNPJ da empresa; laudo técnico da época ou documento equivalente; e o pedido de Justificação Administrativa (JA) preenchido com a indicação de pelo menos 2 (duas) testemunhas que trabalharam na mesma empresa, no mesmo setor e no mesmo período que você (Fundamentação: arts. 277 e 568 da Instrução Normativa PRES/INSS nº 128/2022).
+- Comprovação de Atividade Especial em Empresa Fechada (Extinta): Caso a empresa esteja fechada (baixada na Receita Federal) e você não possua o PPP, apresente: o comprovante de baixa do CNPJ da empresa; laudo técnico da época ou documento equivalente; e o pedido de Justificação Administrativa (JA) preenchido com a indicação de pelo menos 2 (duas) testemunhas que trabalharam na mesma empresa, no mesmo setor e no mesmo período que você (Fundamentação: arts. 277 e 568 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência: Declaração de Tempo de Magistério (Professor)
 *Solicita declaração do estabelecimento de ensino atestando regência de classe e nível de ensino.*
 
 ```text
-• Comprovação de Tempo de Professor: Apresente declaração emitida pela escola ou instituição de ensino (ou órgão oficial de educação) informando o período exato em que você exerceu atividade de magistério (regência de classe, direção de unidade escolar ou coordenação/assessoramento pedagógico) e especificando o nível de ensino (Educação Infantil, Ensino Fundamental ou Ensino Médio), acompanhada dos registros na Carteira de Trabalho ou portarias de nomeação/designação (Fundamentação: arts. 249 a 254 da Instrução Normativa PRES/INSS nº 128/2022).
+- Comprovação de Tempo de Professor: Apresente declaração emitida pela escola ou instituição de ensino (ou órgão oficial de educação) informando o período exato em que você exerceu atividade de magistério (regência de classe, direção de unidade escolar ou coordenação/assessoramento pedagógico) e especificando o nível de ensino (Educação Infantil, Ensino Fundamental ou Ensino Médio), acompanhada dos registros na Carteira de Trabalho ou portarias de nomeação/designação (Fundamentação: arts. 249 a 254 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ## 5. CNIS, DARF, GPS e Vínculos
@@ -499,11 +499,11 @@ Quanto ao pleito de enquadramento como atividade especial por categoria profissi
 Conforme CTPS constante na tarefa PAT [PROTOCOLO PAT], foi realizada a inclusão/alteração de vínculo(s) no CNIS, de acordo com o artigo 48 da Instrução Normativa PRES/INSS nº 128, de 2022.
 ```
 
-### [DESPACHO] CNIS / DARF: Contribuições Abaixo do Mínimo (Dispensa de Exigência — EC 103/2019)
+### [DESPACHO] CNIS / DARF: Contribuições Abaixo do Mínimo (Dispensa de Exigência - EC 103/2019)
 *Desconsidera competências abaixo do mínimo sem abrir exigência quando o ajuste não alteraria o mérito ou a RMI, orientando sobre o Meu INSS.*
 
 ```text
-Não foi oportunizada a regularização, via DARF, das contribuições abaixo do mínimo (relatório das pendências em anexo), pois, em observância aos princípios da eficiência e da economia processual (art. 2º da Lei nº 9.784/1999, c/c art. 523, § 3º, da Instrução Normativa PRES/INSS nº 128/2022), mesmo com a eventual regularização de tais pendências, o(a) segurado(a) [não completaria os requisitos mínimos para a concessão do benefício / já completaria os requisitos mínimos para a concessão do benefício] e não teria alterada a sua RMI. O ajuste pode ser feito pelo próprio segurado, caso queira (complementação, utilização de excedente ou agrupamento), por meio do serviço "Ajustes para Alcance do Salário Mínimo – Emenda Constitucional 103/2019" no Meu INSS, conforme o art. 29 da Emenda Constitucional nº 103/2019 e os arts. 124 a 132 da Instrução Normativa PRES/INSS nº 128/2022. Saiba mais em https://www.gov.br/inss/pt-br/saiba-mais/salario-minimo
+Não foi oportunizada a regularização, via DARF, das contribuições abaixo do mínimo (relatório das pendências em anexo), pois, em observância aos princípios da eficiência e da economia processual (art. 2º da Lei nº 9.784/1999, c/c art. 523, § 3º, da Instrução Normativa PRES/INSS nº 128/2022), mesmo com a eventual regularização de tais pendências, o(a) segurado(a) [não completaria os requisitos mínimos para a concessão do benefício / já completaria os requisitos mínimos para a concessão do benefício] e não teria alterada a sua RMI. O ajuste pode ser feito pelo próprio segurado, caso queira (complementação, utilização de excedente ou agrupamento), por meio do serviço "Ajustes para Alcance do Salário Mínimo - Emenda Constitucional 103/2019" no Meu INSS, conforme o art. 29 da Emenda Constitucional nº 103/2019 e os arts. 124 a 132 da Instrução Normativa PRES/INSS nº 128/2022. Saiba mais em gov.br/inss/pt-br/saiba-mais/salario-minimo
 ```
 
 ### [DESPACHO] CNIS / DARF: Vedação de Ajuste Pós-Óbito Após 15 de Janeiro do Ano Seguinte
@@ -513,13 +513,13 @@ Não foi oportunizada a regularização, via DARF, das contribuições abaixo do
 Não foi oportunizada a regularização, via DARF, das contribuições abaixo do limite mínimo mensal (relatório de pendências em anexo) para fins de concessão de benefício aos dependentes, uma vez que os ajustes pretendidos e o recolhimento das competências do ano civil correspondente superaram o limite temporal máximo de até o dia 15 (quinze) do mês subsequente ao do encerramento do referido ano. A medida observa o disposto no art. 106, § 2º, inciso I, e no art. 127 da Instrução Normativa PRES/INSS nº 128, de 28 de março de 2022, em consonância com o art. 119 da Portaria DIRBEN/INSS nº 990, de 28 de março de 2022, e com o art. 19-E, § 7º, do Decreto nº 3.048/1999. Consequentemente, resta vedada a geração de guia complementar extemporânea pós-óbito e o cômputo dos referidos períodos.
 ```
 
-### [DESPACHO] CNIS / Guia: Orientações para Regularizar GPS (Pré-Reforma) e DARF (Pós-Reforma — Portaria 1.553/2023)
+### [DESPACHO] CNIS / Guia: Orientações para Regularizar GPS (Pré-Reforma) e DARF (Pós-Reforma - Portaria 1.553/2023)
 *Explica no despacho como o segurado pode regularizar competências pós-11/2019 (DARF) e períodos antigos/indenizações (GPS).*
 
 ```text
 Para regularizar essa situação, caso queira, observe as instruções abaixo:
-— Ajustes Pós-Reforma (Competências após 11/2019): Acesse o portal Meu INSS e busque pela opção "Ajustes para Alcance do Salário Mínimo". O sistema calculará a diferença e emitirá um DARF.
-— Ajustes Pré-Reforma, Indenizações ou Diferenças: Para períodos antigos, o cálculo não é automático. É necessário protocolar um pedido específico por meio da Central 135 ou buscar no Meu INSS o serviço "Solicitar Cálculo de Complementação de Contribuição e/ou Diferenças" para que o INSS emita a GPS com os juros e multas pertinentes.
+- Ajustes Pós-Reforma (Competências após 11/2019): Acesse o portal Meu INSS e busque pela opção "Ajustes para Alcance do Salário Mínimo". O sistema calculará a diferença e emitirá um DARF.
+- Ajustes Pré-Reforma, Indenizações ou Diferenças: Para períodos antigos, o cálculo não é automático. É necessário protocolar um pedido específico por meio da Central 135 ou buscar no Meu INSS o serviço "Solicitar Cálculo de Complementação de Contribuição e/ou Diferenças" para que o INSS emita a GPS com os juros e multas pertinentes.
 A regularização é indispensável para o aproveitamento desses períodos na concessão de novos pedidos de benefício.
 Essas orientações constam na Portaria PRES/INSS nº 1.553, de 1º de fevereiro de 2023 (c/c os arts. 124 a 132 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
@@ -542,10 +542,10 @@ No tocante ao período requerido na condição de aluno-aprendiz ([PERÍODO]), v
 *Afasta o cômputo de período em seminário sem comprovação de emissão de votos temporários/perpétuos e recolhimentos.*
 
 ```text
-O art. 90, inciso V, da Instrução Normativa PRES/INSS nº 128/2022 enquadra como contribuinte individual o ministro de confissão religiosa e o membro de instituto de vida consagrada, de congregação ou de ordem religiosa. A comprovação de tal condição está disposta no inciso III do art. 94 da mesma Instrução Normativa, sendo exigido para o reconhecimento da filiação o ato equivalente de emissão de votos temporários ou perpétuos (ou compromissos equivalentes que habilitem ao exercício estável da atividade religiosa) e, ainda, documentação comprobatória da dispensa dos votos ou compromissos, caso já tenha cessado o exercício da atividade religiosa. Não há no processo elemento que indique tal equivalência, bem como não foram apresentados documentos comprobatórios e contemporâneos (reconhecimento somente a partir da emissão dos votos — SISCON 7900). Dessa forma, o período em seminário ([PERÍODO]) não poderá ser computado para fins de tempo de contribuição na condição de contribuinte individual.
+O art. 90, inciso V, da Instrução Normativa PRES/INSS nº 128/2022 enquadra como contribuinte individual o ministro de confissão religiosa e o membro de instituto de vida consagrada, de congregação ou de ordem religiosa. A comprovação de tal condição está disposta no inciso III do art. 94 da mesma Instrução Normativa, sendo exigido para o reconhecimento da filiação o ato equivalente de emissão de votos temporários ou perpétuos (ou compromissos equivalentes que habilitem ao exercício estável da atividade religiosa) e, ainda, documentação comprobatória da dispensa dos votos ou compromissos, caso já tenha cessado o exercício da atividade religiosa. Não há no processo elemento que indique tal equivalência, bem como não foram apresentados documentos comprobatórios e contemporâneos (reconhecimento somente a partir da emissão dos votos - SISCON 7900). Dessa forma, o período em seminário ([PERÍODO]) não poderá ser computado para fins de tempo de contribuição na condição de contribuinte individual.
 ```
 
-### [DESPACHO] CNIS / Vínculo: Mandato Eletivo (1998 a 2004 — Análise e Despacho GET de Sobrestamento)
+### [DESPACHO] CNIS / Vínculo: Mandato Eletivo (1998 a 2004 - Análise e Despacho GET de Sobrestamento)
 *Orientações sobre mandato eletivo entre 01/02/1998 e 18/09/2004 e modelo de despacho GET para transferência ao SGBEN.*
 
 ```text
@@ -556,7 +556,7 @@ Verifica-se que o(a) requerente possui vínculos com entes federativos e exercí
 - "Declaração do Exercente de Mandato Eletivo" (Anexo XIII da IN 128/2022), declarando que não requereu a restituição dos valores descontados pelo ente federativo e que não exerceu outra atividade determinante de filiação obrigatória ao RGPS nem ao RPPS;
 - "Discriminativo das Remunerações e dos Valores Recolhidos Relativos ao Exercente de Mandato Eletivo" (Anexo XIV da IN 128/2022).
 
----
+-
 2. Despacho GET na Subtarefa de Processo Sobrestado (Comunicado 01/23, item 10):
 Informação expressa de que se trata de opção do exercente de mandato eletivo ([CARGO, EX: VEREADOR]) no período de 01/02/1998 a 18/09/2004.
 IDs dos documentos anexados: [IDs DOS DOCUMENTOS].
@@ -608,12 +608,12 @@ Atentar para os procedimentos do Memorando-Circular nº 1 DIRBEN/CGAIS, de 04/01
 *Modelo estruturado em 3 itens para subtarefa CONGFIP (cód. 8614) enviada ao SAIS da GEX.*
 
 ```text
-[Orientação: Criar Subtarefa no GET "Consulta GFIPWEB/eSocial" (código 8614, sigla CONGFIP) -> Fila de Destino: OL do SAIS da GEX]
+[Orientação: Criar Subtarefa no GET "Consulta GFIPWEB/eSocial" (código 8614, sigla CONGFIP) - - Fila de Destino: OL do SAIS da GEX]
 
 1. RELATO DO CASO CONCRETO:
 Em análise de requerimento de benefício, verificou-se no extrato CNIS do(a) segurado(a) [NOME DO SEGURADO], NIT [NIT DO SEGURADO], a presença do indicador PDIV-DADOS-GFIP (ou PDV-GFIP). O referido indicador recai sobre os vínculos/remunerações informados pelo(s) seguinte(s) empregador(es):
-• CNPJ/CEI: [CNPJ/CEI 1] — Empresa: [NOME DA EMPRESA 1] — Período: [PERÍODO 1]
-• CNPJ/CEI: [CNPJ/CEI 2] — Empresa: [NOME DA EMPRESA 2] — Período: [PERÍODO 2]
+- CNPJ/CEI: [CNPJ/CEI 1] - Empresa: [NOME DA EMPRESA 1] - Período: [PERÍODO 1]
+- CNPJ/CEI: [CNPJ/CEI 2] - Empresa: [NOME DA EMPRESA 2] - Período: [PERÍODO 2]
 
 2. MANIFESTAÇÃO DO ENTENDIMENTO FUNDAMENTADO:
 Conforme as normativas vigentes, a presença deste indicador aponta inconsistência na declaração, exigindo a verificação nas bases da Receita Federal (GFIPWEB) para confirmar a real titularidade dos vínculos e remunerações antes de promover qualquer validação, exigência ou cômputo no benefício do(a) segurado(a).
@@ -648,92 +648,92 @@ NIT: [NIT]
 CPF do(a) requerente: [CPF]
 OL do benefício: [OL BENEFÍCIO]
 
----
-[Lembrete Operacional — Passo a Passo no Prisma após a desativação:]
-1. Acessar o Prisma > menu Gerenciamento > clicar em "Captura Desativações Ferramenta CNIS" (o sistema atualizará);
-2. Reabrir o benefício com o motivo "04 - Atualização dados CNIS";
+-
+[Lembrete Operacional - Passo a Passo no Prisma após a desativação:]
+1. Acessar o Prisma - menu Gerenciamento - clicar em "Captura Desativações Ferramenta CNIS" (o sistema atualizará);
+2. Reabrir o benefício com o motivo "04 - Atualização dados CNIS".
 3. Continuar a habilitação normalmente;
 4. Excluir o vínculo cujas remunerações estão abaixo do salário mínimo; incluir um novo documento de CTPS (opção I) e, dentro desse documento, reincluir este vínculo manualmente;
 5. Continuar a habilitação e informar os salários de contribuição, inclusive os complementados para o salário mínimo, no campo 12 do Prisma.
 ```
 
-### [EXIGENCIA] Exigência: Complementação de GPS — Facultativo Baixa Renda (FBR) Não Validado
+### [EXIGENCIA] Exigência: Complementação de GPS - Facultativo Baixa Renda (FBR) Não Validado
 *Solicita comprovante de pagamento da GPS de complementação da alíquota de 5% (FBR) para 11% ou 20%.*
 
 ```text
-• Comprovante de Complementação da Contribuição (Facultativo Baixa Renda): Apresente o comprovante de pagamento da guia GPS em anexo (com vencimento em [DATA DE VENCIMENTO] e valor de R$ [VALOR DA GPS]). Essa guia refere-se à complementação das contribuições feitas na alíquota reduzida de 5% (Facultativo Baixa Renda) para o Plano Simplificado (11%), pois os pagamentos originais não foram validados em razão de constar renda própria informada no Cadastro Único (CadÚnico) (Fundamentação: art. 107, § 4º, e art. 122 da Instrução Normativa PRES/INSS nº 128/2022).
+- Comprovante de Complementação da Contribuição (Facultativo Baixa Renda): Apresente o comprovante de pagamento da guia GPS em anexo (com vencimento em [DATA DE VENCIMENTO] e valor de R$ [VALOR DA GPS]). Essa guia refere-se à complementação das contribuições feitas na alíquota reduzida de 5% (Facultativo Baixa Renda) para o Plano Simplificado (11%), pois os pagamentos originais não foram validados em razão de constar renda própria informada no Cadastro Único (CadÚnico) (Fundamentação: art. 107, § 4º, e art. 122 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
-### [EXIGENCIA] Exigência: Regularização de Contribuições Abaixo do Salário Mínimo (DARF — Pós-EC 103/2019)
+### [EXIGENCIA] Exigência: Regularização de Contribuições Abaixo do Salário Mínimo (DARF - Pós-EC 103/2019)
 *Orienta o segurado a acessar o serviço de Ajustes para Alcance do Salário Mínimo no Meu INSS para complementar ou agrupar meses pós-11/2019.*
 
 ```text
-• Regularização de Contribuições Abaixo do Salário Mínimo (Competências：[COMPETÊNCIAS ABAIXO DO MÍNIMO]): Para que os meses com contribuição abaixo do salário mínimo (a partir de 11/2019) possam valer para o seu benefício, acesse o aplicativo ou site Meu INSS (https://meu.inss.gov.br/), procure pelo serviço "Ajustes para Alcance do Salário Mínimo – Emenda Constitucional 103/2019", selecione o ano correspondente e escolha se deseja complementar o valor via guia DARF, utilizar valores excedentes de outros meses ou agrupar competências. Após realizar o ajuste ou pagar o DARF até a data de vencimento, anexe o comprovante neste pedido (Fundamentação: art. 29 da Emenda Constitucional nº 103/2019 e arts. 124 a 132 da Instrução Normativa PRES/INSS nº 128/2022).
+- Regularização de Contribuições Abaixo do Salário Mínimo (Competências:[COMPETÊNCIAS ABAIXO DO MÍNIMO]): Para que os meses com contribuição abaixo do salário mínimo (a partir de 11/2019) possam valer para o seu benefício, acesse o aplicativo ou site Meu INSS (meu.inss.gov.br/), procure pelo serviço "Ajustes para Alcance do Salário Mínimo - Emenda Constitucional 103/2019", selecione o ano correspondente e escolha se deseja complementar o valor via guia DARF, utilizar valores excedentes de outros meses ou agrupar competências. Após realizar o ajuste ou pagar o DARF até a data de vencimento, anexe o comprovante neste pedido (Fundamentação: art. 29 da Emenda Constitucional nº 103/2019 e arts. 124 a 132 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência: Regularização de Contribuições em Guia GPS (Plano Simplificado / MEI / Pré-Reforma)
 *Orienta a emissão ou solicitação de cálculo de GPS para regularizar diferenças de alíquota ou salários abaixo do mínimo pré-Reforma.*
 
 ```text
-• Regularização de Contribuições em Guia GPS: Regularize as contribuições pendentes ([COMPETÊNCIAS]) emitindo a guia de complementação diretamente pelo Meu INSS (https://meu.inss.gov.br/). Caso se trate de períodos com mais de 5 (cinco) anos ou diferenças de alíquota do Plano Simplificado / MEI, solicite o cálculo específico ligando para a Central 135 ou pelo serviço "Solicitar Cálculo de Complementação de Contribuição e/ou Diferenças" no Meu INSS, e anexe o comprovante de pagamento neste processo (Fundamentação: Portaria PRES/INSS nº 1.553/2023 e art. 122 da Instrução Normativa PRES/INSS nº 128/2022).
+- Regularização de Contribuições em Guia GPS: Regularize as contribuições pendentes ([COMPETÊNCIAS]) emitindo a guia de complementação diretamente pelo Meu INSS (meu.inss.gov.br/). Caso se trate de períodos com mais de 5 (cinco) anos ou diferenças de alíquota do Plano Simplificado / MEI, solicite o cálculo específico ligando para a Central 135 ou pelo serviço "Solicitar Cálculo de Complementação de Contribuição e/ou Diferenças" no Meu INSS, e anexe o comprovante de pagamento neste processo (Fundamentação: Portaria PRES/INSS nº 1.553/2023 e art. 122 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência: Retificação pela Empresa no eSocial (Trabalho Intermitente / Jornada Diferenciada)
 *Orienta o segurado a solicitar ao empregador a retificação no eSocial para sanar indicadores PVIN-TRAB-INTERM ou IVIN-JORN-DIFERENCIADA.*
 
 ```text
-• Correção de Dados pelo Empregador no eSocial: Identificamos uma pendência no seu cadastro (indicador de trabalho intermitente ou jornada diferenciada — PVIN-TRAB-INTERM / IVIN-JORN-DIFERENCIADA) referente ao vínculo com a empresa [NOME DA EMPRESA]. Como o INSS não pode alterar esses dados manualmente, solicite ao seu empregador que faça a correção das informações diretamente no portal do eSocial (https://login.esocial.gov.br/) e, em seguida, informe neste processo que a retificação foi concluída (Fundamentação: art. 35 da Instrução Normativa PRES/INSS nº 128/2022).
+- Correção de Dados pelo Empregador no eSocial: Identificamos uma pendência no seu cadastro (indicador de trabalho intermitente ou jornada diferenciada - PVIN-TRAB-INTERM / IVIN-JORN-DIFERENCIADA) referente ao vínculo com a empresa [NOME DA EMPRESA]. Como o INSS não pode alterar esses dados manualmente, solicite ao seu empregador que faça a correção das informações diretamente no portal do eSocial (login.esocial.gov.br/) e, em seguida, informe neste processo que a retificação foi concluída (Fundamentação: art. 35 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
-### [EXIGENCIA] Exigência: Comprovação de Vínculo Extemporâneo no eSocial (Pós-24/09/2019 — Anexo II)
+### [EXIGENCIA] Exigência: Comprovação de Vínculo Extemporâneo no eSocial (Pós-24/09/2019 - Anexo II)
 *Solicita comprovante do evento no eSocial com recibo eletrônico e declaração do empregador (Anexo II da IN 128/2022) ou provas contemporâneas.*
 
 ```text
-• Comprovação de Vínculo de Emprego (Período a partir de 24/09/2019 — eSocial): Para validar o vínculo com a empresa [NOME DA EMPRESA] ([PERÍODO]), apresente o comprovante do evento enviado ao eSocial contendo o número do recibo eletrônico, acompanhado da Declaração do Empregador preenchida e assinada (conforme modelo do Anexo II da Instrução Normativa PRES/INSS nº 128/2022), ou apresente documentos da época do trabalho (como contracheques, recibos de salário, extratos de FGTS ou contrato de trabalho) que confirmem as datas de início e fim do emprego (Fundamentação: art. 19-B do Decreto nº 3.048/1999 e art. 48 e Anexo II da Instrução Normativa PRES/INSS nº 128/2022).
+- Comprovação de Vínculo de Emprego (Período a partir de 24/09/2019 - eSocial): Para validar o vínculo com a empresa [NOME DA EMPRESA] ([PERÍODO]), apresente o comprovante do evento enviado ao eSocial contendo o número do recibo eletrônico, acompanhado da Declaração do Empregador preenchida e assinada (conforme modelo do Anexo II da Instrução Normativa PRES/INSS nº 128/2022), ou apresente documentos da época do trabalho (como contracheques, recibos de salário, extratos de FGTS ou contrato de trabalho) que confirmem as datas de início e fim do emprego (Fundamentação: art. 19-B do Decreto nº 3.048/1999 e art. 48 e Anexo II da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência: Comprovação de Remunerações no Período do eSocial
 *Solicita contracheques com número do recibo eletrônico do eSocial ou declaração do empregador (Anexo II).*
 
 ```text
-• Comprovação de Salários (Período do eSocial): Para comprovar os salários recebidos na empresa [NOME DA EMPRESA] nas competências [COMPETÊNCIAS], apresente os contracheques ou recibos de pagamento da época que contenham o número do recibo eletrônico do eSocial, ou o comprovante do evento no eSocial acompanhado da Declaração do Empregador (Anexo II da Instrução Normativa PRES/INSS nº 128/2022) (Fundamentação: art. 19-B do Decreto nº 3.048/1999 e art. 51 da Instrução Normativa PRES/INSS nº 128/2022).
+- Comprovação de Salários (Período do eSocial): Para comprovar os salários recebidos na empresa [NOME DA EMPRESA] nas competências [COMPETÊNCIAS], apresente os contracheques ou recibos de pagamento da época que contenham o número do recibo eletrônico do eSocial, ou o comprovante do evento no eSocial acompanhado da Declaração do Empregador (Anexo II da Instrução Normativa PRES/INSS nº 128/2022) (Fundamentação: art. 19-B do Decreto nº 3.048/1999 e art. 51 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência: Comprovação de Atividade / Remuneração em GFIP Extemporânea (Contribuinte Individual)
 *Solicita documentos contemporâneos que comprovem a prestação de serviço ou retirada de pró-labore declarada em GFIP fora do prazo.*
 
 ```text
-• Comprovação de Trabalho Prestado a Empresa (GFIP enviada fora do prazo): Para validar as contribuições declaradas fora do prazo pela empresa [NOME DA EMPRESA] ([PERÍODO]), apresente documentos da época do trabalho que confirmem a prestação de serviço e os valores recebidos: recibos de pró-labore (se sócio/administrador), Recibos de Pagamento a Autônomo (RPA) ou comprovantes de pagamento com identificação do CNPJ e do desconto do INSS, Declaração de Imposto de Renda da época (com recibo de entrega) ou declaração da empresa baseada em seus registros contábeis/fiscais (Fundamentação: art. 95 da Instrução Normativa PRES/INSS nº 128/2022).
+- Comprovação de Trabalho Prestado a Empresa (GFIP enviada fora do prazo): Para validar as contribuições declaradas fora do prazo pela empresa [NOME DA EMPRESA] ([PERÍODO]), apresente documentos da época do trabalho que confirmem a prestação de serviço e os valores recebidos: recibos de pró-labore (se sócio/administrador), Recibos de Pagamento a Autônomo (RPA) ou comprovantes de pagamento com identificação do CNPJ e do desconto do INSS, Declaração de Imposto de Renda da época (com recibo de entrega) ou declaração da empresa baseada em seus registros contábeis/fiscais (Fundamentação: art. 95 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência: Declaração e Comprovantes de Trabalho em Jornada Intermitente ou Parcial
 *Solicita declaração conjunta de empregador e empregado, contrato de trabalho e contracheques dos meses trabalhados.*
 
 ```text
-• Comprovação de Jornada de Trabalho (Intermitente ou Parcial): Apresente o contrato individual de trabalho, os contracheques dos meses trabalhados e uma declaração assinada pela empresa informando a modalidade da jornada (parcial ou intermitente) e os meses em que houve convocação e efetivo trabalho (Fundamentação: art. 240, inciso VII, e art. 427 da Instrução Normativa PRES/INSS nº 128/2022).
+- Comprovação de Jornada de Trabalho (Intermitente ou Parcial): Apresente o contrato individual de trabalho, os contracheques dos meses trabalhados e uma declaração assinada pela empresa informando a modalidade da jornada (parcial ou intermitente) e os meses em que houve convocação e efetivo trabalho (Fundamentação: art. 240, inciso VII, e art. 427 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência: Concordância para Convalidação de Contribuições como Segurado Facultativo
 *Solicita manifestação por escrito do segurado concordando em convalidar recolhimentos indevidos como obrigatório para facultativo.*
 
 ```text
-• Autorização para Aproveitamento de Contribuições como Facultativo: Apresente uma declaração simples, datada e assinada por você, informando que concorda em aproveitar (convalidar) para a categoria de Segurado Facultativo as contribuições das competências [COMPETÊNCIAS], que foram pagas com código de segurado obrigatório sem comprovação de trabalho naquele período (Fundamentação: art. 119 da Instrução Normativa PRES/INSS nº 128/2022).
+- Autorização para Aproveitamento de Contribuições como Facultativo: Apresente uma declaração simples, datada e assinada por você, informando que concorda em aproveitar (convalidar) para a categoria de Segurado Facultativo as contribuições das competências [COMPETÊNCIAS], que foram pagas com código de segurado obrigatório sem comprovação de trabalho naquele período (Fundamentação: art. 119 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência: Certidão Escolar para Comprovação de Período de Aluno-Aprendiz
 *Solicita Certidão Escolar detalhando autorização da escola, período exato de frequência e retribuição à conta do orçamento público.*
 
 ```text
-• Documentação de Aluno-Aprendiz (Períodos até 16/12/1998): Apresente Certidão Escolar emitida pela instituição de ensino profissionalizante informando: o ato/norma de autorização ou reconhecimento da escola pelo Governo; o curso frequentado; as datas exatas (dia, mês e ano) de início e fim do período como aluno-aprendiz; e a confirmação de que você recebia retribuição paga pelo orçamento público, mesmo que de forma indireta (como alimentação, uniforme/fardamento, material escolar ou participação na renda de encomendas executadas para terceiros). Caso a escola pertencesse a órgão público com Regime Próprio (RPPS) na época, apresente a Certidão de Tempo de Contribuição (CTC) emitida pelo respectivo órgão (Fundamentação: arts. 135 a 137 da Instrução Normativa PRES/INSS nº 128/2022 e arts. 128 e 129 da Portaria DIRBEN/INSS nº 990/2022).
+- Documentação de Aluno-Aprendiz (Períodos até 16/12/1998): Apresente Certidão Escolar emitida pela instituição de ensino profissionalizante informando: o ato/norma de autorização ou reconhecimento da escola pelo Governo; o curso frequentado; as datas exatas (dia, mês e ano) de início e fim do período como aluno-aprendiz; e a confirmação de que você recebia retribuição paga pelo orçamento público, mesmo que de forma indireta (como alimentação, uniforme/fardamento, material escolar ou participação na renda de encomendas executadas para terceiros). Caso a escola pertencesse a órgão público com Regime Próprio (RPPS) na época, apresente a Certidão de Tempo de Contribuição (CTC) emitida pelo respectivo órgão (Fundamentação: arts. 135 a 137 da Instrução Normativa PRES/INSS nº 128/2022 e arts. 128 e 129 da Portaria DIRBEN/INSS nº 990/2022).
 ```
 
-### [EXIGENCIA] Exigência: Declaração de Tempo de Contribuição ao RGPS — Órgão Público (DTC — Anexos IV e V)
+### [EXIGENCIA] Exigência: Declaração de Tempo de Contribuição ao RGPS - Órgão Público (DTC - Anexos IV e V)
 *Solicita os formulários Anexo IV (vínculo RGPS em ente público) e Anexo V (remunerações), com links oficiais e regras de assinatura.*
 
 ```text
-• Declaração de Tempo de Contribuição ao RGPS — Órgão Público ([NOME DO ÓRGÃO / ENTIDADE]): Para comprovar o período trabalhado em órgão público com contribuição para o INSS (RGPS), apresente o formulário "Declaração de Tempo de Contribuição ao RGPS - DTC" (Anexo IV da IN 128/2022) e, para comprovar os salários, o formulário do Anexo V, ambos preenchidos sem rasuras e sem alteração de modelo, assinados em todas as folhas pelo servidor responsável pela emissão e pelo dirigente do órgão público.
+- Declaração de Tempo de Contribuição ao RGPS - Órgão Público ([NOME DO ÓRGÃO / ENTIDADE]): Para comprovar o período trabalhado em órgão público com contribuição para o INSS (RGPS), apresente o formulário "Declaração de Tempo de Contribuição ao RGPS - DTC" (Anexo IV da IN 128/2022) e, para comprovar os salários, o formulário do Anexo V, ambos preenchidos sem rasuras e sem alteração de modelo, assinados em todas as folhas pelo servidor responsável pela emissão e pelo dirigente do órgão público.
 Obs.: Caso o Anexo IV descreva os documentos oficiais que serviram de base para sua emissão e declare expressamente que eles estão à disposição do INSS, fica dispensada a entrega separada das portarias/atos de nomeação e exoneração. A declaração deve conter apenas períodos com contribuição vertida ao INSS (RGPS).
-Os formulários oficiais seguem em anexo a esta exigência (também disponíveis na rede interna em https://portalin.prevnet/assets/anexos/in/AnexoIV.pdf e https://portalin.prevnet/assets/anexos/in/AnexoV.pdf) (Fundamentação: art. 69, § 1º, e Anexos IV e V da Instrução Normativa PRES/INSS nº 128/2022).
+Os formulários oficiais seguem em anexo a esta exigência (também disponíveis na rede interna em portalin.prevnet/assets/anexos/in/AnexoIV.pdf e portalin.prevnet/assets/anexos/in/AnexoV.pdf) (Fundamentação: art. 69, § 1º, e Anexos IV e V da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ## 6. Representação / Procuração
@@ -742,7 +742,7 @@ Os formulários oficiais seguem em anexo a esta exigência (também disponíveis
 *Solicita Procuração, Termo de Representação (para advogados/entidades ACT) ou documento de tutela/curatela com RG do representante.*
 
 ```text
-• Comprovação de Representação (Procuração ou Termo de Representação): Identificamos que este pedido foi feito por um representante, mas o documento que autoriza essa representação não foi anexado. Apresente um dos documentos abaixo, acompanhado do documento de identificação oficial com foto do representante:
+- Comprovação de Representação (Procuração ou Termo de Representação): Identificamos que este pedido foi feito por um representante, mas o documento que autoriza essa representação não foi anexado. Apresente um dos documentos abaixo, acompanhado do documento de identificação oficial com foto do representante:
   a) Procuração (pública ou particular) assinada pelo(a) segurado(a); ou
   b) Termo de Representação e Autorização de Acesso a Informações Previdenciárias (obrigatório quando o pedido é feito por advogado ou entidade conveniada via Acordo de Cooperação Técnica - ACT); ou
   c) Documento de representação legal (Termo de Tutela, Curatela ou Guarda).
@@ -753,7 +753,7 @@ Atenção: A falta desse documento impede a análise do pedido e acarretará o e
 *Solicita nova procuração quando o documento contém apenas assinatura do procurador/plataforma ou assinatura inválida do segurado.*
 
 ```text
-• Regularização da Assinatura na Procuração: A procuração apresentada não possui assinatura válida do(a) segurado(a) (outorgante) ou consta assinada apenas pelo procurador/plataforma. Apresente uma nova procuração em uma das seguintes formas:
+- Regularização da Assinatura na Procuração: A procuração apresentada não possui assinatura válida do(a) segurado(a) (outorgante) ou consta assinada apenas pelo procurador/plataforma. Apresente uma nova procuração em uma das seguintes formas:
   a) Procuração física: assinada à mão pelo(a) segurado(a) de forma igual ao documento de identidade (se o segurado não for alfabetizado, a procuração deve ser pública feita em cartório, exceto quando o procurador for advogado, conforme art. 541, § 1º, da IN 128/2022); ou
   b) Procuração eletrônica: assinada digitalmente pelo(a) próprio(a) segurado(a) utilizando, no mínimo, assinatura eletrônica avançada (como Gov.br nível Prata/Ouro ou certificado ICP-Brasil) que permita validar a autoria no arquivo original (Fundamentação: arts. 541, 542, § 3º, e 560 da Instrução Normativa PRES/INSS nº 128/2022; Decreto nº 10.543/2020, art. 4º, II; Lei nº 14.063/2020, art. 4º, II).
 ```
@@ -762,7 +762,7 @@ Atenção: A falta desse documento impede a análise do pedido e acarretará o e
 *Solicita novo instrumento de mandato (físico compatível/com firma reconhecida ou eletrônico avançado) por divergência de assinatura.*
 
 ```text
-• Divergência na Assinatura da Procuração / Termo de Representação: A assinatura do(a) segurado(a) na procuração está diferente da assinatura que consta no documento de identidade apresentado, gerando dúvida quanto à autenticidade. Apresente nova procuração:
+- Divergência na Assinatura da Procuração / Termo de Representação: A assinatura do(a) segurado(a) na procuração está diferente da assinatura que consta no documento de identidade apresentado, gerando dúvida quanto à autenticidade. Apresente nova procuração:
   a) Física: com assinatura manuscrita do(a) segurado(a) compatível com o documento de identificação oficial atual (ou com firma reconhecida em cartório, caso a assinatura tenha mudado). Se o(a) segurado(a) for não alfabetizado(a), exige-se procuração pública (salvo se outorgada a advogado, art. 541, § 1º, da IN 128/2022); ou
   b) Eletrônica: assinada digitalmente pelo(a) segurado(a) com assinatura eletrônica no mínimo avançada (Gov.br Prata/Ouro ou ICP-Brasil), enviando o arquivo PDF original assinado.
 A não regularização no prazo legal acarretará o encerramento do processo por desistência, sem análise do mérito (Fundamentação: arts. 525, 542, § 3º, 560 e 563 da Instrução Normativa PRES/INSS nº 128/2022; Decreto nº 10.543/2020).
@@ -772,21 +772,21 @@ A não regularização no prazo legal acarretará o encerramento do processo por
 *Reitera exigência de representação cumprida de forma incompleta no mesmo dia/próximo, alertando sobre o prazo de 30 dias.*
 
 ```text
-• Reiteração — Regularização da Assinatura / Representação: Reiteramos a solicitação para o cumprimento integral da exigência anterior, pois ainda não foi possível validar a assinatura do(a) segurado(a) (outorgante) no documento enviado. Caso a pendência não seja totalmente regularizada dentro do prazo legal de 30 (trinta) dias contados da ciência da exigência, o processo será encerrado por desistência do pedido, sem análise do mérito (Fundamentação: arts. 566 e 574, § 4º, inciso II, da Instrução Normativa PRES/INSS nº 128, de 28 de março de 2022).
+- Reiteração - Regularização da Assinatura / Representação: Reiteramos a solicitação para o cumprimento integral da exigência anterior, pois ainda não foi possível validar a assinatura do(a) segurado(a) (outorgante) no documento enviado. Caso a pendência não seja totalmente regularizada dentro do prazo legal de 30 (trinta) dias contados da ciência da exigência, o processo será encerrado por desistência do pedido, sem análise do mérito (Fundamentação: arts. 566 e 574, § 4º, inciso II, da Instrução Normativa PRES/INSS nº 128, de 28 de março de 2022).
 ```
 
 ### [EXIGENCIA] Exigência Representação: Procuração Apenas com Cláusula Ad Judicia (Sem Poderes para o INSS)
 *Solicita nova procuração com outorga expressa de poderes para atuar na esfera administrativa / perante o INSS.*
 
 ```text
-• Procuração com Poderes para Atuação no INSS (Via Administrativa): A procuração apresentada possui apenas poderes para processos judiciais (cláusula "ad judicia" ou "ad judicia et extra" sem especificar poderes administrativos). Apresente uma nova procuração que descreva expressamente os poderes para representar o(a) segurado(a) perante o INSS ou a Administração Pública (com qualificação das partes, local, data e assinatura válida do segurado) (Fundamentação: art. 43, § 6º, da Portaria DIRBEN/INSS nº 993/2022; arts. 542 e 574, § 4º, inciso II, alínea "a", da Instrução Normativa PRES/INSS nº 128/2022).
+- Procuração com Poderes para Atuação no INSS (Via Administrativa): A procuração apresentada possui apenas poderes para processos judiciais (cláusula "ad judicia" ou "ad judicia et extra" sem especificar poderes administrativos). Apresente uma nova procuração que descreva expressamente os poderes para representar o(a) segurado(a) perante o INSS ou a Administração Pública (com qualificação das partes, local, data e assinatura válida do segurado) (Fundamentação: art. 43, § 6º, da Portaria DIRBEN/INSS nº 993/2022; arts. 542 e 574, § 4º, inciso II, alínea "a", da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência Representação: Substabelecimento Sem Procuração Originária ou Sem Poderes
 *Solicita a procuração originária (com permissão para substabelecer) e substabelecimento regular com data igual ou posterior.*
 
 ```text
-• Regularização de Substabelecimento: Para validar a representação por substabelecimento, apresente:
+- Regularização de Substabelecimento: Para validar a representação por substabelecimento, apresente:
   1. A procuração originária assinada pelo(a) segurado(a), contendo autorização expressa para substabelecer poderes a outro representante; e
   2. O documento de substabelecimento identificando claramente o(a) segurado(a) e a procuração original (observando que a data do substabelecimento não pode ser anterior à data da procuração originária) (Fundamentação: art. 653 do Código Civil; arts. 532, 542 e 574, § 4º, inciso II, alínea "a", da Instrução Normativa PRES/INSS nº 128/2022; art. 43, § 9º, da Portaria DIRBEN/INSS nº 993/2022).
 ```
@@ -795,52 +795,52 @@ A não regularização no prazo legal acarretará o encerramento do processo por
 *Esclarece que simples "Termo de Autorização" não substitui Procuração para requerer benefícios ou praticar atos no processo.*
 
 ```text
-• Apresentação de Procuração Regular (Substituição de Termo de Autorização): Foi apresentado apenas um "Termo de Autorização", documento que não tem validade jurídica de procuração para fazer pedidos ou atuar no processo administrativo em nome do(a) segurado(a). Apresente uma Procuração regular (pública ou particular, assinada fisicamente conforme o RG ou eletronicamente em nível avançado/qualificado), contendo os dados completos do(a) segurado(a) e do(a) procurador(a) e poderes expressos para atuar junto ao INSS, acompanhada do documento de identificação do procurador (Fundamentação: art. 653 e seguintes do Código Civil; arts. 532 a 544 e art. 574, § 4º, inciso II, alínea "a", da Instrução Normativa PRES/INSS nº 128/2022).
+- Apresentação de Procuração Regular (Substituição de Termo de Autorização): Foi apresentado apenas um "Termo de Autorização", documento que não tem validade jurídica de procuração para fazer pedidos ou atuar no processo administrativo em nome do(a) segurado(a). Apresente uma Procuração regular (pública ou particular, assinada fisicamente conforme o RG ou eletronicamente em nível avançado/qualificado), contendo os dados completos do(a) segurado(a) e do(a) procurador(a) e poderes expressos para atuar junto ao INSS, acompanhada do documento de identificação do procurador (Fundamentação: art. 653 e seguintes do Código Civil; arts. 532 a 544 e art. 574, § 4º, inciso II, alínea "a", da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência Representação: Procuração com Campos Obrigatórios Ausentes
 *Solicita nova procuração contendo qualificação completa das partes, objetivo/extensão dos poderes, local, data e assinatura.*
 
 ```text
-• Procuração Preenchida com Todos os Dados Obrigatórios: A procuração enviada está incompleta. Apresente uma nova procuração contendo obrigatoriamente: identificação e qualificação completa do(a) segurado(a) e do(a) procurador(a); o objetivo e a descrição dos poderes concedidos perante o INSS (como requerer benefícios, cumprir exigências, recorrer); o prazo de validade (se houver); o local e a data de emissão; e a assinatura válida do(a) segurado(a) (Fundamentação: art. 560, § 1º, da Instrução Normativa PRES/INSS nº 128/2022).
+- Procuração Preenchida com Todos os Dados Obrigatórios: A procuração enviada está incompleta. Apresente uma nova procuração contendo obrigatoriamente: identificação e qualificação completa do(a) segurado(a) e do(a) procurador(a); o objetivo e a descrição dos poderes concedidos perante o INSS (como requerer benefícios, cumprir exigências, recorrer); o prazo de validade (se houver); o local e a data de emissão; e a assinatura válida do(a) segurado(a) (Fundamentação: art. 560, § 1º, da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência Representação: Envio do Arquivo PDF Original Assinado Digitalmente
 *Solicita o arquivo PDF digital original (e não foto/impressão digitalizada) para permitir a validação da assinatura eletrônica.*
 
 ```text
-• Envio do Arquivo Digital Original da Procuração Eletrônica: Não foi possível validar a assinatura eletrônica da procuração porque o arquivo anexado é uma imagem, foto ou cópia impressa/regravada, o que corrompe o certificado digital. Anexe o arquivo PDF digital original exatamente no formato em que foi gerado e assinado na plataforma eletrônica, sem imprimir nem converter, para que o INSS possa verificar a validade da assinatura online (Fundamentação: art. 108, §§ 1º e 4º, da Instrução Normativa PRES/INSS nº 128/2022; Medida Provisória nº 2.200-2/2001, art. 10).
+- Envio do Arquivo Digital Original da Procuração Eletrônica: Não foi possível validar a assinatura eletrônica da procuração porque o arquivo anexado é uma imagem, foto ou cópia impressa/regravada, o que corrompe o certificado digital. Anexe o arquivo PDF digital original exatamente no formato em que foi gerado e assinado na plataforma eletrônica, sem imprimir nem converter, para que o INSS possa verificar a validade da assinatura online (Fundamentação: art. 108, §§ 1º e 4º, da Instrução Normativa PRES/INSS nº 128/2022; Medida Provisória nº 2.200-2/2001, art. 10).
 ```
 
 ### [EXIGENCIA] Exigência Representação: Nível de Assinatura Eletrônica Insuficiente (Assinatura Simples)
 *Recusa assinatura eletrônica simples em procuração e solicita assinatura no mínimo avançada (Gov.br Prata/Ouro) ou qualificada (ICP-Brasil).*
 
 ```text
-• Procuração com Assinatura Eletrônica Avançada ou Qualificada: A procuração apresentada foi assinada com "assinatura eletrônica simples", que não possui o nível de segurança exigido por lei para outorga de poderes no INSS. Apresente nova procuração assinada pelo(a) segurado(a) com assinatura eletrônica no mínimo Avançada (como a assinatura Gov.br de conta nível Prata ou Ouro) ou Qualificada (certificado digital ICP-Brasil), ou envie procuração física assinada à mão conforme o documento de identidade (Fundamentação: Decreto nº 10.543/2020, art. 4º, II; Lei nº 14.063/2020, art. 5º; arts. 108 e 560 da Instrução Normativa PRES/INSS nº 128/2022).
+- Procuração com Assinatura Eletrônica Avançada ou Qualificada: A procuração apresentada foi assinada com "assinatura eletrônica simples", que não possui o nível de segurança exigido por lei para outorga de poderes no INSS. Apresente nova procuração assinada pelo(a) segurado(a) com assinatura eletrônica no mínimo Avançada (como a assinatura Gov.br de conta nível Prata ou Ouro) ou Qualificada (certificado digital ICP-Brasil), ou envie procuração física assinada à mão conforme o documento de identidade (Fundamentação: Decreto nº 10.543/2020, art. 4º, II; Lei nº 14.063/2020, art. 5º; arts. 108 e 560 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência Representação: Ausência de Link / Chave / Código para Verificação da Assinatura
 *Solicita documento eletrônico contendo o endereço (link), código/chave de validação, data/hora e dados do signatário.*
 
 ```text
-• Dados para Validação da Assinatura Eletrônica na Procuração: O documento eletrônico de representação enviado não apresenta os dados necessários para conferência da sua autenticidade (endereço do site validador, chave de acesso ou código de verificação, data e hora da assinatura e identificação do signatário). Envie o documento completo contendo o relatório/código de validação online ou o arquivo PDF original assinado com certificado ICP-Brasil / Gov.br (Fundamentação: art. 108, § 4º, e art. 560, § 4º, da Instrução Normativa PRES/INSS nº 128/2022).
+- Dados para Validação da Assinatura Eletrônica na Procuração: O documento eletrônico de representação enviado não apresenta os dados necessários para conferência da sua autenticidade (endereço do site validador, chave de acesso ou código de verificação, data e hora da assinatura e identificação do signatário). Envie o documento completo contendo o relatório/código de validação online ou o arquivo PDF original assinado com certificado ICP-Brasil / Gov.br (Fundamentação: art. 108, § 4º, e art. 560, § 4º, da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência Representação: Divergência na Verificação de Autoria / Conteúdo da Procuração
 *Solicita novo documento de representação quando há divergência entre o documento anexado e os dados retornados pela plataforma certificadora.*
 
 ```text
-• Novo Documento de Representação (Divergência na Validação Digital): Ao consultar o código/chave de verificação informado, constatamos divergência entre o documento anexado ao processo e as informações registradas na plataforma de assinatura digital. Apresente um novo documento de representação assinado eletronicamente pelo(a) segurado(a) (no mínimo com assinatura avançada), enviando o arquivo PDF original íntegro cujos dados de verificação correspondam exatamente ao documento anexado (Fundamentação: Medida Provisória nº 2.200-2/2001, art. 10; Lei nº 14.063/2020, art. 4º; art. 108, § 1º, e art. 560 da Instrução Normativa PRES/INSS nº 128/2022).
+- Novo Documento de Representação (Divergência na Validação Digital): Ao consultar o código/chave de verificação informado, constatamos divergência entre o documento anexado ao processo e as informações registradas na plataforma de assinatura digital. Apresente um novo documento de representação assinado eletronicamente pelo(a) segurado(a) (no mínimo com assinatura avançada), enviando o arquivo PDF original íntegro cujos dados de verificação correspondam exatamente ao documento anexado (Fundamentação: Medida Provisória nº 2.200-2/2001, art. 10; Lei nº 14.063/2020, art. 4º; art. 108, § 1º, e art. 560 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
-### [DESPACHO] Despacho Representação: Encerramento Sem Análise do Mérito (Não Cumprimento em 30 Dias — Art. 574, § 4º, II)
+### [DESPACHO] Despacho Representação: Encerramento Sem Análise do Mérito (Não Cumprimento em 30 Dias - Art. 574, § 4º, II)
 *Despacho estruturado em 9 itens para encerrar processo sem resolução de mérito após 30 dias sem sanar vício de representação (alínea a) ou habilitação (alínea b).*
 
 ```text
 1. Trata-se de requerimento de [NOME DO BENEFÍCIO / SERVIÇO SOLICITADO] que será encerrado sem análise do mérito, em razão do não cumprimento integral das exigências formuladas para a correta instrução e habilitação do pedido, conforme detalhado abaixo.
 2. Em [DATA DE EMISSÃO DA EXIGÊNCIA], foi emitida carta de exigência, da qual o(a) interessado(a) tomou ciência em [DATA DA CIÊNCIA OU 6º DIA APÓS E-MAIL/SMS], solicitando a apresentação de documentos/esclarecimentos imprescindíveis, especificamente quanto a [NATUREZA DA EXIGÊNCIA, EX: regularização da representação processual / apresentação do arquivo original da procuração com assinatura eletrônica válida]. Foi concedido o prazo legal para cumprimento.
 3. Verifica-se que, decorrido o prazo de 30 (trinta) dias da ciência da referida exigência, o(a) interessado(a) não apresentou os elementos solicitados de forma a sanar as seguintes pendências:
-• [DESCREVER A PENDÊNCIA NÃO SANADA, EX: Não apresentação de procuração com assinatura eletrônica avançada ou qualificada do outorgante / Não fornecimento do arquivo PDF original para validação / Manutenção de vício de representação].
+- [DESCREVER A PENDÊNCIA NÃO SANADA, EX: Não apresentação de procuração com assinatura eletrônica avançada ou qualificada do outorgante / Não fornecimento do arquivo PDF original para validação / Manutenção de vício de representação].
 4. O não atendimento das referidas exigências impede a análise de mérito do requerimento, configurando, nos termos do art. 574, § 4º, inciso II, da Instrução Normativa PRES/INSS nº 128, de 28 de março de 2022:
 [ALÍNEA APLICÁVEL: a) vício de representação não sanado; e/ou b) ausência de elementos suficientes para a habilitação do pedido.]
 5. A regularidade da representação e a validade dos documentos eletrônicos são requisitos essenciais para a segurança jurídica dos atos processuais, conforme estabelecido pela Medida Provisória nº 2.200-2/2001, pela Lei nº 14.063/2020, pelo Decreto nº 10.543/2020 e pelos artigos 108 e 560 da Instrução Normativa PRES/INSS nº 128/2022.
@@ -854,24 +854,24 @@ A não regularização no prazo legal acarretará o encerramento do processo por
 *Guia de consulta rápida com exemplos práticos de quando aplicar a alínea 'a' ou a alínea 'b' do art. 574, § 4º, II, da IN 128/2022.*
 
 ```text
-GUIA DE CONSULTA — ART. 574, § 4º, INCISO II, DA IN 128/2022:
+GUIA DE CONSULTA - ART. 574, § 4º, INCISO II, DA IN 128/2022:
 
 1. Alínea "a": Vício de representação não sanado
-• Quando usar: Exclusivamente quando o problema que impede a análise do mérito é a irregularidade na representação por terceiro (procurador, advogado, curador, entidade conveniada).
-• Exemplos práticos para colar no item 3 do despacho:
-  - "Não apresentação de procuração com assinatura eletrônica avançada ou qualificada do outorgante (requerente)";
-  - "Procuração apresentada com assinatura eletrônica de nível simples, inferior ao exigido pelo Decreto nº 10.543/2020";
-  - "Procuração com campos obrigatórios ausentes que invalidam o mandato (art. 560, § 1º, da IN 128/2022)";
-  - "Não fornecimento do arquivo PDF original da procuração eletrônica para validação da assinatura";
-  - "Divergência entre o documento de representação anexado e os dados verificados na plataforma certificadora";
+- Quando usar: Exclusivamente quando o problema que impede a análise do mérito é a irregularidade na representação por terceiro (procurador, advogado, curador, entidade conveniada).
+- Exemplos práticos para colar no item 3 do despacho:
+  - "Não apresentação de procuração com assinatura eletrônica avançada ou qualificada do outorgante (requerente)".
+  - "Procuração apresentada com assinatura eletrônica de nível simples, inferior ao exigido pelo Decreto nº 10.543/2020".
+  - "Procuração com campos obrigatórios ausentes que invalidam o mandato (art. 560, § 1º, da IN 128/2022)".
+  - "Não fornecimento do arquivo PDF original da procuração eletrônica para validação da assinatura".
+  - "Divergência entre o documento de representação anexado e os dados verificados na plataforma certificadora".
   - "Procurador com poderes insuficientes (apenas cláusula ad judicia) ou substabelecimento sem procuração originária".
 
 2. Alínea "b": Ausência de elementos suficientes para a habilitação do pedido
-• Quando usar: Quando, mesmo com representação regular (ou pedido feito pelo próprio segurado), faltam peças-chave indispensáveis para que a análise possa sequer começar.
-• Exemplos práticos para colar no item 3 do despacho:
-  - "Falta de documento de identificação oficial do próprio requerente (RG/CPF) que permita sua qualificação inequívoca";
-  - "Ausência completa de formulário obrigatório essencial ao benefício requerido (ex.: Autodeclaração do Segurado Especial ou PPP solicitado em exigência e não apresentado)";
-  - "Ausência de documento mínimo que comprove o fato gerador do benefício (ex.: Certidão de Óbito na pensão por morte)";
+- Quando usar: Quando, mesmo com representação regular (ou pedido feito pelo próprio segurado), faltam peças-chave indispensáveis para que a análise possa sequer começar.
+- Exemplos práticos para colar no item 3 do despacho:
+  - "Falta de documento de identificação oficial do próprio requerente (RG/CPF) que permita sua qualificação inequívoca".
+  - "Ausência completa de formulário obrigatório essencial ao benefício requerido (ex.: Autodeclaração do Segurado Especial ou PPP solicitado em exigência e não apresentado)".
+  - "Ausência de documento mínimo que comprove o fato gerador do benefício (ex.: Certidão de Óbito na pensão por morte)".
   - "Ausência de Termo de Requerimento devidamente assinado quando suscitada dúvida fundada sobre a assinatura".
 ```
 
@@ -881,7 +881,7 @@ GUIA DE CONSULTA — ART. 574, § 4º, INCISO II, DA IN 128/2022:
 *Comunica que a renda ultrapassou 1/4 do salário mínimo e orienta como comprovar gastos contínuos com saúde (valores médios ou efetivos).*
 
 ```text
-• Comprovação de Despesas Contínuas com Saúde (Dedução na Renda Familiar do BPC):
+- Comprovação de Despesas Contínuas com Saúde (Dedução na Renda Familiar do BPC):
 Identificamos que a renda por pessoa da sua família ultrapassou o limite de 1/4 do salário mínimo. Para que possamos abater (descontar) gastos contínuos com saúde do titular do pedido, apresente os documentos abaixo:
 
 1. Categorias e Valores Médios para Desconto Mensal:
@@ -892,13 +892,13 @@ Identificamos que a renda por pessoa da sua família ultrapassou o limite de 1/4
   e) Alimentação especial (enteral/parenteral): R$ 147,00.
 
 2. Documentos Obrigatórios para Aplicar o Desconto pelo Valor Médio:
-  • Receita, laudo ou prescrição médica informando a necessidade de uso contínuo do medicamento, fralda, alimentação especial ou tratamento;
-  • Declaração da Secretaria de Saúde / posto de saúde (SUS) informando que o item ou tratamento não é fornecido gratuitamente na rede pública (ou comprovante da negativa);
-  • Declaração do órgão de Assistência Social (SUAS), caso precise comprovar a falta de vaga em Centro-Dia;
-  • Declaração assinada por você informando que concorda com o desconto pelo valor médio tabelado acima.
+  - Receita, laudo ou prescrição médica informando a necessidade de uso contínuo do medicamento, fralda, alimentação especial ou tratamento;
+  - Declaração da Secretaria de Saúde / posto de saúde (SUS) informando que o item ou tratamento não é fornecido gratuitamente na rede pública (ou comprovante da negativa);
+  - Declaração do órgão de Assistência Social (SUAS), caso precise comprovar a falta de vaga em Centro-Dia;
+  - Declaração assinada por você informando que concorda com o desconto pelo valor médio tabelado acima.
 
 3. Caso seus gastos mensais sejam maiores que o valor médio tabelado:
-  • Além dos documentos médicos e da negativa do SUS/SUAS, apresente os recibos ou notas fiscais de compra de cada um dos últimos 12 meses anteriores ao pedido do BPC (ou proporcional à idade, se criança menor de 1 ano), junto com uma declaração informando que não concorda com o valor médio.
+  - Além dos documentos médicos e da negativa do SUS/SUAS, apresente os recibos ou notas fiscais de compra de cada um dos últimos 12 meses anteriores ao pedido do BPC (ou proporcional à idade, se criança menor de 1 ano), junto com uma declaração informando que não concorda com o valor médio.
 
 Em caso de dúvidas, procure o CRAS mais próximo (Fundamentação: art. 20, § 11-A, da Lei nº 8.742/1993 e Portaria Conjunta MC/MTP/INSS nº 14/2021).
 ```
@@ -907,18 +907,18 @@ Em caso de dúvidas, procure o CRAS mais próximo (Fundamentação: art. 20, § 
 *Solicita inscrição ou atualização do CadÚnico no CRAS contendo o CPF de todos os membros do grupo familiar.*
 
 ```text
-• Inscrição ou Atualização do Cadastro Único (CadÚnico): Faça a inscrição ou a atualização do seu Cadastro Único (CadÚnico) no CRAS (Centro de Referência de Assistência Social) ou posto de atendimento da prefeitura mais próximo da sua casa (consulte os endereços em https://mapa-social.cidadania.gov.br/?e=1). Atenção: o CadÚnico deve estar atualizado e conter obrigatoriamente o número do CPF de todas as pessoas que moram na casa e fazem parte do grupo familiar (Fundamentação: art. 20, § 12, da Lei nº 8.742/1993 e Decreto nº 6.214/2007).
+- Inscrição ou Atualização do Cadastro Único (CadÚnico): Faça a inscrição ou a atualização do seu Cadastro Único (CadÚnico) no CRAS (Centro de Referência de Assistência Social) ou posto de atendimento da prefeitura mais próximo da sua casa (consulte os endereços em mapa-social.cidadania.gov.br/). Atenção: o CadÚnico deve estar atualizado e conter obrigatoriamente o número do CPF de todas as pessoas que moram na casa e fazem parte do grupo familiar (Fundamentação: art. 20, § 12, da Lei nº 8.742/1993 e Decreto nº 6.214/2007).
 ```
 
 ### [EXIGENCIA] Exigência LOAS/BPC: Termo de Compromisso, Termo de Responsabilidade e Documentos do Representante Legal
 *Solicita documentos do titular e do representante legal, comprovante de endereço e Termos de Responsabilidade e Compromisso.*
 
 ```text
-• Documentação do Representante Legal (BPC/LOAS): Apresente os seguintes documentos:
+- Documentação do Representante Legal (BPC/LOAS): Apresente os seguintes documentos:
   1. Documento de identificação oficial com foto, CPF e comprovante de endereço do(a) titular do pedido;
   2. Documento de identificação oficial com foto, CPF e comprovante de endereço do(a) Representante Legal;
-  3. Termo de Responsabilidade preenchido e assinado pelo representante (pai, mãe, tutor, curador, guardião, procurador ou administrador provisório): https://www.gov.br/inss/pt-br/centrais-de-conteudo/formularios/antigos/TermodeResponsabilidade.pdf
-  4. Termo de Compromisso preenchido e assinado (quando se tratar de tutela, curatela ou guarda): https://www.gov.br/inss/pt-br/centrais-de-conteudo/formularios/inss_termo-de-compromisso.docx
+  3. Termo de Responsabilidade preenchido e assinado pelo representante (pai, mãe, tutor, curador, guardião, procurador ou administrador provisório): gov.br/inss/pt-br/centrais-de-conteudo/formularios/antigos/TermodeResponsabilidade.pdf
+  4. Termo de Compromisso preenchido e assinado (quando se tratar de tutela, curatela ou guarda): gov.br/inss/pt-br/centrais-de-conteudo/formularios/inss_termo-de-compromisso.docx
 (Fundamentação: arts. 527 e 547 da Instrução Normativa PRES/INSS nº 128/2022 e Decreto nº 6.214/2007).
 ```
 
@@ -926,19 +926,19 @@ Em caso de dúvidas, procure o CRAS mais próximo (Fundamentação: art. 20, § 
 *Orienta a regularização da biometria do titular ou representante legal na Justiça Eleitoral, CIN ou CNH.*
 
 ```text
-• Regularização de Biometria para o BPC/LOAS: Para continuar a análise do seu Benefício de Prestação Continuada (BPC), é obrigatório que o(a) titular ou o(a) representante legal possua biometria (digitais e foto) registrada na Carteira de Identidade Nacional (CIN), no Título de Eleitor ou na Carteira Nacional de Habilitação (CNH). Para regularizar, escolha uma das opções abaixo:
+- Regularização de Biometria para o BPC/LOAS: Para continuar a análise do seu Benefício de Prestação Continuada (BPC), é obrigatório que o(a) titular ou o(a) representante legal possua biometria (digitais e foto) registrada na Carteira de Identidade Nacional (CIN), no Título de Eleitor ou na Carteira Nacional de Habilitação (CNH). Para regularizar, escolha uma das opções abaixo:
   1. Compareça ao Cartório Eleitoral onde você fez a biometria e solicite a atualização/individualização do seu cadastro biométrico para que ele fique disponível na base de dados do Governo Federal; ou
   2. Faça o cadastramento da sua biometria emitindo a Carteira de Identidade Nacional (CIN) no órgão de identificação do seu estado ou na Carteira Nacional de Habilitação (CNH), anexando o comprovante pelo Meu INSS (Fundamentação: Lei nº 8.742/1993 e Decreto nº 12.561/2025).
 ```
 
-### [EXIGENCIA] Exigência LOAS/BPC: Vínculo Societário Ativo (CNPJ / MEI — Declaração e DEFIS / DASN-SIMEI)
+### [EXIGENCIA] Exigência LOAS/BPC: Vínculo Societário Ativo (CNPJ / MEI - Declaração e DEFIS / DASN-SIMEI)
 *Solicita declaração de renda/pró-labore ou declaração fiscal de inatividade (DEFIS/DASN-SIMEI) para sócio de empresa ativa no grupo familiar.*
 
 ```text
-• Esclarecimento sobre Participação em Empresa Ativa ([NOME DO COMPONENTE] — Empresa [NOME DA EMPRESA / CNPJ]):
+- Esclarecimento sobre Participação em Empresa Ativa ([NOME DO COMPONENTE] - Empresa [NOME DA EMPRESA / CNPJ]):
 Identificamos nos sistemas da Receita Federal que você ou um membro da sua família consta como sócio(a) ou titular de empresa ativa. Para prosseguir com a análise do BPC, apresente:
   1. Declaração de Atividade e Renda: Declaração datada e assinada pelo(a) sócio(a) ([NOME DO COMPONENTE]) informando se trabalha na empresa [NOME DA EMPRESA / CNPJ] e qual é o valor mensal recebido (pró-labore ou retirada de lucros);
-  2. Comprovação de Empresa Sem Faturamento ou Inativa: Caso a empresa não esteja funcionando ou não gere nenhuma renda ao(à) sócio(a), apresente obrigatoriamente a declaração fiscal do último ano entregue à Receita Federal — DEFIS (para Simples Nacional), DASN-SIMEI (para MEI) ou Escrituração Contábil/ECF — comprovando a ausência de faturamento ou de retirada de pró-labore;
+  2. Comprovação de Empresa Sem Faturamento ou Inativa: Caso a empresa não esteja funcionando ou não gere nenhuma renda ao(à) sócio(a), apresente obrigatoriamente a declaração fiscal do último ano entregue à Receita Federal - DEFIS (para Simples Nacional), DASN-SIMEI (para MEI) ou Escrituração Contábil/ECF - comprovando a ausência de faturamento ou de retirada de pró-labore;
   3. Atualização do CadÚnico: Se houver qualquer renda recebida da empresa, atualize primeiro o CadÚnico no CRAS para registrar essa renda corretamente (Fundamentação: art. 20 da Lei nº 8.742/1993 e Decreto nº 6.214/2007).
 ```
 
@@ -946,7 +946,7 @@ Identificamos nos sistemas da Receita Federal que você ou um membro da sua fam�
 *Esclarece que a situação de 'Inapta' na Receita Federal não comprova por si só a ausência de atividade, exigindo declaração e DEFIS/DASN-SIMEI.*
 
 ```text
-• Esclarecimento sobre Participação em Empresa na Situação INAPTA ([NOME DO COMPONENTE] — Empresa [NOME DA EMPRESA / CNPJ]):
+- Esclarecimento sobre Participação em Empresa na Situação INAPTA ([NOME DO COMPONENTE] - Empresa [NOME DA EMPRESA / CNPJ]):
 Identificamos que consta vínculo societário na empresa [NOME DA EMPRESA / CNPJ]. Embora o CNPJ conste como "INAPTO" na Receita Federal (por falta de entrega de declarações fiscais), essa situação não comprova automaticamente o fechamento de fato da empresa nem a ausência de renda. Por isso, apresente:
   1. Declaração de Atividade e Renda: Declaração datada e assinada por [NOME DO COMPONENTE] informando se exerce atividade na empresa e, em caso positivo, o valor mensal recebido;
   2. Comprovação Documental de Inatividade ou Renda Zero: Caso a empresa esteja fechada de fato ou sem gerar renda, apresente a DEFIS, a DASN-SIMEI (no caso de MEI), o comprovante de baixa ou a escrituração fiscal do último exercício comprovando a ausência de faturamento;
@@ -957,7 +957,7 @@ Identificamos que consta vínculo societário na empresa [NOME DA EMPRESA / CNPJ
 *Fundamenta o cômputo de rendas antes excluídas (incisos I, II, IV e V do § 2º do art. 4º do Decreto 6.214/2007, revogados pelo Decreto 12.534/2025).*
 
 ```text
-Informativo Técnico — Alteração no Cálculo da Renda Familiar (BPC):
+Informativo Técnico - Alteração no Cálculo da Renda Familiar (BPC):
 O Decreto nº 12.534, de 25 de junho de 2025, que alterou o Decreto nº 6.214/2007 (Regulamento do Benefício de Prestação Continuada), revogou os incisos I, II, IV e V do § 2º do art. 4º:
 - I: benefícios e auxílios assistenciais de natureza eventual e temporária (Revogado pelo Decreto nº 12.534/2025);
 - II: valores oriundos de programas sociais de transferência de renda (Revogado pelo Decreto nº 12.534/2025);
@@ -983,7 +983,7 @@ Verifica-se que o(a) requerente não cumpriu a exigência destinada à comprova�
 *Notifica o beneficiário da Reavaliação do BPC por renda acima de 1/4 do salário mínimo, abrindo prazo de 30 dias para defesa, deduções de saúde ou comprovação de filho casado/união estável.*
 
 ```text
-• Apresentação de Defesa — Reavaliação do BPC/LOAS (Protocolo [PROTOCOLO]):
+- Apresentação de Defesa - Reavaliação do BPC/LOAS (Protocolo [PROTOCOLO]):
 Em revisão periódica do seu Benefício de Prestação Continuada (art. 21 da Lei nº 8.742/1993), identificamos que a renda mensal por pessoa da sua família está acima do limite de 1/4 do salário mínimo.
 Você tem o prazo de 30 (trinta) dias para apresentar sua DEFESA pelo aplicativo/site Meu INSS ou pela Central 135 (opção "Cumprimento de Exigência"), enviando os documentos que comprovem que você continua atendendo às regras do benefício:
   a) Comprovantes de gastos contínuos com saúde (medicamentos, fraldas, alimentação especial, consultas ou tratamentos médicos do idoso ou da pessoa com deficiência) que não sejam fornecidos gratuitamente pelo SUS/SUAS, acompanhados de receita médica e da negativa de fornecimento pelo órgão público (§ 4º do art. 8º da Portaria Conjunta MDS nº 3/2018);
@@ -991,10 +991,10 @@ Você tem o prazo de 30 (trinta) dias para apresentar sua DEFESA pelo aplicativo
   c) Comprovante de atualização do Cadastro Único (CadÚnico) no CRAS;
   d) Declaração informando se recebe ou não outro benefício da Previdência Social ou de outro regime.
 
-• Alternativa — Caso o(a) filho(a) [NOME DO FILHO(A)] seja casado(a), divorciado(a) ou viva/tenha vivido em união estável:
+- Alternativa - Caso o(a) filho(a) [NOME DO FILHO(A)] seja casado(a), divorciado(a) ou viva/tenha vivido em união estável:
 Apresente a Certidão de Casamento ou a Escritura/Comprovantes de União Estável dele(a). Comprovado o casamento ou a união estável, o(a) filho(a) deixa de fazer parte do cálculo da renda do BPC (conforme art. 20, § 1º, da Lei nº 8.742/1993), não sendo necessário apresentar os comprovantes de despesas médicas acima.
 
-• Aviso sobre Auxílio-Inclusão: Caso o ingresso no mercado de trabalho seja da própria pessoa com deficiência titular do BPC, você pode ter direito ao Auxílio-Inclusão (Portaria Conjunta nº 13/2021), que pode ser solicitado no Meu INSS ou pelo 135.
+- Aviso sobre Auxílio-Inclusão: Caso o ingresso no mercado de trabalho seja da própria pessoa com deficiência titular do BPC, você pode ter direito ao Auxílio-Inclusão (Portaria Conjunta nº 13/2021), que pode ser solicitado no Meu INSS ou pelo 135.
 Atenção: O benefício será suspenso caso não seja apresentada defesa no prazo de 30 dias ou caso se confirme que a renda permanece acima do limite legal.
 ```
 
@@ -1002,8 +1002,8 @@ Atenção: O benefício será suspenso caso não seja apresentada defesa no praz
 *Solicita atualização do CadÚnico no CRAS para corrigir informação de recebimento de outro benefício pelo titular.*
 
 ```text
-• Atualização do CadÚnico (Reavaliação do BPC — Protocolo [PROTOCOLO]):
-Compareça ao CRAS (Centro de Referência de Assistência Social) ou posto do CadÚnico da sua cidade no prazo de 30 (trinta) dias para atualizar o Cadastro Único da sua família (consulte o endereço mais próximo em https://mapa-social.cidadania.gov.br/?e=1).
+- Atualização do CadÚnico (Reavaliação do BPC - Protocolo [PROTOCOLO]):
+Compareça ao CRAS (Centro de Referência de Assistência Social) ou posto do CadÚnico da sua cidade no prazo de 30 (trinta) dias para atualizar o Cadastro Único da sua família (consulte o endereço mais próximo em mapa-social.cidadania.gov.br/).
 Motivo da atualização: Consta no CadÚnico a informação incorreta de recebimento de outro benefício/renda em nome do(a) próprio(a) titular, além de ser necessário conferir o CPF de todos os moradores da casa (Fundamentação: art. 21 da Lei nº 8.742/1993).
 ```
 
@@ -1011,7 +1011,7 @@ Motivo da atualização: Consta no CadÚnico a informação incorreta de recebim
 *Informa o recebimento dos documentos na Reavaliação do BPC e pede que o segurado mantenha a tarefa em exigência para controle interno.*
 
 ```text
-• Aviso sobre a Reavaliação do seu BPC: Recebemos os seus documentos e daremos andamento à análise da Reavaliação do Benefício de Prestação Continuada. Você não precisa fazer mais nada neste momento. Por favor, deixe este pedido na situação "Em exigência" (não clique em "Cumprir exigência" novamente) para controle interno e prioridade na conclusão do seu atendimento.
+- Aviso sobre a Reavaliação do seu BPC: Recebemos os seus documentos e daremos andamento à análise da Reavaliação do Benefício de Prestação Continuada. Você não precisa fazer mais nada neste momento. Por favor, deixe este pedido na situação "Em exigência" (não clique em "Cumprir exigência" novamente) para controle interno e prioridade na conclusão do seu atendimento.
 ```
 
 ### [DESPACHO] Despacho REAVBPC: Comunicado de Conclusão no PAT
@@ -1033,7 +1033,7 @@ Trata-se de reavaliação por superação de renda (REAVBPC). Constata-se que o 
 *Acolhe a defesa na tarefa REAVBPC (cód. 17795) após dedução de gastos contínuos com saúde no SIBE PU, mantendo o BPC.*
 
 ```text
-ASSUNTO: ANÁLISE DE DEFESA — REAVALIAÇÃO BPC (Superação de Renda)
+ASSUNTO: ANÁLISE DE DEFESA - REAVALIAÇÃO BPC (Superação de Renda)
 Trata-se da tarefa REAVBPC (Cód. 17795), instaurada para apuração de indícios de superação de renda per capita, conforme o art. 11 da Portaria Conjunta DIRBEN/DTI/INSS nº 35/2026.
 Defesa apresentada tempestivamente pelo(a) beneficiário(a)/representante.
 Na análise do mérito, foram apresentados documentos comprobatórios de despesas contínuas ([ESPECIFICAR: medicamentos / fraldas / consultas / alimentação especial]) não fornecidas pelo SUS/SUAS.
@@ -1047,7 +1047,7 @@ Arquive-se.
 *Acolhe a defesa na tarefa REAVBPC (cód. 17795) após atualização da composição familiar no CadÚnico, mantendo o BPC.*
 
 ```text
-ASSUNTO: ANÁLISE DE DEFESA — REAVALIAÇÃO BPC (Atualização CadÚnico)
+ASSUNTO: ANÁLISE DE DEFESA - REAVALIAÇÃO BPC (Atualização CadÚnico)
 Trata-se da tarefa REAVBPC (Cód. 17795), instaurada para apuração de indícios de superação de renda per capita, conforme o art. 11 da Portaria Conjunta DIRBEN/DTI/INSS nº 35/2026.
 Defesa apresentada tempestivamente pelo(a) beneficiário(a)/representante.
 Na análise do mérito, foram apresentados documentos comprobatórios de atualização do CadÚnico.
@@ -1061,7 +1061,7 @@ Arquive-se.
 *Exclui do cálculo no SIBE PU pessoa que reside no domicílio mas não integra o conceito legal de grupo familiar (art. 20, § 1º, da Lei 8.742/93).*
 
 ```text
-ASSUNTO: ANÁLISE DE COMPOSIÇÃO FAMILIAR — MANUTENÇÃO
+ASSUNTO: ANÁLISE DE COMPOSIÇÃO FAMILIAR - MANUTENÇÃO
 Trata-se da tarefa REAVBPC (Cód. 17795), instaurada por indício de superação de renda.
 Na análise detalhada da composição familiar constante no CadÚnico, verificou-se a inclusão de pessoa(s) que, embora resida(m) no mesmo domicílio, não integra(m) o conceito legal de Grupo Familiar para fins de BPC, conforme taxativamente previsto no art. 20, § 1º, da Lei nº 8.742/1993.
 Procedeu-se, no sistema SIBE PU, à exclusão do cálculo de renda do(a) Sr(a). [NOME DA PESSOA EXCLUÍDA], CPF [CPF], por tratar-se de [GRAU DE PARENTESCO / ESTADO CIVIL: EX: FILHA CASADA / TIO / NETO / IRMÃO CASADO].
@@ -1071,11 +1071,11 @@ CONCLUSÃO: Superado o indício de irregularidade pela correção do grupo famil
 Arquive-se.
 ```
 
-### [DESPACHO] Despacho REAVBPC (Suspensão): Defesa Improcedente — Documentos/Despesas Insuficientes
+### [DESPACHO] Despacho REAVBPC (Suspensão): Defesa Improcedente - Documentos/Despesas Insuficientes
 *Julga improcedente a defesa quando as despesas apresentadas não cumprem os requisitos de dedução legal e suspende o BPC.*
 
 ```text
-ASSUNTO: ANÁLISE DE DEFESA E CONCLUSÃO — SUSPENSÃO
+ASSUNTO: ANÁLISE DE DEFESA E CONCLUSÃO - SUSPENSÃO
 Trata-se de Reavaliação do BPC por superação de renda (REAVBPC).
 Defesa apresentada; contudo, os documentos não foram suficientes para afastar a superação de renda identificada pelo cruzamento de dados (CNIS/CadÚnico).
 As despesas apresentadas não se enquadram nas hipóteses de dedução legal da Portaria Conjunta MC/MTP/INSS nº 14/2021 e do art. 20, § 11-A, c/c art. 21 da Lei nº 8.742/1993:
@@ -1090,7 +1090,7 @@ Notifique-se o(a) interessado(a) quanto à decisão e ao prazo de 30 (trinta) di
 *Determina a suspensão do BPC por decurso do prazo de 30 dias sem apresentação de defesa pelo beneficiário.*
 
 ```text
-ASSUNTO: DECURSO DE PRAZO — SUSPENSÃO DO BENEFÍCIO
+ASSUNTO: DECURSO DE PRAZO - SUSPENSÃO DO BENEFÍCIO
 Trata-se de Reavaliação do BPC (REAVBPC). Notificação de defesa emitida em [DATA DA NOTIFICAÇÃO].
 Decorrido o prazo legal de 30 (trinta) dias sem manifestação do(a) interessado(a) (Decurso de Prazo), conforme verificado nos sistemas PAT e SIBE PU.
 A análise das bases governamentais confirma a manutenção da renda per capita superior ao limite legal.
@@ -1102,7 +1102,7 @@ Aberto prazo de 30 dias para recurso.
 *Suspende o benefício quando, mesmo após reemissões de exigência e atualização mensal do CadÚnico, persiste registro de renda/benefício para o titular no SIBE PU.*
 
 ```text
-ASSUNTO: DECURSO DE PRAZO — ATUALIZAÇÃO AINDA PENDENTE — SUSPENSÃO DO BENEFÍCIO
+ASSUNTO: DECURSO DE PRAZO - ATUALIZAÇÃO AINDA PENDENTE - SUSPENSÃO DO BENEFÍCIO
 Trata-se de Reavaliação do BPC (REAVBPC). Notificação de defesa emitida em [DATA INICIAL] e reiterada em [DATAS DE REITERAÇÃO].
 Decorrido o prazo para processamento da atualização do CadÚnico no sistema (atualização realizada em [DATA DA ATUALIZAÇÃO NO CADÚNICO], aguardada a virada mensal), ainda persiste a pendência de informação de renda para o(a) titular, conforme verificado no sistema SIBE PU: "há informação de recebimento de benefício no CadÚnico para o titular".
 Observa-se que, quanto aos demais moradores, a renda familiar per capita estaria dentro do limite legal ([MOTIVO DA COMPOSIÇÃO: pois a filha casada/divorciada ou em união estável não integra o grupo familiar / pois reside com pessoas que não fazem parte do seu grupo familiar legal]).
@@ -1116,11 +1116,11 @@ Aberto prazo de 30 dias para recurso.
 *Exigência completa da Manutenção (OL 710) para inclusão/renovação de procurador para recebimento (alíneas a-e) ou atualização de RL.*
 
 ```text
-• Caso o seu pedido seja para Cadastrar ou Renovar Procurador para Recebimento do Benefício, apresente:
+- Caso o seu pedido seja para Cadastrar ou Renovar Procurador para Recebimento do Benefício, apresente:
   1. Documento de identificação oficial com foto e CPF do(a) beneficiário(a), além de comprovante ou declaração de endereço com CEP;
   2. Documento de identificação oficial com foto e CPF do(a) procurador(a);
   3. Procuração assinada pelas partes com poderes específicos para atuar junto ao INSS (realizar prova de vida ou receber benefício). Se a procuração for particular, é necessário reconhecimento de firma (caso não haja conferência presencial). Se o(a) beneficiário(a) ou o(a) procurador(a) não for alfabetizado(a), a procuração deve ser pública feita em cartório (exceto quando o procurador for advogado, para atos gerais). Se outorgada por curador ou tutor a terceiros, a procuração deve ser obrigatoriamente pública;
-  4. Termo de Responsabilidade preenchido e assinado pelo(a) procurador(a) (mesmo que a procuração seja pública). Modelos disponíveis em: https://www.gov.br/inss/pt-br/saiba-mais/seus-direitos-e-deveres/procuracao/procuracao/
+  4. Termo de Responsabilidade preenchido e assinado pelo(a) procurador(a) (mesmo que a procuração seja pública). Modelos disponíveis em: gov.br/inss/pt-br/saiba-mais/seus-direitos-e-deveres/procuracao/procuracao/
   5. Documento que comprove o motivo do cadastro do procurador (emitido há no máximo 30 dias para os itens "a", "b" e "c"):
      a) Impossibilidade de locomoção ou moléstia contagiosa: Atestado médico emitido há menos de 30 dias informando de forma clara e direta que o(a) beneficiário(a) está impossibilitado(a) de se locomover (ou possui moléstia contagiosa) e que está lúcido(a), com data, carimbo e assinatura do médico (não são aceitos exames, prontuários ou laudos sem conclusão direta);
      b) Privação de liberdade: Atestado de recolhimento à prisão emitido pela autoridade competente (há menos de 30 dias);
@@ -1128,7 +1128,7 @@ Aberto prazo de 30 dias para recurso.
      d) Viagem: Declaração escrita de viagem informando se é dentro do Brasil ou para o exterior e o período de ausência;
      e) Residência no exterior: Atestado de vida (válido por 90 dias) legalizado pelo Consulado Brasileiro ou apostilado (Convenção da Haia).
 
-• Caso o seu pedido seja para Atualização de Representante Legal (Tutor, Curador ou Guardião), apresente:
+- Caso o seu pedido seja para Atualização de Representante Legal (Tutor, Curador ou Guardião), apresente:
   1. Documento de identificação oficial com foto e CPF do(a) beneficiário(a) e do(a) Representante Legal;
   2. Documento judicial que comprove a representação legal (Termo de Curatela, Tutela ou Guarda);
   3. Termo de Responsabilidade preenchido e assinado pelo(a) Representante Legal.
@@ -1169,7 +1169,7 @@ Encaminhamos para conferência e liberação do valor.
 Despacho em consonância com a Portaria Conjunta DIRBEN/DTI/INSS nº 90/2023 e o Comunicado CEAB nº 19/2024.
 ```
 
-### [INTERNO] Interno Manutenção: Crédito Não Gerado Automaticamente — Emissão Manual (CEAB 19/2024)
+### [INTERNO] Interno Manutenção: Crédito Não Gerado Automaticamente - Emissão Manual (CEAB 19/2024)
 *Encaminha subtarefa para cálculo e emissão manual de crédito devido desde a DIP da revisão quando não há geração automática.*
 
 ```text
@@ -1182,7 +1182,7 @@ Encaminhamos para cálculo, emissão e acompanhamento da liberação do valor.
 Despacho em consonância com a Portaria Conjunta DIRBEN/DTI/INSS nº 90/2023 e o Comunicado CEAB nº 19/2024.
 ```
 
-### [INTERNO] Interno Manutenção: Valores Não Recebidos Até a Data do Óbito (Resíduo — Pensão por Morte)
+### [INTERNO] Interno Manutenção: Valores Não Recebidos Até a Data do Óbito (Resíduo - Pensão por Morte)
 *Encaminha tarefa iniciada após concessão de Pensão por Morte para liberação de resíduo não recebido em vida pelo instituidor.*
 
 ```text
@@ -1192,7 +1192,7 @@ Encaminhamos para conferência, recálculo e liberação do valor.
 Despacho em consonância com a Portaria Conjunta DIRBEN/DTI/INSS nº 90/2023, o Comunicado CEAB nº 19/2024 e o art. 628 da Instrução Normativa PRES/INSS nº 128/2022.
 ```
 
-### [DESPACHO] Despacho MOB: Carta de Defesa (Ampla Defesa e Contraditório — Erro Material na Concessão / Renda)
+### [DESPACHO] Despacho MOB: Carta de Defesa (Ampla Defesa e Contraditório - Erro Material na Concessão / Renda)
 *Notifica o beneficiário para apresentar defesa em 30 dias em face de concessão indevida por erro sistêmico (renda per capita acima do limite).*
 
 ```text
@@ -1200,7 +1200,7 @@ Referente ao processo [PROTOCOLO], em observância ao § 1º do artigo 179 do Re
 Esclarecemos que o benefício foi concedido equivocadamente pelo sistema, quando deveria ter sido indeferido por renda familiar per capita superior ao limite legal permitido, uma vez que os documentos apresentados no cumprimento de exigências não supriram os requisitos de dedução. Diante desse erro operacional que resultou na concessão indevida do benefício, faculta-se a apresentação de carta de defesa no prazo de 30 dias, caso entenda pela regularidade da concessão.
 ```
 
-### [DESPACHO] Despacho MOB: Carta de Defesa (Ampla Defesa e Contraditório — Redução da RMI/MR Após Revisão)
+### [DESPACHO] Despacho MOB: Carta de Defesa (Ampla Defesa e Contraditório - Redução da RMI/MR Após Revisão)
 *Notifica o beneficiário para apresentar defesa em 30 dias quando a revisão solicitada resulta em diminuição da RMI e da MR.*
 
 ```text
@@ -1208,7 +1208,7 @@ Referente ao processo [PROTOCOLO], benefício [ESPÉCIE / NB], em respeito ao §
 O benefício foi revisto para atender ao solicitado pelo(a) segurado(a) ([MOTIVO DA REVISÃO, EX: inclusão dos valores da Reclamatória Trabalhista]), resultando na redução da RMI de R$ [RMI ANTERIOR] para R$ [NOVA RMI]; consequentemente, a Renda Mensal Atual (MR) também passou de R$ [MR ANTERIOR] para R$ [NOVA MR]. Solicitamos que apresente carta de defesa no prazo legal, caso entenda que os valores apurados estão incorretos.
 ```
 
-### [DESPACHO] Despacho Pensão / MOB: Dispensa de Consignação Pós-Óbito na Pensão (Portaria 1.255/2025 — Atribuição do MOB)
+### [DESPACHO] Despacho Pensão / MOB: Dispensa de Consignação Pós-Óbito na Pensão (Portaria 1.255/2025 - Atribuição do MOB)
 *Deixa de incluir consignação de valores recebidos pós-óbito no campo 13 do Prisma, por ser competência exclusiva do MOB (Portaria 1.255/2025).*
 
 ```text
@@ -1219,13 +1219,13 @@ Deixo de realizar a apuração e a consignação de valores eventualmente recebi
 *Solicita na fila ATUEXC a alteração da DCB do B31 para o dia anterior à DIB do novo benefício (B80/B41/B42) com consignação.*
 
 ```text
-[Orientação: Abrir Tarefa na Área Meio — "Procedimentos de Atualização de Exceção - ATUEXC"]
+[Orientação: Abrir Tarefa na Área Meio - "Procedimentos de Atualização de Exceção - ATUEXC"]
 
-Em conformidade com o item 12.3 do Anexo II da Portaria DIRBEN/INSS nº 1.123, de 24 de março de 2023, alterada pela Portaria Conjunta DIRBEN/DTI/INSS nº 90, de 1º de dezembro de 2023, e em consonância com o Comunicado COREC-SRSUL de 29/12/2023, solicita-se a alteração da Data de Cessação do Benefício (DCB) do benefício [NB DO BENEFÍCIO A CESSAR, EX: B31/XXXXXXXXXX] para o dia imediatamente anterior à Data de Início do Benefício (DIB) do [ESPÉCIE E NB DO NOVO BENEFÍCIO] ([DIB DO NOVO BENEFÍCIO]). Portanto, requer-se que a DCB do benefício anterior seja alterada para [NOVA DCB — VÉSPERA DA DIB], visando sanar a inconsistência de concomitância.
+Em conformidade com o item 12.3 do Anexo II da Portaria DIRBEN/INSS nº 1.123, de 24 de março de 2023, alterada pela Portaria Conjunta DIRBEN/DTI/INSS nº 90, de 1º de dezembro de 2023, e em consonância com o Comunicado COREC-SRSUL de 29/12/2023, solicita-se a alteração da Data de Cessação do Benefício (DCB) do benefício [NB DO BENEFÍCIO A CESSAR, EX: B31/XXXXXXXXXX] para o dia imediatamente anterior à Data de Início do Benefício (DIB) do [ESPÉCIE E NB DO NOVO BENEFÍCIO] ([DIB DO NOVO BENEFÍCIO]). Portanto, requer-se que a DCB do benefício anterior seja alterada para [NOVA DCB - VÉSPERA DA DIB], visando sanar a inconsistência de concomitância.
 Informa-se que a consignação será realizada e o cálculo, com as devidas correções monetárias, será anexado à tarefa principal nº [PROTOCOLO DA TAREFA PRINCIPAL].
 ```
 
-### [INTERNO] Interno (LIBDUP — V1): Liberação de Crítica após Consignação de Benefício Incapacitante
+### [INTERNO] Interno (LIBDUP - V1): Liberação de Crítica após Consignação de Benefício Incapacitante
 *Solicita LIBDUP quando a DIB do novo benefício retroage a período em que houve recebimento de auxílio por incapacidade, já consignado.*
 
 ```text
@@ -1235,30 +1235,30 @@ Diante do exposto, solicita-se a liberação da crítica de incompatibilidade pa
 Tarefa PAT: [PROTOCOLO PAT].
 ```
 
-### [INTERNO] Interno (LIBDUP — V2): Liberação de Crítica — Pensão por Morte (B21) Acumulada com Auxílio-Acidente (B94)
+### [INTERNO] Interno (LIBDUP - V2): Liberação de Crítica - Pensão por Morte (B21) Acumulada com Auxílio-Acidente (B94)
 *Solicita LIBDUP para afastar Crítica-2 (Manutenção Incompatível) entre Pensão por Morte (B21) e Auxílio-Acidente (B94).*
 
 ```text
 Em conformidade com o § 1º do artigo 7º da Portaria Conjunta DIRBEN/DTI/INSS nº 32, de 19/12/2025, solicita-se o procedimento de LIBDUP.
-Esclarece-se que o sistema barrou a concessão da Pensão por Morte (B21), acusando acumulação indevida com Auxílio-Acidente (B94) — Crítica-2 (Manutenção Incompatível). Porém, tanto o art. 10 do Livro V (Portaria DIRBEN/INSS nº 994/2022) quanto o art. 648 da Instrução Normativa PRES/INSS nº 128/2022 autorizam expressamente essa cumulação.
+Esclarece-se que o sistema barrou a concessão da Pensão por Morte (B21), acusando acumulação indevida com Auxílio-Acidente (B94) - Crítica-2 (Manutenção Incompatível). Porém, tanto o art. 10 do Livro V (Portaria DIRBEN/INSS nº 994/2022) quanto o art. 648 da Instrução Normativa PRES/INSS nº 128/2022 autorizam expressamente essa cumulação.
 Diante do exposto, solicita-se a liberação da crítica de incompatibilidade para propiciar a concessão do benefício.
 Benefício em concessão: B21/[NB DA PENSÃO] com B94/[NB DO AUXÍLIO-ACIDENTE].
 Tarefa PAT: [PROTOCOLO PAT].
 ```
 
-### [INTERNO] Interno (LIBDUP — V3): Liberação de Crítica — Salário-Maternidade (B80) Acumulado com Auxílio-Acidente (B94)
+### [INTERNO] Interno (LIBDUP - V3): Liberação de Crítica - Salário-Maternidade (B80) Acumulado com Auxílio-Acidente (B94)
 *Solicita LIBDUP para afastar Crítica-2 entre Salário-Maternidade (B80) e Auxílio-Acidente (B94), cujo caráter é indenizatório.*
 
 ```text
 Em conformidade com o § 1º do artigo 7º da Portaria Conjunta DIRBEN/DTI/INSS nº 32, de 19/12/2025, solicita-se o procedimento de LIBDUP.
-Esclarece-se que o sistema barrou a concessão do Salário-Maternidade (B80), acusando acumulação indevida com Auxílio-Acidente (B94) — Crítica-2 (Manutenção Incompatível).
+Esclarece-se que o sistema barrou a concessão do Salário-Maternidade (B80), acusando acumulação indevida com Auxílio-Acidente (B94) - Crítica-2 (Manutenção Incompatível).
 Ocorre que o art. 639, inciso IV, da Instrução Normativa PRES/INSS nº 128/2022 e o art. 1º, inciso IV, do Livro V (Portaria DIRBEN/INSS nº 994/2022) restringem a inacumulabilidade do Salário-Maternidade apenas aos benefícios de Auxílio por Incapacidade Temporária e Aposentadoria por Incapacidade Permanente. Por ter caráter estritamente indenizatório (art. 352 da IN PRES/INSS nº 128/2022), o Auxílio-Acidente não impede a concessão do Salário-Maternidade.
 Diante do exposto, solicita-se a liberação da crítica de incompatibilidade para propiciar o regular processamento e concessão do benefício.
 Benefício em concessão: B80/[NB DO SALÁRIO-MATERNIDADE] com B94/[NB DO AUXÍLIO-ACIDENTE].
 Tarefa PAT: [PROTOCOLO PAT].
 ```
 
-### [INTERNO] Interno (LIBDUP — V4): Liberação de Crítica — Períodos Certificados em CTC (Declaração do Órgão de Lotação)
+### [INTERNO] Interno (LIBDUP - V4): Liberação de Crítica - Períodos Certificados em CTC (Declaração do Órgão de Lotação)
 *Solicita LIBDUP informando que foram marcados como certificados apenas os períodos efetivamente utilizados no órgão de lotação.*
 
 ```text
@@ -1273,7 +1273,7 @@ Esclarece-se que foram marcados como certificados os períodos efetivamente util
 *Lembrete operacional para abertura de tarefa de Admissibilidade de Irregularidade e transferência para a OL 20.150.516.*
 
 ```text
-Procedimento Operacional — Admissibilidade de Irregularidade:
+Procedimento Operacional - Admissibilidade de Irregularidade:
 Nesses casos, abrir uma tarefa de "Admissibilidade de Irregularidade" no GET e transferir para a OL [OL DE DESTINO: 20.150.516], nos termos dos arts. 607 e seguintes da Instrução Normativa PRES/INSS nº 128/2022.
 ```
 
@@ -1283,36 +1283,36 @@ Nesses casos, abrir uma tarefa de "Admissibilidade de Irregularidade" no GET e t
 *Checklist operacional completo em 12 passos para análise e implantação de Acórdão recursal no PAT, Prisma e e-Sisrec.*
 
 ```text
-CHECKLIST — RECURSO COM IMPLANTAÇÃO (PAT / E-SISREC / PRISMA):
+CHECKLIST - RECURSO COM IMPLANTAÇÃO (PAT / E-SISREC / PRISMA):
 1. Verificar se a tarefa está integrada;
 2. Pesquisar pelo CPF no PAT e no e-Sisrec para conferir se há apenas um recurso ativo;
 3. Verificar se constam telefone e e-mail atualizados na tarefa principal de recurso;
 4. Consultar no e-Sisrec / Sapiens se há ação judicial com o mesmo objeto;
 5. Abrir o Acórdão no e-Sisrec, analisar os pontos providos e verificar os vínculos no CNIS;
 6. Implantar o benefício no Prisma conforme determinado no Acórdão;
-7. Salvar o PDF do Prisma como "RESUMO DE BENEFÍCIO";
-8. Se houver atrasados/créditos pendentes, salvar o Acórdão junto para a subtarefa "Solicitar Emissão de Pagamento não Recebido";
+7. Salvar o PDF do Prisma como "RESUMO DE BENEFÍCIO".
+8. Se houver atrasados/créditos pendentes, salvar o Acórdão junto para a subtarefa "Solicitar Emissão de Pagamento não Recebido".
 9. Na subtarefa, emitir a exigência/comunicação de "Comunicação de Decisão da JR" preenchida e atualizar os campos adicionais da subtarefa;
-10. Na tarefa do recurso, imprimir a ciência salvando como "INTIMACAO";
-11. Elaborar o "Despacho Conclusivo — Evento Arquivar" (com ou sem novo elemento);
+10. Na tarefa do recurso, imprimir a ciência salvando como "INTIMACAO".
+11. Elaborar o "Despacho Conclusivo - Evento Arquivar" (com ou sem novo elemento);
 12. Acessar o e-Sisrec e lançar os 4 eventos finais de cumprimento e arquivamento.
 ```
 
-### [EXIGENCIA] Recurso (Comunicação/Exigência): Comunicação de Decisão da Junta de Recursos (JR — fls. 251 do Guia)
+### [EXIGENCIA] Recurso (Comunicação/Exigência): Comunicação de Decisão da Junta de Recursos (JR - fls. 251 do Guia)
 *Comunica ao segurado o resultado do julgamento pela Junta de Recursos (JR), como acessar o inteiro teor e o prazo de 30 dias para a CAJ/CRPS.*
 
 ```text
 Ao(À) Senhor(a): [NOME DO SEGURADO], CPF: [CPF DO SEGURADO]
-Protocolo: [PROTOCOLO] | NB: [NB]
+Protocolo: [PROTOCOLO] - NB: [NB]
 Assunto: Comunicação de Decisão da Junta de Recursos (JR)
 
 Prezado(a) Senhor(a),
 Comunicamos que a [NÚMERO E NOME DA JUNTA DE RECURSOS - JR], por meio do Acórdão nº [NÚMERO DO ACÓRDÃO], de [DATA DO ACÓRDÃO], [RESULTADO: deu provimento / deu provimento parcial / negou provimento] ao recurso interposto àquele Órgão.
-Para visualizar a decisão completa, acesse o site https://consultaprocessos.inss.gov.br utilizando o seu CPF e a sua senha Gov.br (caso não possua senha, você pode criá-la no site ou aplicativo Meu INSS). Para visualizar o processo, o usuário deve estar cadastrado no sistema de recursos como parte interessada (titular, procurador/advogado ou representante legal).
+Para visualizar a decisão completa, acesse o site consultaprocessos.inss.gov.br utilizando o seu CPF e a sua senha Gov.br (caso não possua senha, você pode criá-la no site ou aplicativo Meu INSS). Para visualizar o processo, o usuário deve estar cadastrado no sistema de recursos como parte interessada (titular, procurador/advogado ou representante legal).
 Informamos que você poderá apresentar recurso dessa decisão às Câmaras de Julgamento do CRPS no prazo de 30 (trinta) dias, contados da data do recebimento desta comunicação. O INSS também poderá recorrer e, nesse caso, você será comunicado(a) para apresentar suas contrarrazões (defesa) (Fundamentação: art. 305 do Decreto nº 3.048/1999 e art. 578 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
-### [DESPACHO] Recurso (Despacho): Despacho Conclusivo — Evento Arquivar (Com ou Sem Novo Elemento — fls. 247/254)
+### [DESPACHO] Recurso (Despacho): Despacho Conclusivo - Evento Arquivar (Com ou Sem Novo Elemento - fls. 247/254)
 *Despacho conclusivo de cumprimento integral de Acórdão do CRPS (com opção de fixação da DER/DIB com ou sem novo elemento e criação de demanda de pagamento).*
 
 ```text
@@ -1322,9 +1322,9 @@ Após análise da decisão e da documentação anexada aos autos processuais, n�
 Além disso, não foi localizada ação judicial com o mesmo objeto do presente recurso administrativo.
 Por conseguinte, foi dado integral cumprimento à decisão do CRPS, nos exatos termos do acórdão epigrafado, em observância ao disposto no § 2º do art. 308 do Regulamento da Previdência Social (RPS), aprovado pelo Decreto nº 3.048/1999.
 
-[Escolher conforme o caso — COM ou SEM novo elemento:]
-• (Sem novo elemento): No presente caso, foi mantida a DER original do benefício em [DER ORIGINAL], uma vez que a decisão recursal não foi fundamentada em novo elemento, considerando o previsto nos artigos 21 e 22 do Livro VII das Normas Procedimentais em Matéria de Benefícios, aprovado pela Portaria DIRBEN/INSS nº 996/2022.
-• (Com novo elemento): No presente caso, a DER/DIB foi fixada em [DATA DO NOVO ELEMENTO], data da apresentação de novo elemento que ensejou o reconhecimento do direito alegado, observadas as disposições dos §§ 6º e 7º do artigo 176 e do § 4º do artigo 347, todos do RPS (Decreto nº 3.048/1999).
+[Escolher conforme o caso - COM ou SEM novo elemento:]
+- (Sem novo elemento): No presente caso, foi mantida a DER original do benefício em [DER ORIGINAL], uma vez que a decisão recursal não foi fundamentada em novo elemento, considerando o previsto nos artigos 21 e 22 do Livro VII das Normas Procedimentais em Matéria de Benefícios, aprovado pela Portaria DIRBEN/INSS nº 996/2022.
+- (Com novo elemento): No presente caso, a DER/DIB foi fixada em [DATA DO NOVO ELEMENTO], data da apresentação de novo elemento que ensejou o reconhecimento do direito alegado, observadas as disposições dos §§ 6º e 7º do artigo 176 e do § 4º do artigo 347, todos do RPS (Decreto nº 3.048/1999).
 
 [Se criada subtarefa para pagamento de atrasados:]
 Por fim, considerando que há créditos pendentes de liberação (ou a serem emitidos manualmente), foi criada demanda específica para as tratativas necessárias, sob o Protocolo [PROTOCOLO DO PAGAMENTO] (Solicitar Emissão de Pagamento não Recebido), a qual poderá ser acompanhada pelo Meu INSS.
@@ -1353,9 +1353,9 @@ Ressalta-se que, caso o(a) segurado(a) deseje requerer especificamente essa moda
 ```text
 Revisão concluída (art. 583 da Instrução Normativa PRES/INSS nº 128/2022).
 Resumo da Alteração de Valores (RMI / MR):
-• RMI Anterior: R$ [RMI ANTERIOR] | MR Anterior: R$ [MR ANTERIOR]
-• Competência (DIP da Revisão): [COMPETÊNCIA DIP]
-• Nova RMI: R$ [NOVA RMI] | Nova MR: R$ [NOVA MR]
+- RMI Anterior: R$ [RMI ANTERIOR] - MR Anterior: R$ [MR ANTERIOR]
+- Competência (DIP da Revisão): [COMPETÊNCIA DIP]
+- Nova RMI: R$ [NOVA RMI] - Nova MR: R$ [NOVA MR]
 
 Foi gerado um Complemento Positivo (CP) no valor de R$ [VALOR DO CP]. Caso não seja verificado o recebimento automático nos próximos pagamentos, o(a) interessado(a) poderá solicitar o serviço "Solicitar Emissão de Pagamento não Recebido" pelo Meu INSS (meu.inss.gov.br) ou pela Central 135 (de segunda a sábado, das 7h às 22h).
 ```
@@ -1364,7 +1364,7 @@ Foi gerado um Complemento Positivo (CP) no valor de R$ [VALOR DO CP]. Caso não 
 *Solicita que o segurado detalhe os motivos do pedido de revisão e anexe a documentação comprobatória.*
 
 ```text
-• Justificativa para o Pedido de Revisão: Apresente uma carta ou o formulário oficial de revisão explicando de forma clara o que você deseja revisar no seu benefício (quais vínculos, salários ou períodos considera que faltaram no cálculo) e anexe os documentos que comprovam o seu pedido (Fundamentação: art. 583 da Instrução Normativa PRES/INSS nº 128/2022).
+- Justificativa para o Pedido de Revisão: Apresente uma carta ou o formulário oficial de revisão explicando de forma clara o que você deseja revisar no seu benefício (quais vínculos, salários ou períodos considera que faltaram no cálculo) e anexe os documentos que comprovam o seu pedido (Fundamentação: art. 583 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [DESPACHO] Despacho CTC: Indeferimento de Revisão de CTC por Não Cumprimento de Exigência (Mais de 35 Dias)
@@ -1380,10 +1380,10 @@ Sem mais diligências. Arquive-se.
 *Lista completa de documentos para emissão de CTC (RG/CPF, Declaração do Órgão de Lotação, DTC Anexos IV e V, Requerimento de Períodos e CTPS física).*
 
 ```text
-• Documentação para Emissão de Certidão de Tempo de Contribuição (CTC — Protocolo [PROTOCOLO PAT]):
+- Documentação para Emissão de Certidão de Tempo de Contribuição (CTC - Protocolo [PROTOCOLO PAT]):
   1. Identificação: Documento oficial com foto, CPF e comprovante de endereço recente;
   2. Declaração do Órgão de Lotação Atual: Declaração oficial do órgão público informando seu nome, matrícula, cargo/função, RG, CPF e se o vínculo está ativo;
-  3. Vínculos com Órgãos Públicos sob Regime Geral — RGPS (DTC): Caso tenha trabalhado em prefeitura ou outro órgão público vinculado ao INSS (cargo comissionado, temporário ou emprego público), apresente o ato de nomeação/exoneração acompanhado obrigatoriamente da Declaração de Tempo de Contribuição ao RGPS (Anexo IV da IN 128/2022) e da relação de salários (Anexo V da IN 128/2022);
+  3. Vínculos com Órgãos Públicos sob Regime Geral - RGPS (DTC): Caso tenha trabalhado em prefeitura ou outro órgão público vinculado ao INSS (cargo comissionado, temporário ou emprego público), apresente o ato de nomeação/exoneração acompanhado obrigatoriamente da Declaração de Tempo de Contribuição ao RGPS (Anexo IV da IN 128/2022) e da relação de salários (Anexo V da IN 128/2022);
   4. Indicação dos Períodos que Deseja Certificar: Pedido assinado informando exatamente quais vínculos ou períodos você deseja levar na CTC e para qual órgão público (RPPS) ela será destinada;
   5. Carteiras de Trabalho Físicas (CTPS): Envie fotos ou digitalizações coloridas e legíveis de todas as páginas com anotações das suas Carteiras de Trabalho físicas (identificação, contratos, alterações salariais, férias, FGTS e anotações gerais), em ordem cronológica (não é aceita apenas a CTPS Digital para conferência de vínculos antigos);
   6. Outros Documentos: Comprovantes de baixa de vínculos que estejam em aberto no CNIS.
@@ -1394,7 +1394,7 @@ Sem mais diligências. Arquive-se.
 *Solicita a CTC original (se física), declaração do RPPS sobre utilização do tempo e requerimento indicando os períodos a alterar.*
 
 ```text
-• Documentação para Revisão de CTC: Para analisar a revisão da sua Certidão de Tempo de Contribuição (CTC), apresente:
+- Documentação para Revisão de CTC: Para analisar a revisão da sua Certidão de Tempo de Contribuição (CTC), apresente:
   1. A via original da CTC emitida anteriormente (exceto se foi emitida eletronicamente pelo portal Meu INSS);
   2. Declaração oficial do órgão público de destino (RPPS) informando se os períodos da CTC já foram utilizados para aposentadoria ou vantagens financeiras; e
   3. Pedido assinado explicando o motivo da revisão e indicando quais períodos você deseja incluir, excluir ou alterar (Fundamentação: arts. 514 a 517 da Instrução Normativa PRES/INSS nº 128/2022).
@@ -1404,28 +1404,28 @@ Sem mais diligências. Arquive-se.
 *Solicita CTC original emitida pelo RPPS acompanhada da Relação das Remunerações a partir de 07/1994.*
 
 ```text
-• Certidão de Tempo de Contribuição de Órgão Público (Para Trazer Tempo ao INSS): Para somar no INSS o tempo trabalhado em regime próprio de servidor público (RPPS), apresente a Certidão de Tempo de Contribuição (CTC) original emitida pelo órgão público, totalmente preenchida e assinada (contendo matrícula, cargo, datas de início e fim, faltas/licenças e tempo líquido), acompanhada da Relação das Remunerações de Contribuição para os períodos a partir de julho de 1994 (Fundamentação: Portaria MTP nº 1.467/2022 e arts. 506 a 518 da Instrução Normativa PRES/INSS nº 128/2022).
+- Certidão de Tempo de Contribuição de Órgão Público (Para Trazer Tempo ao INSS): Para somar no INSS o tempo trabalhado em regime próprio de servidor público (RPPS), apresente a Certidão de Tempo de Contribuição (CTC) original emitida pelo órgão público, totalmente preenchida e assinada (contendo matrícula, cargo, datas de início e fim, faltas/licenças e tempo líquido), acompanhada da Relação das Remunerações de Contribuição para os períodos a partir de julho de 1994 (Fundamentação: Portaria MTP nº 1.467/2022 e arts. 506 a 518 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência CTC / RPPS: Declaração do Órgão Público sobre Períodos Utilizados ou Não Utilizados
 *Solicita declaração do órgão gestor do RPPS discriminando quais períodos da CTC do INSS foram usados e quais sobraram livres.*
 
 ```text
-• Declaração sobre Uso de Tempo em Regime Próprio (RPPS): Apresente declaração oficial emitida pelo órgão gestor do Regime Próprio de Previdência Social (RPPS) informando detalhadamente quais períodos da CTC emitida pelo INSS foram utilizados para aposentadoria ou vantagens lá no órgão público, e especificando quais períodos não foram utilizados, para permitir o aproveitamento no INSS sem contagem em duplicidade (Fundamentação: art. 514 da Instrução Normativa PRES/INSS nº 128/2022).
+- Declaração sobre Uso de Tempo em Regime Próprio (RPPS): Apresente declaração oficial emitida pelo órgão gestor do Regime Próprio de Previdência Social (RPPS) informando detalhadamente quais períodos da CTC emitida pelo INSS foram utilizados para aposentadoria ou vantagens lá no órgão público, e especificando quais períodos não foram utilizados, para permitir o aproveitamento no INSS sem contagem em duplicidade (Fundamentação: art. 514 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência RPPS: Informações sobre Aposentadoria ou Pensão Recebida em Outro Regime
 *Solicita preenchimento de declaração e contracheque sobre aposentadoria ou pensão recebida em RPPS (civil ou militar).*
 
 ```text
-• Declaração de Benefício Recebido em Outro Regime de Previdência (RPPS / Militar): Informe os dados da aposentadoria ou pensão que você recebe em outro regime de previdência (tipo de benefício, data de início, nome do órgão pagador, esfera municipal/estadual/federal, natureza civil ou militar e valor bruto atual), preenchendo e assinando o formulário em anexo acompanhado do último contracheque (Fundamentação: art. 24 da Emenda Constitucional nº 103/2019 e art. 642 da Instrução Normativa PRES/INSS nº 128/2022).
+- Declaração de Benefício Recebido em Outro Regime de Previdência (RPPS / Militar): Informe os dados da aposentadoria ou pensão que você recebe em outro regime de previdência (tipo de benefício, data de início, nome do órgão pagador, esfera municipal/estadual/federal, natureza civil ou militar e valor bruto atual), preenchendo e assinando o formulário em anexo acompanhado do último contracheque (Fundamentação: art. 24 da Emenda Constitucional nº 103/2019 e art. 642 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência Específica: Reclamatória Trabalhista ou Atividade de Vigilante
 *Solicita documentos específicos para averbação de Reclamatória Trabalhista (cópia autenticada/eletrônica + início de prova material) ou Vigilante.*
 
 ```text
-• Documentação Específica (Reclamatória Trabalhista e/ou Vigilante):
+- Documentação Específica (Reclamatória Trabalhista e/ou Vigilante):
   - Para Reclamatória Trabalhista: Apresente cópia integral ou peças principais do processo trabalhista (petição inicial, sentença, acórdãos, certidão de trânsito em julgado e planilha de cálculo dos salários homologada), acompanhadas de início de prova material da época do trabalho quando se tratar de reconhecimento ou alteração de vínculo (art. 172 e art. 571 da Instrução Normativa PRES/INSS nº 128/2022);
   - Para Vigilante: Apresente o PPP acompanhado da comprovação do porte de arma de fogo e habilitação na Polícia Federal, nos termos da Lei nº 7.102/1983 (art. 280 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
@@ -1434,7 +1434,7 @@ Sem mais diligências. Arquive-se.
 *Solicita declaração atualizada da empresa informando a DUT, retorno/permanência no afastamento, afastamentos nos últimos 60 dias, férias e recibo do eSocial.*
 
 ```text
-• Declaração da Empresa sobre o Último Dia Trabalhado (DUT): Apresente declaração atualizada, carimbada e assinada pela empresa [NOME DA EMPRESA], informando obrigatoriamente:
+- Declaração da Empresa sobre o Último Dia Trabalhado (DUT): Apresente declaração atualizada, carimbada e assinada pela empresa [NOME DA EMPRESA], informando obrigatoriamente:
   1. A data exata do seu Último Dia Trabalhado (DUT);
   2. Se você continua afastado(a) do trabalho ou a data em que retornou às atividades;
   3. Se houve afastamento superior a 15 dias pela mesma doença dentro de um período de 60 dias;
@@ -1464,7 +1464,7 @@ Trata-se do indeferimento do benefício de Auxílio-Acidente Previdenciário (B9
 *Solicita documentos pessoais, certidão de óbito e ao menos 2 provas materiais de união estável (sendo 1 dos últimos 24 meses) ou 1 prova + JA.*
 
 ```text
-• Documentação para Pensão por Morte — Companheiro(a) (União Estável): Apresente os seguintes documentos:
+- Documentação para Pensão por Morte - Companheiro(a) (União Estável): Apresente os seguintes documentos:
   1. Documento de identificação oficial com foto e CPF (seu e da pessoa falecida);
   2. Certidão de Óbito;
   3. Certidão de Nascimento ou de Casamento atualizada (sua e da pessoa falecida);
@@ -1477,7 +1477,7 @@ Trata-se do indeferimento do benefício de Auxílio-Acidente Previdenciário (B9
 *Solicita documentos pessoais, certidões, 2 provas materiais de dependência econômica e declaração de inexistência de dependentes preferenciais.*
 
 ```text
-• Documentação para Pensão por Morte — Pais do(a) Segurado(a) Falecido(a): Apresente os seguintes documentos:
+- Documentação para Pensão por Morte - Pais do(a) Segurado(a) Falecido(a): Apresente os seguintes documentos:
   1. Documento de identificação oficial com foto e CPF (dos pais e do filho falecido);
   2. Certidão de Óbito do(a) filho(a);
   3. Certidão de Nascimento do(a) filho(a) falecido(a) (comprovando a filiação) e certidão de estado civil dos pais;
@@ -1490,7 +1490,7 @@ Trata-se do indeferimento do benefício de Auxílio-Acidente Previdenciário (B9
 *Solicita certidão de casamento com averbação de divórcio/separação e comprovação de pensão alimentícia ou ajuda econômica contínua até o óbito.*
 
 ```text
-• Documentação para Pensão por Morte — Ex-Cônjuge ou Ex-Companheiro(a): Apresente os seguintes documentos:
+- Documentação para Pensão por Morte - Ex-Cônjuge ou Ex-Companheiro(a): Apresente os seguintes documentos:
   1. Documento de identificação oficial com foto e CPF (seu e da pessoa falecida);
   2. Certidão de Óbito;
   3. Certidão de Casamento com a averbação da separação judicial ou do divórcio;

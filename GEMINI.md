@@ -84,6 +84,13 @@ Aja imediatamente conforme o tipo de mensagem enviada pelo usuário:
      8. `"Reavaliação BPC (REAVBPC)"`
      9. `"Manutenção (OL 710) e MOB"`
      10. `"Recursos, Revisões, CTC e BI"`
+5. **Compatibilidade Anti-Bloqueio WAF no PAT/GET (Dataprev)**:
+   - O Firewall de Aplicação Web (F5 BIG-IP ASM) do PAT/GET bloqueia o envio de despachos e exigências (retornando erro `<!DOCTYPE html> ... background-color: #1E344D`) quando o texto contém caracteres ou padrões suspeitos de injeção.
+   - **Proibido usar nos textos de `modelos.js`**:
+     - Sinais de menor/maior `<` ou `>` (interpretados como tags HTML/XSS; use `->` ou palavras como `superior a` / `inferior a`);
+     - Sequências de aspas seguidas de ponto e vírgula `";` ou duplo hífen `--` (interpretados como SQL Injection) ou barra vertical `|` (Command Injection);
+     - URLs completas iniciadas por `http://` ou `https://` ou parâmetros de query (`?e=1`, `?v=`) — escreva apenas o domínio limpo (ex.: `meu.inss.gov.br` ou `gov.br/meuinss`);
+     - Caracteres Unicode fora do padrão Latin-1/ASCII nos campos do GET, como marcadores `•`, travessões longos `—` / `–` e aspas curvas `“` `”` (substitua sempre por hífen simples `-` e aspas retas `"`).
 
 ---
 

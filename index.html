@@ -1060,7 +1060,7 @@
 
   <script src="modelos.js"></script>
   <script>
-    const STORAGE_KEY = "inss_painel_modelos_v2";
+    const STORAGE_KEY = "inss_painel_modelos_v3";
     const FAVS_KEY = "inss_painel_favoritos_v1";
 
     const LISTA_TEMAS = [
@@ -1530,12 +1530,32 @@
       copiarParaClipboard(txt, "✨ Despacho copiado! Agora é só colar no chat para gerar a Linguagem Simples.");
     }
 
+    function sanitizarParaPAT(str) {
+      if (!str) return "";
+      return String(str)
+        .replace(/https?:\/\/(www\.)?/gi, "")
+        .replace(/\?[a-zA-Z0-9_=&-]+/g, "")
+        .replace(/•/g, "-")
+        .replace(/[—–]/g, "-")
+        .replace(/：/g, ":")
+        .replace(/…/g, "...")
+        .replace(/[“”]/g, '"')
+        .replace(/[‘’]/g, "'")
+        .replace(/\s*>\s*/g, " - ")
+        .replace(/\s*<\s*/g, " - ")
+        .replace(/\s*\|\s*/g, " - ")
+        .replace(/";/g, '".')
+        .replace(/';/g, "'.")
+        .replace(/--+/g, "-");
+    }
+
     function copiarParaClipboard(texto, msgToast) {
+      const textoLimpo = sanitizarParaPAT(texto);
       if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(texto).then(() => mostrarToast(msgToast));
+        navigator.clipboard.writeText(textoLimpo).then(() => mostrarToast(msgToast));
       } else {
         const ta = document.createElement("textarea");
-        ta.value = texto;
+        ta.value = textoLimpo;
         document.body.appendChild(ta);
         ta.select();
         document.execCommand("copy");
