@@ -52,7 +52,7 @@ Aja imediatamente conforme o tipo de mensagem enviada pelo usuário:
 | Arquivo | Função |
 | :--- | :--- |
 | `index.html` | Aplicação Web single-page com busca instantânea (`/`), filtro duplo (Tipo de Ato + 10 Temas + Favoritos), edição de variáveis `[CAMPO]` em tempo real, CRUD na tela (`➕ Novo Modelo` / `✏️ Editar` / `💾 Salvar em modelos.js`) e **Montador Lateral com `[x]`**. |
-| `modelos.js` | Banco de dados estruturado contendo `window.CABECALHOS_EXIGENCIA` (Padrão 30 dias, Representação 75 dias, Manutenção OL 710) e `window.MODELOS_INSS` (todos os modelos cadastrados). |
+| `modelos.js` | Banco de dados estruturado contendo `window.CABECALHOS_EXIGENCIA` (Padrão 30 dias, Representação 30 dias, Manutenção OL 710) e `window.MODELOS_INSS` (todos os modelos cadastrados). |
 | `MODELOS_ORGANIZADOS.md` | Caderno completo em Markdown com Sumário pelos 10 Temas, gerado a partir do `modelos.js` para leitura rápida ou uso no Google Docs. |
 | `.gemini/skills/inss-linguagem-simples/SKILL.md` | Skill de conversão de despachos técnicos para Linguagem Simples (Lei 15.263/2025). |
 | `GEMINI.md` | Este arquivo de regras e memória permanente do projeto. |

@@ -963,7 +963,7 @@
           <span style="font-weight:700;color:var(--text-muted);font-size:0.75rem;">Modelo de Cabeçalho + Passo a Passo Meu INSS / Prazo:</span>
           <select id="selCabecalhoExigencia" onchange="atualizarTextoMontado()">
             <option value="padrao">Padrão Geral (Meu INSS / 135 — Prazo de 30 dias)</option>
-            <option value="representacao75">Representação / Procuração (Encerramento em 75 dias)</option>
+            <option value="representacao30">Representação / Procuração (Encerramento em 30 dias)</option>
             <option value="manutencao710">Manutenção OL 710 (Procurador / Representante Legal)</option>
             <option value="nenhum">Apenas os itens marcados (sem cabeçalho/rodapé)</option>
           </select>
@@ -1060,7 +1060,7 @@
 
   <script src="modelos.js"></script>
   <script>
-    const STORAGE_KEY = "inss_painel_modelos_v1";
+    const STORAGE_KEY = "inss_painel_modelos_v2";
     const FAVS_KEY = "inss_painel_favoritos_v1";
 
     const LISTA_TEMAS = [

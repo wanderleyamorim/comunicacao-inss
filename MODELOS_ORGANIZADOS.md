@@ -768,11 +768,11 @@ Atenção: A falta desse documento impede a análise do pedido e acarretará o e
 A não regularização no prazo legal acarretará o encerramento do processo por desistência, sem análise do mérito (Fundamentação: arts. 525, 542, § 3º, 560 e 563 da Instrução Normativa PRES/INSS nº 128/2022; Decreto nº 10.543/2020).
 ```
 
-### [EXIGENCIA] Exigência Representação: Reiteração / Reforço (Aviso de Encerramento em 75 Dias)
-*Reitera exigência de representação cumprida de forma incompleta no mesmo dia/próximo, alertando sobre o prazo de 75 dias.*
+### [EXIGENCIA] Exigência Representação: Reiteração / Reforço (Aviso de Encerramento em 30 Dias)
+*Reitera exigência de representação cumprida de forma incompleta no mesmo dia/próximo, alertando sobre o prazo de 30 dias.*
 
 ```text
-• Reiteração — Regularização da Assinatura / Representação: Reiteramos a solicitação para o cumprimento integral da exigência anterior, pois ainda não foi possível validar a assinatura do(a) segurado(a) (outorgante) no documento enviado. Caso a pendência não seja totalmente regularizada dentro do prazo legal de 75 (setenta e cinco) dias contados da ciência da exigência, o processo será encerrado por desistência do pedido, sem análise do mérito (Fundamentação: art. 574, § 4º, inciso II, da Instrução Normativa PRES/INSS nº 128, de 28 de março de 2022).
+• Reiteração — Regularização da Assinatura / Representação: Reiteramos a solicitação para o cumprimento integral da exigência anterior, pois ainda não foi possível validar a assinatura do(a) segurado(a) (outorgante) no documento enviado. Caso a pendência não seja totalmente regularizada dentro do prazo legal de 30 (trinta) dias contados da ciência da exigência, o processo será encerrado por desistência do pedido, sem análise do mérito (Fundamentação: arts. 566 e 574, § 4º, inciso II, da Instrução Normativa PRES/INSS nº 128, de 28 de março de 2022).
 ```
 
 ### [EXIGENCIA] Exigência Representação: Procuração Apenas com Cláusula Ad Judicia (Sem Poderes para o INSS)
@@ -833,13 +833,13 @@ A não regularização no prazo legal acarretará o encerramento do processo por
 • Novo Documento de Representação (Divergência na Validação Digital): Ao consultar o código/chave de verificação informado, constatamos divergência entre o documento anexado ao processo e as informações registradas na plataforma de assinatura digital. Apresente um novo documento de representação assinado eletronicamente pelo(a) segurado(a) (no mínimo com assinatura avançada), enviando o arquivo PDF original íntegro cujos dados de verificação correspondam exatamente ao documento anexado (Fundamentação: Medida Provisória nº 2.200-2/2001, art. 10; Lei nº 14.063/2020, art. 4º; art. 108, § 1º, e art. 560 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
-### [DESPACHO] Despacho Representação: Encerramento Sem Análise do Mérito (Não Cumprimento em 75 Dias — Art. 574, § 4º, II)
-*Despacho estruturado em 9 itens para encerrar processo sem resolução de mérito após 75 dias sem sanar vício de representação (alínea a) ou habilitação (alínea b).*
+### [DESPACHO] Despacho Representação: Encerramento Sem Análise do Mérito (Não Cumprimento em 30 Dias — Art. 574, § 4º, II)
+*Despacho estruturado em 9 itens para encerrar processo sem resolução de mérito após 30 dias sem sanar vício de representação (alínea a) ou habilitação (alínea b).*
 
 ```text
 1. Trata-se de requerimento de [NOME DO BENEFÍCIO / SERVIÇO SOLICITADO] que será encerrado sem análise do mérito, em razão do não cumprimento integral das exigências formuladas para a correta instrução e habilitação do pedido, conforme detalhado abaixo.
 2. Em [DATA DE EMISSÃO DA EXIGÊNCIA], foi emitida carta de exigência, da qual o(a) interessado(a) tomou ciência em [DATA DA CIÊNCIA OU 6º DIA APÓS E-MAIL/SMS], solicitando a apresentação de documentos/esclarecimentos imprescindíveis, especificamente quanto a [NATUREZA DA EXIGÊNCIA, EX: regularização da representação processual / apresentação do arquivo original da procuração com assinatura eletrônica válida]. Foi concedido o prazo legal para cumprimento.
-3. Verifica-se que, decorrido o prazo de 75 (setenta e cinco) dias da ciência da referida exigência, o(a) interessado(a) não apresentou os elementos solicitados de forma a sanar as seguintes pendências:
+3. Verifica-se que, decorrido o prazo de 30 (trinta) dias da ciência da referida exigência, o(a) interessado(a) não apresentou os elementos solicitados de forma a sanar as seguintes pendências:
 • [DESCREVER A PENDÊNCIA NÃO SANADA, EX: Não apresentação de procuração com assinatura eletrônica avançada ou qualificada do outorgante / Não fornecimento do arquivo PDF original para validação / Manutenção de vício de representação].
 4. O não atendimento das referidas exigências impede a análise de mérito do requerimento, configurando, nos termos do art. 574, § 4º, inciso II, da Instrução Normativa PRES/INSS nº 128, de 28 de março de 2022:
 [ALÍNEA APLICÁVEL: a) vício de representação não sanado; e/ou b) ausência de elementos suficientes para a habilitação do pedido.]
