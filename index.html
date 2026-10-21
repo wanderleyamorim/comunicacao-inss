@@ -891,6 +891,7 @@
         </div>
       </div>
       <div class="topbar-actions">
+        <button class="btn-top" onclick="forcarAtualizacao()" title="Limpa o cache do navegador e recarrega os modelos mais recentes do GitHub">🔄 Atualizar Painel</button>
         <button class="btn-top primary" onclick="openModal()">➕ Novo Modelo</button>
         <button class="btn-top" id="btnSaveFile" onclick="salvarNoArquivoJS()" title="Salva todas as alterações diretamente no arquivo modelos.js para sincronizar com o GitHub/nuvem">
           💾 Salvar em modelos.js
@@ -1058,9 +1059,9 @@
 
   <div class="toast" id="toast">Copiado!</div>
 
-  <script src="modelos.js"></script>
+  <script src="modelos.js?v=20261021_4"></script>
   <script>
-    const STORAGE_KEY = "inss_painel_modelos_v3";
+    const STORAGE_KEY_CUSTOM = "inss_painel_modelos_custom_v4";
     const FAVS_KEY = "inss_painel_favoritos_v1";
 
     const LISTA_TEMAS = [
@@ -1094,26 +1095,30 @@
     let temAlteracoesNaoExportadas = false;
 
     function carregarDados() {
+      // Limpeza de chaves de versões anteriores que congelavam o catálogo antigo
+      try {
+        localStorage.removeItem("inss_painel_modelos_v1");
+        localStorage.removeItem("inss_painel_modelos_v2");
+        localStorage.removeItem("inss_painel_modelos_v3");
+      } catch (e) {}
+
       const base = Array.isArray(window.MODELOS_INSS) ? window.MODELOS_INSS : [];
-      const salvosJSON = localStorage.getItem(STORAGE_KEY);
+      const salvosJSON = localStorage.getItem(STORAGE_KEY_CUSTOM);
       const favsJSON = localStorage.getItem(FAVS_KEY);
       const favMap = favsJSON ? JSON.parse(favsJSON) : {};
 
+      let customList = [];
       if (salvosJSON) {
         try {
-          const customList = JSON.parse(salvosJSON);
-          // Mescla preservando novos modelos do arquivo modelos.js caso o arquivo seja atualizado
-          const mapCustom = new Map(customList.map(m => [m.id, m]));
-          modelos = base.map(m => mapCustom.get(m.id) || m);
-          customList.forEach(m => {
-            if (!modelos.some(x => x.id === m.id)) modelos.push(m);
-          });
+          // Carrega apenas modelos verdadeiramente criados pelo usuário (id custom-*)
+          customList = JSON.parse(salvosJSON).filter(m => m.id && String(m.id).startsWith("custom-"));
         } catch (e) {
-          modelos = [...base];
+          customList = [];
         }
-      } else {
-        modelos = [...base];
       }
+
+      // Os modelos oficiais vêm SEMPRE atualizados diretamente de modelos.js
+      modelos = [...customList, ...base.map(m => ({ ...m }))];
 
       modelos.forEach(m => {
         if (favMap[m.id] !== undefined) {
@@ -1127,7 +1132,11 @@
     }
 
     function salvarLocalStorage() {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(modelos));
+      // Salva apenas os modelos criados pelo usuário (custom-*)
+      const customList = modelos.filter(m => m.id && String(m.id).startsWith("custom-"));
+      localStorage.setItem(STORAGE_KEY_CUSTOM, JSON.stringify(customList));
+
+      // Salva estado de favoritos
       const favMap = {};
       modelos.forEach(m => { favMap[m.id] = !!m.favorito; });
       localStorage.setItem(FAVS_KEY, JSON.stringify(favMap));
@@ -1700,6 +1709,16 @@
       a.click();
       URL.revokeObjectURL(url);
       mostrarToast("📥 Arquivo modelos.js baixado! Substitua na pasta do projeto.");
+    }
+
+    function forcarAtualizacao() {
+      try {
+        localStorage.removeItem("inss_painel_modelos_v1");
+        localStorage.removeItem("inss_painel_modelos_v2");
+        localStorage.removeItem("inss_painel_modelos_v3");
+        localStorage.removeItem(STORAGE_KEY_CUSTOM);
+      } catch (e) {}
+      window.location.reload();
     }
 
     // Atalho "/" para focar na busca
