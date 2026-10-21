@@ -1,0 +1,97 @@
+# Cérebro do Projeto: Comunicação e Modelos de Análise — INSS (`comunicacao-inss`)
+
+Este arquivo (`GEMINI.md`) é carregado automaticamente em todas as conversas deste projeto e define o contexto permanente, a arquitetura, as regras de negócio previdenciárias e o fluxo de trabalho do usuário.
+
+---
+
+## 1. Visão Geral e Objetivo do Projeto
+
+Este projeto apoia a rotina diária de análise de benefícios, exigências, recursos, manutenção e monitoramento operacional (MOB/REAVBPC) no **INSS**, unindo duas frentes principais:
+
+1. **Painel Web Interativo de Modelos (`index.html` + `modelos.js`)**: Centraliza mais de 155 modelos padronizados de despachos técnicos, cartas de exigência em linguagem simples, despachos internos e roteiros operacionais, permitindo busca instantânea e montagem rápida com caixas de seleção `[x]`.
+2. **Reescrita de Despachos Finais em Linguagem Simples (Lei nº 15.263/2025)**: Converte o "despachão" técnico final montado pelo usuário em uma comunicação clara e acessível para o cidadão e para os atendentes da Central 135.
+
+---
+
+## 2. Como Identificar a Intenção do Usuário no Chat
+
+Aja imediatamente conforme o tipo de mensagem enviada pelo usuário:
+
+### Cenário A — O usuário colou um Despacho Técnico ("Despachão") para converter em Linguagem Simples
+- **Quando ocorre**: O usuário cola um despacho técnico numerado ou corrido (ex.: *"1. Trata-se de Benefício... 2. Foram considerados..."*) ou menciona `@inss-linguagem-simples`.
+- **O que fazer**: Siga **rigorosamente** as instruções de `.gemini/skills/inss-linguagem-simples/SKILL.md`:
+  - **Não** escreva *"Entendido"*, *"Aqui está"* nem comentários antes ou depois.
+  - Entregue **apenas** a saída padronizada:
+    ```text
+    COMUNICAÇÃO EM LINGUAGEM SIMPLES (Lei 15.263/2025)
+    Versão para o cidadão e suporte ao Atendimento 135
+
+    [Texto reescrito em parágrafos curtos, voz ativa, até 25 palavras por frase, uma ideia por parágrafo, preservando datas, valores, prazos e protocolos exatos]
+
+    ---
+    A fundamentação jurídica técnica e o dispositivo legal completos constam no despacho do SIBEPU, anexado ao final, para fins de registro e análise técnica.
+    ```
+
+### Cenário B — O usuário pediu para incluir, editar, revisar ou organizar modelos no Painel Web
+- **Quando ocorre**: O usuário envia um novo rascunho de despacho/exigência ou pede alterações no painel/banco de modelos.
+- **O que fazer**:
+  1. Aplique as **Regras de Ouro de Redação e Fundamentação** (Seção 4 abaixo);
+  2. Atualize o arquivo `modelos.js`;
+  3. Valide a sintaxe JavaScript e regere o arquivo `MODELOS_ORGANIZADOS.md`;
+  4. Faça `git add`, `git commit` e `git push origin main` para publicar automaticamente no GitHub Pages.
+
+---
+
+## 3. Estrutura de Arquivos e Repositório
+
+- **Diretório Local**: `D:\Antigravity\Projects\comunicacao-inss\`
+- **Repositório GitHub**: `https://github.com/wanderleyamorim/comunicacao-inss.git` (branch `main`)
+- **Painel Online (GitHub Pages)**: `https://wanderleyamorim.github.io/comunicacao-inss/`
+
+### Arquivos do Projeto
+| Arquivo | Função |
+| :--- | :--- |
+| `index.html` | Aplicação Web single-page com busca instantânea (`/`), filtro duplo (Tipo de Ato + 10 Temas + Favoritos), edição de variáveis `[CAMPO]` em tempo real, CRUD na tela (`➕ Novo Modelo` / `✏️ Editar` / `💾 Salvar em modelos.js`) e **Montador Lateral com `[x]`**. |
+| `modelos.js` | Banco de dados estruturado contendo `window.CABECALHOS_EXIGENCIA` (Padrão 30 dias, Representação 75 dias, Manutenção OL 710) e `window.MODELOS_INSS` (todos os modelos cadastrados). |
+| `MODELOS_ORGANIZADOS.md` | Caderno completo em Markdown com Sumário pelos 10 Temas, gerado a partir do `modelos.js` para leitura rápida ou uso no Google Docs. |
+| `.gemini/skills/inss-linguagem-simples/SKILL.md` | Skill de conversão de despachos técnicos para Linguagem Simples (Lei 15.263/2025). |
+| `GEMINI.md` | Este arquivo de regras e memória permanente do projeto. |
+
+---
+
+## 4. Regras de Ouro para os Modelos (`modelos.js`)
+
+1. **Separação entre Despachos Técnicos e Exigências**:
+   - **Despachos de Análise (`ato: "despacho"`) e Internos (`ato: "interno"`)**: Mantêm a linguagem técnica formal e robusta para o processo administrativo (SIBEPU / PAT / Prisma / GET / e-Sisrec). O usuário junta de 2 a 5 blocos marcados com `[x]` no painel para formar seu "despachão" e, quando desejar a versão para o cidadão, cola o texto fechado aqui no chat.
+   - **Exigências ao Segurado (`ato: "exigencia"`)**: Devem ser escritas **sempre em Linguagem Simples, clara, direta e instrutiva** para o segurado entender exatamente qual documento entregar e como obtê-lo, mantendo ao final a citação normativa entre parênteses `(Fundamentação: ...)` para segurança jurídica. No Montador do painel, ao marcar `[x]` nas exigências, o sistema insere automaticamente o Cabeçalho + Passo a Passo do Meu INSS e prazo de 30 dias.
+2. **Respeito Absoluto às Fundamentações Legais**:
+   - **Nunca altere nem remova** as fundamentações legais (Leis, Decretos, Portarias DIRBEN/PRES, ACPs, Ofícios-Circulares, Comunicados) já colocadas pelo usuário.
+   - Corrija apenas gramática, acentuação, pontuação e fluidez textual.
+   - Quando um modelo não tiver artigo citado e houver certeza absoluta da base normativa, complemente utilizando a **Instrução Normativa PRES/INSS nº 128/2022** (referência oficial: `https://portalin.inss.gov.br/in`) e o **Decreto nº 3.048/1999 (RPS)**.
+3. **Anonimização e Campos Variáveis (`[CAMPO]`)**:
+   - Nunca deixe dados reais de processos antigos nos modelos (nomes de segurados, CPFs, NBs, NITs, números de tarefas PAT ou datas específicas de casos passados).
+   - Substitua sempre por variáveis descritivas em colchetes e letras maiúsculas, como `[PERÍODO]`, `[NB]`, `[CPF]`, `[PROTOCOLO PAT]`, `[NOME DA EMPRESA]`, `[DATA DO FATO GERADOR]`. O `index.html` detecta automaticamente qualquer `[VARIÁVEL]` e cria caixinhas de preenchimento rápido no cartão.
+4. **Classificação Padronizada no Painel**:
+   - **Tipos de Ato (`ato`)**: `"despacho"` | `"exigencia"` | `"interno"` | `"roteiro"`
+   - **10 Temas Oficiais (`tema`)**:
+     1. `"Geral / Processual"`
+     2. `"Salário-Maternidade (B80)"`
+     3. `"Rural / Segurado Especial"`
+     4. `"Atividade Especial / PPP"`
+     5. `"CNIS, DARF, GPS e Vínculos"`
+     6. `"Representação / Procuração"`
+     7. `"LOAS / BPC"`
+     8. `"Reavaliação BPC (REAVBPC)"`
+     9. `"Manutenção (OL 710) e MOB"`
+     10. `"Recursos, Revisões, CTC e BI"`
+
+---
+
+## 5. Procedimento Padrão de Atualização e Deploy no GitHub
+
+Sempre que modificar `modelos.js` ou `index.html`:
+
+1. **Validar `modelos.js` e atualizar `MODELOS_ORGANIZADOS.md`**:
+   Execute um script rápido via Node.js para garantir que `modelos.js` carrega sem erros de sintaxe, que não há IDs duplicados e para regerar `MODELOS_ORGANIZADOS.md`.
+2. **Sincronizar com o GitHub**:
+   Execute `git add .`, `git commit -m "..."` e `git push origin main` para que o link `https://wanderleyamorim.github.io/comunicacao-inss/` reflita as alterações imediatamente.
