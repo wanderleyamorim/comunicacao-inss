@@ -1,0 +1,1692 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Painel de Despachos e Exigências — INSS</title>
+  <style>
+    :root {
+      --bg: #f1f5f9;
+      --surface: #ffffff;
+      --surface-hover: #f8fafc;
+      --border: #e2e8f0;
+      --border-strong: #cbd5e1;
+      --text: #0f172a;
+      --text-muted: #475569;
+      --text-light: #64748b;
+      --primary: #1d4ed8;
+      --primary-hover: #1e40af;
+      --primary-soft: #dbeafe;
+      --accent-despacho: #0369a1;
+      --accent-despacho-bg: #e0f2fe;
+      --accent-exigencia: #047857;
+      --accent-exigencia-bg: #d1fae5;
+      --accent-interno: #6d28d9;
+      --accent-interno-bg: #ede9fe;
+      --accent-roteiro: #b45309;
+      --accent-roteiro-bg: #fef3c7;
+      --var-bg: #fef9c3;
+      --var-border: #facc15;
+      --var-text: #854d0e;
+      --success: #15803d;
+      --danger: #b91c1c;
+      --shadow-sm: 0 1px 2px rgba(15, 23, 42, 0.06);
+      --shadow-md: 0 4px 12px rgba(15, 23, 42, 0.08);
+      --radius: 10px;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      min-height: 100vh;
+    }
+
+    /* TOP HEADER */
+    .topbar {
+      background: #0f172a;
+      color: #fff;
+      padding: 12px 20px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+    }
+
+    .topbar-inner {
+      max-width: 1680px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .brand-badge {
+      background: #2563eb;
+      color: #fff;
+      font-weight: 800;
+      font-size: 0.85rem;
+      padding: 6px 10px;
+      border-radius: 8px;
+      letter-spacing: 0.04em;
+    }
+
+    .brand h1 {
+      font-size: 1.05rem;
+      font-weight: 700;
+    }
+
+    .brand p {
+      font-size: 0.76rem;
+      color: #94a3b8;
+    }
+
+    .topbar-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .btn-top {
+      background: rgba(255, 255, 255, 0.1);
+      color: #f8fafc;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      padding: 7px 12px;
+      border-radius: 7px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.15s;
+      text-decoration: none;
+    }
+
+    .btn-top:hover {
+      background: rgba(255, 255, 255, 0.2);
+    }
+
+    .btn-top.primary {
+      background: #2563eb;
+      border-color: #3b82f6;
+    }
+
+    .btn-top.primary:hover {
+      background: #1d4ed8;
+    }
+
+    .btn-top.save-highlight {
+      background: #ca8a04;
+      border-color: #eab308;
+      color: #fff;
+    }
+
+    /* CONTROLS BAR (SEARCH + FILTERS) */
+    .controls-section {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 14px 20px;
+    }
+
+    .controls-inner {
+      max-width: 1680px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .search-row {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .search-box {
+      flex: 1;
+      min-width: 280px;
+      position: relative;
+    }
+
+    .search-box input {
+      width: 100%;
+      padding: 11px 38px 11px 38px;
+      font-size: 0.95rem;
+      border: 2px solid var(--border-strong);
+      border-radius: 9px;
+      outline: none;
+      transition: border-color 0.15s, box-shadow 0.15s;
+    }
+
+    .search-box input:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px rgba(29, 78, 216, 0.12);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-light);
+      font-size: 1rem;
+      pointer-events: none;
+    }
+
+    .search-clear {
+      position: absolute;
+      right: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      color: var(--text-light);
+      font-size: 1.1rem;
+      cursor: pointer;
+      display: none;
+      padding: 4px;
+    }
+
+    .stats-pill {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      background: var(--bg);
+      padding: 8px 12px;
+      border-radius: 8px;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    .filter-group {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .filter-label {
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      color: var(--text-light);
+      margin-right: 4px;
+      letter-spacing: 0.04em;
+    }
+
+    .pill {
+      border: 1px solid var(--border-strong);
+      background: var(--surface);
+      color: var(--text-muted);
+      padding: 5px 11px;
+      border-radius: 999px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      transition: all 0.12s;
+    }
+
+    .pill:hover {
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    .pill.active {
+      background: var(--primary);
+      border-color: var(--primary);
+      color: #fff;
+    }
+
+    .pill.fav-pill.active {
+      background: #d97706;
+      border-color: #d97706;
+      color: #fff;
+    }
+
+    .pill .count {
+      font-size: 0.72rem;
+      opacity: 0.85;
+      background: rgba(0, 0, 0, 0.08);
+      padding: 1px 6px;
+      border-radius: 999px;
+    }
+
+    .pill.active .count {
+      background: rgba(255, 255, 255, 0.22);
+    }
+
+    /* MAIN WORKSPACE LAYOUT */
+    .workspace {
+      max-width: 1680px;
+      margin: 0 auto;
+      padding: 18px 20px 60px;
+      display: grid;
+      grid-template-columns: 1fr 470px;
+      gap: 20px;
+      align-items: start;
+    }
+
+    @media (max-width: 1180px) {
+      .workspace {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* CARDS LIST */
+    .cards-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1.5px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px 16px;
+      box-shadow: var(--shadow-sm);
+      transition: border-color 0.15s, box-shadow 0.15s;
+    }
+
+    .card:hover {
+      border-color: var(--border-strong);
+      box-shadow: var(--shadow-md);
+    }
+
+    .card.selected {
+      border-color: var(--primary);
+      background: #f8faff;
+      box-shadow: 0 0 0 2px rgba(29, 78, 216, 0.12);
+    }
+
+    .card-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 8px;
+    }
+
+    .card-check-title {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      flex: 1;
+      cursor: pointer;
+    }
+
+    .card-checkbox {
+      width: 20px;
+      height: 20px;
+      margin-top: 2px;
+      accent-color: var(--primary);
+      cursor: pointer;
+      flex-shrink: 0;
+    }
+
+    .card-title-wrap {
+      flex: 1;
+    }
+
+    .card-badges {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+      margin-bottom: 4px;
+    }
+
+    .badge {
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: 5px;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+
+    .badge.despacho {
+      background: var(--accent-despacho-bg);
+      color: var(--accent-despacho);
+    }
+
+    .badge.exigencia {
+      background: var(--accent-exigencia-bg);
+      color: var(--accent-exigencia);
+    }
+
+    .badge.interno {
+      background: var(--accent-interno-bg);
+      color: var(--accent-interno);
+    }
+
+    .badge.roteiro {
+      background: var(--accent-roteiro-bg);
+      color: var(--accent-roteiro);
+    }
+
+    .badge.tema {
+      background: var(--bg);
+      color: var(--text-muted);
+      font-weight: 600;
+      text-transform: none;
+    }
+
+    .card-title {
+      font-size: 0.98rem;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .card-resumo {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+
+    .card-actions {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-shrink: 0;
+    }
+
+    .btn-icon {
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--text-muted);
+      padding: 5px 9px;
+      border-radius: 6px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      transition: all 0.12s;
+    }
+
+    .btn-icon:hover {
+      background: var(--bg);
+      color: var(--text);
+      border-color: var(--border-strong);
+    }
+
+    .btn-icon.fav.active {
+      color: #d97706;
+      border-color: #fcd34d;
+      background: #fffbeb;
+    }
+
+    .btn-icon.copy-single {
+      background: var(--primary-soft);
+      color: var(--primary);
+      border-color: #bfdbfe;
+    }
+
+    .btn-icon.copy-single:hover {
+      background: var(--primary);
+      color: #fff;
+    }
+
+    /* VARIABLES BAR IN CARD */
+    .vars-bar {
+      background: #fffbeb;
+      border: 1px solid #fde68a;
+      border-radius: 8px;
+      padding: 8px 10px;
+      margin: 8px 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .vars-bar-label {
+      font-size: 0.74rem;
+      font-weight: 700;
+      color: #92400e;
+    }
+
+    .var-field {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      background: #fff;
+      border: 1px solid #fcd34d;
+      border-radius: 6px;
+      padding: 2px 6px;
+    }
+
+    .var-field label {
+      font-size: 0.72rem;
+      font-weight: 700;
+      color: #78350f;
+      white-space: nowrap;
+    }
+
+    .var-field input {
+      border: none;
+      outline: none;
+      font-size: 0.78rem;
+      padding: 3px 4px;
+      min-width: 120px;
+      color: var(--text);
+    }
+
+    /* CARD TEXT BODY */
+    .card-body {
+      background: #f8fafc;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 12px;
+      font-size: 0.86rem;
+      color: #1e293b;
+      white-space: pre-wrap;
+      word-break: break-word;
+      font-family: "Segoe UI", Roboto, sans-serif;
+    }
+
+    .var-highlight {
+      background: var(--var-bg);
+      border: 1px solid var(--var-border);
+      color: var(--var-text);
+      font-weight: 700;
+      padding: 0 4px;
+      border-radius: 4px;
+    }
+
+    .var-filled {
+      background: #dcfce7;
+      border: 1px solid #86efac;
+      color: #166534;
+      font-weight: 700;
+      padding: 0 4px;
+      border-radius: 4px;
+    }
+
+    .card-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      margin-top: 8px;
+    }
+
+    .tag-chip {
+      font-size: 0.7rem;
+      color: var(--text-light);
+      background: var(--bg);
+      padding: 1px 7px;
+      border-radius: 4px;
+    }
+
+    /* STICKY MONTADOR PANEL */
+    .montador {
+      background: var(--surface);
+      border: 2px solid var(--border-strong);
+      border-radius: 12px;
+      position: sticky;
+      top: 72px;
+      box-shadow: var(--shadow-md);
+      display: flex;
+      flex-direction: column;
+      max-height: calc(100vh - 90px);
+      overflow: hidden;
+    }
+
+    .montador-header {
+      background: #0f172a;
+      color: #fff;
+      padding: 12px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    .montador-header h2 {
+      font-size: 0.95rem;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .montador-count {
+      background: #2563eb;
+      color: #fff;
+      padding: 2px 8px;
+      border-radius: 999px;
+      font-size: 0.76rem;
+    }
+
+    .montador-modes {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      border-bottom: 1px solid var(--border);
+      background: var(--bg);
+    }
+
+    .mode-tab {
+      padding: 9px 10px;
+      font-size: 0.8rem;
+      font-weight: 700;
+      text-align: center;
+      border: none;
+      background: transparent;
+      color: var(--text-muted);
+      cursor: pointer;
+      border-bottom: 2.5px solid transparent;
+      transition: all 0.15s;
+    }
+
+    .mode-tab.active {
+      background: var(--surface);
+      color: var(--primary);
+      border-bottom-color: var(--primary);
+    }
+
+    .montador-options {
+      padding: 10px 14px;
+      border-bottom: 1px solid var(--border);
+      background: #f8fafc;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      font-size: 0.8rem;
+    }
+
+    .montador-options label {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      cursor: pointer;
+      font-weight: 600;
+      color: var(--text-muted);
+    }
+
+    .montador-options select,
+    .montador-options input[type="text"] {
+      width: 100%;
+      padding: 6px 8px;
+      border: 1px solid var(--border-strong);
+      border-radius: 6px;
+      font-size: 0.8rem;
+      background: #fff;
+    }
+
+    .selected-chips {
+      padding: 8px 14px;
+      border-bottom: 1px solid var(--border);
+      max-height: 135px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+    }
+
+    .selected-item-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 6px;
+      background: var(--bg);
+      padding: 4px 8px;
+      border-radius: 6px;
+      font-size: 0.77rem;
+    }
+
+    .selected-item-title {
+      font-weight: 600;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      flex: 1;
+    }
+
+    .selected-item-btns {
+      display: flex;
+      gap: 3px;
+    }
+
+    .selected-item-btns button {
+      border: 1px solid var(--border-strong);
+      background: #fff;
+      border-radius: 4px;
+      padding: 1px 5px;
+      font-size: 0.7rem;
+      cursor: pointer;
+    }
+
+    .montador-body {
+      padding: 12px 14px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      overflow-y: auto;
+    }
+
+    .montador-textarea {
+      width: 100%;
+      min-height: 250px;
+      flex: 1;
+      resize: vertical;
+      padding: 10px 12px;
+      border: 1.5px solid var(--border-strong);
+      border-radius: 8px;
+      font-family: "Segoe UI", Roboto, sans-serif;
+      font-size: 0.85rem;
+      line-height: 1.45;
+      color: var(--text);
+      outline: none;
+    }
+
+    .montador-textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .montador-footer {
+      padding: 12px 14px;
+      border-top: 1px solid var(--border);
+      background: #f8fafc;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .btn-copy-main {
+      width: 100%;
+      padding: 11px 14px;
+      background: var(--primary);
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      font-weight: 700;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      transition: background 0.15s;
+    }
+
+    .btn-copy-main:hover {
+      background: var(--primary-hover);
+    }
+
+    .btn-copy-main.copied {
+      background: var(--success);
+    }
+
+    .montador-subbtns {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+    }
+
+    .btn-secondary {
+      padding: 7px 10px;
+      border: 1px solid var(--border-strong);
+      background: #fff;
+      color: var(--text-muted);
+      border-radius: 7px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      cursor: pointer;
+      text-align: center;
+    }
+
+    .btn-secondary:hover {
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    /* MODAL FOR EDIT / NEW MODEL */
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(15, 23, 42, 0.55);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 300;
+      padding: 20px;
+    }
+
+    .modal-backdrop.open {
+      display: flex;
+    }
+
+    .modal {
+      background: var(--surface);
+      border-radius: 12px;
+      width: 100%;
+      max-width: 720px;
+      max-height: 90vh;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);
+      overflow: hidden;
+    }
+
+    .modal-header {
+      padding: 14px 18px;
+      background: #0f172a;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .modal-body {
+      padding: 18px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .form-group label {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--text-muted);
+    }
+
+    .form-group input,
+    .form-group select,
+    .form-group textarea {
+      padding: 8px 10px;
+      border: 1.5px solid var(--border-strong);
+      border-radius: 7px;
+      font-size: 0.88rem;
+      font-family: inherit;
+    }
+
+    .modal-footer {
+      padding: 12px 18px;
+      border-top: 1px solid var(--border);
+      background: var(--bg);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .empty-state {
+      background: var(--surface);
+      border: 1.5px dashed var(--border-strong);
+      border-radius: var(--radius);
+      padding: 40px 20px;
+      text-align: center;
+      color: var(--text-muted);
+    }
+
+    .toast {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: #0f172a;
+      color: #fff;
+      padding: 10px 16px;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      box-shadow: var(--shadow-md);
+      z-index: 400;
+      opacity: 0;
+      transform: translateY(10px);
+      pointer-events: none;
+      transition: all 0.2s;
+    }
+
+    .toast.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- TOPBAR -->
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <span class="brand-badge">INSS • IN 128</span>
+        <div>
+          <h1>Central de Despachos, Exigências e Fluxos</h1>
+          <p>Marque <b>[x]</b> nos blocos para montar seu Despacho Técnico ou Carta de Exigência em Linguagem Simples</p>
+        </div>
+      </div>
+      <div class="topbar-actions">
+        <button class="btn-top primary" onclick="openModal()">➕ Novo Modelo</button>
+        <button class="btn-top" id="btnSaveFile" onclick="salvarNoArquivoJS()" title="Salva todas as alterações diretamente no arquivo modelos.js para sincronizar com o GitHub/nuvem">
+          💾 Salvar em modelos.js
+        </button>
+        <a class="btn-top" href="https://portalin.inss.gov.br/in" target="_blank" rel="noopener">📖 Portal IN 128</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- SEARCH & FILTERS -->
+  <section class="controls-section">
+    <div class="controls-inner">
+      <div class="search-row">
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input
+            type="text"
+            id="searchInput"
+            placeholder="Buscar por palavra-chave, benefício (B80, B41, B21, B94, BPC), artigo (art. 107, 574, 12.534) ou sistema (LIBDUP, FERR, GFIPWEB)... [Atalho: /]"
+            oninput="renderCards()"
+          />
+          <button class="search-clear" id="searchClear" onclick="clearSearch()">✕</button>
+        </div>
+        <div class="stats-pill" id="statsPill">Carregando modelos...</div>
+      </div>
+
+      <!-- FILTER ROW 1: TIPO DE ATO -->
+      <div class="filter-group" id="atoFilters"></div>
+
+      <!-- FILTER ROW 2: 10 TEMAS -->
+      <div class="filter-group" id="temaFilters"></div>
+    </div>
+  </section>
+
+  <!-- WORKSPACE -->
+  <main class="workspace">
+    <!-- LEFT: CARDS -->
+    <div class="cards-list" id="cardsContainer"></div>
+
+    <!-- RIGHT: MONTADOR COM [X] -->
+    <aside class="montador">
+      <div class="montador-header">
+        <h2>
+          <span>🧩 Montador com [x]</span>
+          <span class="montador-count" id="montadorCount">0 marcados</span>
+        </h2>
+        <button class="btn-top" style="padding:4px 8px;font-size:0.74rem;" onclick="limparSelecao()">Limpar [x]</button>
+      </div>
+
+      <div class="montador-modes">
+        <button class="mode-tab active" id="tabModoDespacho" onclick="setModoMontador('despacho')">
+          📋 Modo Despachão
+        </button>
+        <button class="mode-tab" id="tabModoExigencia" onclick="setModoMontador('exigencia')">
+          📩 Modo Carta de Exigência
+        </button>
+      </div>
+
+      <!-- OPTIONS FOR DESPACHO MODE -->
+      <div class="montador-options" id="opcoesDespacho">
+        <label>
+          <input type="checkbox" id="chkNumerarDespacho" checked onchange="atualizarTextoMontado()" />
+          Numerar parágrafos automaticamente (1., 2., 3...)
+        </label>
+      </div>
+
+      <!-- OPTIONS FOR EXIGENCIA MODE -->
+      <div class="montador-options" id="opcoesExigencia" style="display:none;">
+        <div style="display:flex;flex-direction:column;gap:4px;">
+          <span style="font-weight:700;color:var(--text-muted);font-size:0.75rem;">Modelo de Cabeçalho + Passo a Passo Meu INSS / Prazo:</span>
+          <select id="selCabecalhoExigencia" onchange="atualizarTextoMontado()">
+            <option value="padrao">Padrão Geral (Meu INSS / 135 — Prazo de 30 dias)</option>
+            <option value="representacao75">Representação / Procuração (Encerramento em 75 dias)</option>
+            <option value="manutencao710">Manutenção OL 710 (Procurador / Representante Legal)</option>
+            <option value="nenhum">Apenas os itens marcados (sem cabeçalho/rodapé)</option>
+          </select>
+        </div>
+        <div style="display:flex;gap:6px;align-items:center;">
+          <span style="font-weight:700;color:var(--text-muted);font-size:0.75rem;white-space:nowrap;">Pedido/Serviço:</span>
+          <input type="text" id="inpBeneficioExigencia" placeholder="Ex: Aposentadoria / Salário-Maternidade / BPC" oninput="atualizarTextoMontado()" />
+        </div>
+      </div>
+
+      <!-- SELECTED ITEMS REORDER LIST -->
+      <div class="selected-chips" id="selectedItemsList" style="display:none;"></div>
+
+      <!-- ASSEMBLED TEXTAREA -->
+      <div class="montador-body">
+        <textarea
+          class="montador-textarea"
+          id="montadorOutput"
+          placeholder="Marque [x] em 1 ou mais blocos ao lado para montar automaticamente o seu Despachão numerado ou a sua Carta de Exigência completa..."
+        ></textarea>
+      </div>
+
+      <!-- FOOTER BUTTONS -->
+      <div class="montador-footer">
+        <button class="btn-copy-main" id="btnCopyMain" onclick="copiarTextoMontado()">
+          📋 Copiar Texto Montado
+        </button>
+        <div class="montador-subbtns">
+          <button class="btn-secondary" onclick="copiarParaLinguagemSimples()" title="Copia o despacho pronto para colar no chat do Antigravity e gerar a versão em Linguagem Simples">
+            ✨ Copiar p/ Linguagem Simples
+          </button>
+          <button class="btn-secondary" onclick="limparSelecao()">
+            🧹 Desmarcar Todos
+          </button>
+        </div>
+      </div>
+    </aside>
+  </main>
+
+  <!-- MODAL: NOVO / EDITAR MODELO -->
+  <div class="modal-backdrop" id="modalBackdrop">
+    <div class="modal">
+      <div class="modal-header">
+        <h3 id="modalTitle">Editar Modelo</h3>
+        <button class="btn-top" onclick="closeModal()">✕ Fechar</button>
+      </div>
+      <div class="modal-body">
+        <input type="hidden" id="editId" />
+        <div class="form-group">
+          <label>Título do Modelo</label>
+          <input type="text" id="editTitulo" placeholder="Ex: Maternidade: Empregada Ativa na Data do Parto" />
+        </div>
+        <div class="form-row">
+          <div class="form-group">
+            <label>Tipo de Ato</label>
+            <select id="editAto">
+              <option value="despacho">📋 Despacho de Análise</option>
+              <option value="exigencia">📩 Exigência ao Segurado (Linguagem Simples)</option>
+              <option value="interno">⚙️ Despacho Interno (LIBDUP, FERR, GFIPWEB, PMF)</option>
+              <option value="roteiro">🧭 Roteiro / Checklist</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Tema / Categoria</label>
+            <select id="editTema"></select>
+          </div>
+        </div>
+        <div class="form-group">
+          <label>Resumo Curto (aparece abaixo do título para facilitar a busca)</label>
+          <input type="text" id="editResumo" placeholder="Resumo rápido de quando usar este modelo..." />
+        </div>
+        <div class="form-group">
+          <label>Palavras-chave / Tags (separadas por vírgula)</label>
+          <input type="text" id="editTags" placeholder="Ex: B80, art. 107, facultativo, salário-maternidade" />
+        </div>
+        <div class="form-group">
+          <label>Texto do Modelo (use [NOME DO CAMPO] entre colchetes para criar campos preenchíveis)</label>
+          <textarea id="editTexto" rows="9" placeholder="Digite o texto do despacho ou exigência..."></textarea>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn-secondary" id="btnDeleteModel" style="color:var(--danger);border-color:#fca5a5;" onclick="excluirModeloAtual()">
+          🗑️ Excluir Modelo
+        </button>
+        <div style="display:flex;gap:8px;">
+          <button class="btn-secondary" onclick="closeModal()">Cancelar</button>
+          <button class="btn-top primary" onclick="salvarModeloModal()">✅ Salvar Modelo</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast">Copiado!</div>
+
+  <script src="modelos.js"></script>
+  <script>
+    const STORAGE_KEY = "inss_painel_modelos_v1";
+    const FAVS_KEY = "inss_painel_favoritos_v1";
+
+    const LISTA_TEMAS = [
+      "Geral / Processual",
+      "Salário-Maternidade (B80)",
+      "Rural / Segurado Especial",
+      "Atividade Especial / PPP",
+      "CNIS, DARF, GPS e Vínculos",
+      "Representação / Procuração",
+      "LOAS / BPC",
+      "Reavaliação BPC (REAVBPC)",
+      "Manutenção (OL 710) e MOB",
+      "Recursos, Revisões, CTC e BI"
+    ];
+
+    const LISTA_ATOS = [
+      { id: "favoritos", label: "⭐ Favoritos", isFav: true },
+      { id: "todos", label: "Todos" },
+      { id: "despacho", label: "📋 Despachos de Análise" },
+      { id: "exigencia", label: "📩 Exigências (Linguagem Simples)" },
+      { id: "interno", label: "⚙️ Despachos Internos" },
+      { id: "roteiro", label: "🧭 Roteiros / Checklists" }
+    ];
+
+    let modelos = [];
+    let filtroAto = "todos";
+    let filtroTema = "todos";
+    let selecionadosIds = []; // Ordem em que o usuário marcou [x]
+    let valoresVariaveis = {}; // { [id_modelo + "::" + varName]: valor }
+    let modoMontador = "despacho"; // 'despacho' | 'exigencia'
+    let temAlteracoesNaoExportadas = false;
+
+    function carregarDados() {
+      const base = Array.isArray(window.MODELOS_INSS) ? window.MODELOS_INSS : [];
+      const salvosJSON = localStorage.getItem(STORAGE_KEY);
+      const favsJSON = localStorage.getItem(FAVS_KEY);
+      const favMap = favsJSON ? JSON.parse(favsJSON) : {};
+
+      if (salvosJSON) {
+        try {
+          const customList = JSON.parse(salvosJSON);
+          // Mescla preservando novos modelos do arquivo modelos.js caso o arquivo seja atualizado
+          const mapCustom = new Map(customList.map(m => [m.id, m]));
+          modelos = base.map(m => mapCustom.get(m.id) || m);
+          customList.forEach(m => {
+            if (!modelos.some(x => x.id === m.id)) modelos.push(m);
+          });
+        } catch (e) {
+          modelos = [...base];
+        }
+      } else {
+        modelos = [...base];
+      }
+
+      modelos.forEach(m => {
+        if (favMap[m.id] !== undefined) {
+          m.favorito = favMap[m.id];
+        }
+      });
+
+      // Preenche select de temas no modal
+      const selTema = document.getElementById("editTema");
+      selTema.innerHTML = LISTA_TEMAS.map(t => `<option value="${escapeHtml(t)}">${escapeHtml(t)}</option>`).join("");
+    }
+
+    function salvarLocalStorage() {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(modelos));
+      const favMap = {};
+      modelos.forEach(m => { favMap[m.id] = !!m.favorito; });
+      localStorage.setItem(FAVS_KEY, JSON.stringify(favMap));
+    }
+
+    function normalizarTexto(str) {
+      return (str || "")
+        .toLowerCase()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "");
+    }
+
+    function escapeHtml(str) {
+      return String(str || "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    function extrairVariaveis(texto) {
+      const regex = /\[([^\[\]]{2,80})\]/g;
+      const encontradas = [];
+      let match;
+      while ((match = regex.exec(texto)) !== null) {
+        const nome = match[1].trim();
+        // Ignora marcadores de orientação longos no início de blocos internos
+        if (nome.startsWith("Orientação:") || nome.startsWith("Lembrete Operacional") || nome.startsWith("Escolher conforme")) {
+          continue;
+        }
+        if (!encontradas.includes(nome)) {
+          encontradas.push(nome);
+        }
+      }
+      return encontradas;
+    }
+
+    function obterTextoComVariaveisPreenchidas(modelo) {
+      let txt = modelo.texto;
+      const vars = extrairVariaveis(txt);
+      vars.forEach(v => {
+        const val = (valoresVariaveis[modelo.id + "::" + v] || "").trim();
+        if (val) {
+          txt = txt.split("[" + v + "]").join(val);
+        }
+      });
+      return txt;
+    }
+
+    function formatarCorpoCardHTML(modelo) {
+      let html = escapeHtml(modelo.texto);
+      const vars = extrairVariaveis(modelo.texto);
+      vars.forEach(v => {
+        const escapedVar = escapeHtml(v);
+        const val = (valoresVariaveis[modelo.id + "::" + v] || "").trim();
+        if (val) {
+          html = html.split("[" + escapedVar + "]").join(`<span class="var-filled">${escapeHtml(val)}</span>`);
+        } else {
+          html = html.split("[" + escapedVar + "]").join(`<span class="var-highlight">[${escapedVar}]</span>`);
+        }
+      });
+      return html;
+    }
+
+    function renderFilters() {
+      const q = normalizarTexto(document.getElementById("searchInput").value);
+
+      // Filtra por busca para calcular contadores
+      const baseBusca = modelos.filter(m => {
+        if (!q) return true;
+        const alvo = normalizarTexto(m.titulo + " " + m.resumo + " " + (m.tags || []).join(" ") + " " + m.texto + " " + m.tema);
+        return q.split(/\s+/).every(termo => alvo.includes(termo));
+      });
+
+      const atoContainer = document.getElementById("atoFilters");
+      atoContainer.innerHTML = `<span class="filter-label">Ato:</span>` + LISTA_ATOS.map(a => {
+        const count = baseBusca.filter(m => {
+          if (filtroTema !== "todos" && m.tema !== filtroTema) return false;
+          if (a.id === "favoritos") return !!m.favorito;
+          if (a.id === "todos") return true;
+          return m.ato === a.id;
+        }).length;
+        const activeClass = filtroAto === a.id ? "active" : "";
+        const favClass = a.isFav ? "fav-pill" : "";
+        return `<button class="pill ${favClass} ${activeClass}" onclick="setFiltroAto('${a.id}')">
+          ${a.label} <span class="count">${count}</span>
+        </button>`;
+      }).join("");
+
+      const temaContainer = document.getElementById("temaFilters");
+      const totalTemasCount = baseBusca.filter(m => {
+        if (filtroAto === "favoritos") return !!m.favorito;
+        if (filtroAto === "todos") return true;
+        return m.ato === filtroAto;
+      }).length;
+
+      let temasHTML = `<span class="filter-label">Tema:</span>
+        <button class="pill ${filtroTema === 'todos' ? 'active' : ''}" onclick="setFiltroTema('todos')">
+          Todos os Temas <span class="count">${totalTemasCount}</span>
+        </button>`;
+
+      LISTA_TEMAS.forEach((tema, idx) => {
+        const count = baseBusca.filter(m => {
+          if (m.tema !== tema) return false;
+          if (filtroAto === "favoritos") return !!m.favorito;
+          if (filtroAto === "todos") return true;
+          return m.ato === filtroAto;
+        }).length;
+        const activeClass = filtroTema === tema ? "active" : "";
+        temasHTML += `<button class="pill ${activeClass}" onclick="setFiltroTema('${escapeHtml(tema)}')">
+          ${idx + 1}. ${escapeHtml(tema)} <span class="count">${count}</span>
+        </button>`;
+      });
+
+      temaContainer.innerHTML = temasHTML;
+    }
+
+    function setFiltroAto(ato) {
+      filtroAto = ato;
+      renderCards();
+    }
+
+    function setFiltroTema(tema) {
+      filtroTema = tema;
+      renderCards();
+    }
+
+    function clearSearch() {
+      document.getElementById("searchInput").value = "";
+      renderCards();
+      document.getElementById("searchInput").focus();
+    }
+
+    function labelAto(ato) {
+      if (ato === "despacho") return "Despacho de Análise";
+      if (ato === "exigencia") return "Exigência (Linguagem Simples)";
+      if (ato === "interno") return "Despacho Interno";
+      return "Roteiro / Checklist";
+    }
+
+    function renderCards() {
+      const inputEl = document.getElementById("searchInput");
+      const q = normalizarTexto(inputEl.value);
+      document.getElementById("searchClear").style.display = q ? "block" : "none";
+
+      renderFilters();
+
+      const filtrados = modelos.filter(m => {
+        if (filtroAto === "favoritos" && !m.favorito) return false;
+        if (filtroAto !== "todos" && filtroAto !== "favoritos" && m.ato !== filtroAto) return false;
+        if (filtroTema !== "todos" && m.tema !== filtroTema) return false;
+        if (q) {
+          const alvo = normalizarTexto(m.titulo + " " + m.resumo + " " + (m.tags || []).join(" ") + " " + m.texto + " " + m.tema);
+          return q.split(/\s+/).every(termo => alvo.includes(termo));
+        }
+        return true;
+      });
+
+      document.getElementById("statsPill").textContent = `${filtrados.length} de ${modelos.length} modelos exibidos`;
+
+      const container = document.getElementById("cardsContainer");
+      if (filtrados.length === 0) {
+        container.innerHTML = `
+          <div class="empty-state">
+            <h3>Nenhum modelo encontrado para este filtro</h3>
+            <p style="margin-top:6px;">Tente limpar a busca ou selecionar "Todos" nos filtros acima.</p>
+          </div>`;
+        return;
+      }
+
+      container.innerHTML = filtrados.map(m => {
+        const isChecked = selecionadosIds.includes(m.id);
+        const vars = extrairVariaveis(m.texto);
+
+        let varsHTML = "";
+        if (vars.length > 0) {
+          varsHTML = `<div class="vars-bar">
+            <span class="vars-bar-label">✏️ Preencher campos:</span>
+            ${vars.map(v => {
+              const key = m.id + "::" + v;
+              const val = valoresVariaveis[key] || "";
+              return `<div class="var-field">
+                <label>${escapeHtml(v)}:</label>
+                <input
+                  type="text"
+                  value="${escapeHtml(val)}"
+                  placeholder="Digite aqui..."
+                  oninput="atualizarVariavel('${m.id}', '${escapeHtml(v).replace(/'/g, "\\'")}', this.value)"
+                />
+              </div>`;
+            }).join("")}
+          </div>`;
+        }
+
+        return `
+          <article class="card ${isChecked ? 'selected' : ''}" id="card-${m.id}">
+            <div class="card-header">
+              <label class="card-check-title">
+                <input
+                  type="checkbox"
+                  class="card-checkbox"
+                  ${isChecked ? "checked" : ""}
+                  onchange="toggleSelecao('${m.id}', this.checked)"
+                />
+                <div class="card-title-wrap">
+                  <div class="card-badges">
+                    <span class="badge ${m.ato}">${labelAto(m.ato)}</span>
+                    <span class="badge tema">${escapeHtml(m.tema)}</span>
+                  </div>
+                  <div class="card-title">${escapeHtml(m.titulo)}</div>
+                  ${m.resumo ? `<div class="card-resumo">${escapeHtml(m.resumo)}</div>` : ""}
+                </div>
+              </label>
+              <div class="card-actions">
+                <button class="btn-icon fav ${m.favorito ? 'active' : ''}" onclick="toggleFavorito('${m.id}')" title="Fixar nos Favoritos">
+                  ${m.favorito ? "⭐" : "☆"}
+                </button>
+                <button class="btn-icon" onclick="openModal('${m.id}')" title="Editar este modelo">
+                  ✏️ Editar
+                </button>
+                <button class="btn-icon copy-single" onclick="copiarUnico('${m.id}')" title="Copiar apenas este bloco">
+                  📋 Copiar
+                </button>
+              </div>
+            </div>
+            ${varsHTML}
+            <div class="card-body" id="body-${m.id}">${formatarCorpoCardHTML(m)}</div>
+            ${(m.tags && m.tags.length) ? `
+              <div class="card-tags">
+                ${m.tags.map(t => `<span class="tag-chip">#${escapeHtml(t)}</span>`).join("")}
+              </div>` : ""}
+          </article>
+        `;
+      }).join("");
+    }
+
+    function atualizarVariavel(modeloId, varName, valor) {
+      valoresVariaveis[modeloId + "::" + varName] = valor;
+      const modelo = modelos.find(m => m.id === modeloId);
+      if (modelo) {
+        const bodyEl = document.getElementById("body-" + modeloId);
+        if (bodyEl) bodyEl.innerHTML = formatarCorpoCardHTML(modelo);
+      }
+      if (selecionadosIds.includes(modeloId)) {
+        atualizarTextoMontado();
+      }
+    }
+
+    function toggleFavorito(id) {
+      const m = modelos.find(x => x.id === id);
+      if (!m) return;
+      m.favorito = !m.favorito;
+      salvarLocalStorage();
+      renderCards();
+    }
+
+    function toggleSelecao(id, checked) {
+      const m = modelos.find(x => x.id === id);
+      if (checked) {
+        if (!selecionadosIds.includes(id)) {
+          selecionadosIds.push(id);
+        }
+        // Se for o primeiro item selecionado, ajusta automaticamente o modo do Montador
+        if (selecionadosIds.length === 1 && m) {
+          if (m.ato === "exigencia") {
+            setModoMontador("exigencia");
+          } else {
+            setModoMontador("despacho");
+          }
+        }
+      } else {
+        selecionadosIds = selecionadosIds.filter(x => x !== id);
+      }
+      const cardEl = document.getElementById("card-" + id);
+      if (cardEl) cardEl.classList.toggle("selected", checked);
+      renderSelectedChips();
+      atualizarTextoMontado();
+    }
+
+    function moverSelecionado(idx, direcao) {
+      const novoIdx = idx + direcao;
+      if (novoIdx < 0 || novoIdx >= selecionadosIds.length) return;
+      const temp = selecionadosIds[idx];
+      selecionadosIds[idx] = selecionadosIds[novoIdx];
+      selecionadosIds[novoIdx] = temp;
+      renderSelectedChips();
+      atualizarTextoMontado();
+    }
+
+    function renderSelectedChips() {
+      const countEl = document.getElementById("montadorCount");
+      countEl.textContent = `${selecionadosIds.length} ${selecionadosIds.length === 1 ? "marcado" : "marcados"}`;
+
+      const listEl = document.getElementById("selectedItemsList");
+      if (selecionadosIds.length === 0) {
+        listEl.style.display = "none";
+        listEl.innerHTML = "";
+        return;
+      }
+
+      listEl.style.display = "flex";
+      listEl.innerHTML = selecionadosIds.map((id, idx) => {
+        const m = modelos.find(x => x.id === id);
+        if (!m) return "";
+        return `
+          <div class="selected-item-row">
+            <span class="selected-item-title">${idx + 1}. ${escapeHtml(m.titulo)}</span>
+            <div class="selected-item-btns">
+              <button onclick="moverSelecionado(${idx}, -1)" title="Subir">↑</button>
+              <button onclick="moverSelecionado(${idx}, 1)" title="Descer">↓</button>
+              <button onclick="toggleSelecao('${id}', false); renderCards();" title="Remover">✕</button>
+            </div>
+          </div>
+        `;
+      }).join("");
+    }
+
+    function setModoMontador(modo) {
+      modoMontador = modo;
+      document.getElementById("tabModoDespacho").classList.toggle("active", modo === "despacho");
+      document.getElementById("tabModoExigencia").classList.toggle("active", modo === "exigencia");
+      document.getElementById("opcoesDespacho").style.display = modo === "despacho" ? "flex" : "none";
+      document.getElementById("opcoesExigencia").style.display = modo === "exigencia" ? "flex" : "none";
+      atualizarTextoMontado();
+    }
+
+    function atualizarTextoMontado() {
+      const outEl = document.getElementById("montadorOutput");
+      if (selecionadosIds.length === 0) {
+        outEl.value = "";
+        return;
+      }
+
+      const blocos = selecionadosIds
+        .map(id => modelos.find(m => m.id === id))
+        .filter(Boolean)
+        .map(m => obterTextoComVariaveisPreenchidas(m));
+
+      if (modoMontador === "despacho") {
+        const numerar = document.getElementById("chkNumerarDespacho").checked;
+        if (numerar && blocos.length > 1) {
+          outEl.value = blocos.map((txt, i) => `${i + 1}. ${txt}`).join("\n\n");
+        } else {
+          outEl.value = blocos.join("\n\n");
+        }
+      } else {
+        const tipoCab = document.getElementById("selCabecalhoExigencia").value;
+        const beneficioNome = (document.getElementById("inpBeneficioExigencia").value || "").trim() || "[BENEFÍCIO OU SERVIÇO]";
+        if (tipoCab === "nenhum" || !window.CABECALHOS_EXIGENCIA[tipoCab]) {
+          outEl.value = blocos.join("\n\n");
+        } else {
+          const template = window.CABECALHOS_EXIGENCIA[tipoCab];
+          const cab = template.cabecalho.replace("[BENEFÍCIO OU SERVIÇO]", beneficioNome);
+          outEl.value = `${cab}\n\n${blocos.join("\n\n")}\n\n${template.rodape}`;
+        }
+      }
+    }
+
+    function limparSelecao() {
+      selecionadosIds = [];
+      renderSelectedChips();
+      atualizarTextoMontado();
+      renderCards();
+    }
+
+    function copiarUnico(id) {
+      const m = modelos.find(x => x.id === id);
+      if (!m) return;
+      const texto = obterTextoComVariaveisPreenchidas(m);
+      copiarParaClipboard(texto, `Bloco "${m.titulo}" copiado!`);
+    }
+
+    function copiarTextoMontado() {
+      const txt = document.getElementById("montadorOutput").value.trim();
+      if (!txt) {
+        mostrarToast("Marque [x] em pelo menos um modelo primeiro!");
+        return;
+      }
+      copiarParaClipboard(txt, "✅ Texto montado copiado para a área de transferência!");
+      const btn = document.getElementById("btnCopyMain");
+      btn.classList.add("copied");
+      btn.textContent = "✅ Copiado com Sucesso!";
+      setTimeout(() => {
+        btn.classList.remove("copied");
+        btn.textContent = "📋 Copiar Texto Montado";
+      }, 1800);
+    }
+
+    function copiarParaLinguagemSimples() {
+      const txt = document.getElementById("montadorOutput").value.trim();
+      if (!txt) {
+        mostrarToast("Monte um despacho primeiro marcando [x] nos blocos!");
+        return;
+      }
+      copiarParaClipboard(txt, "✨ Despacho copiado! Agora é só colar no chat para gerar a Linguagem Simples.");
+    }
+
+    function copiarParaClipboard(texto, msgToast) {
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(texto).then(() => mostrarToast(msgToast));
+      } else {
+        const ta = document.createElement("textarea");
+        ta.value = texto;
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand("copy");
+        document.body.removeChild(ta);
+        mostrarToast(msgToast);
+      }
+    }
+
+    function mostrarToast(msg) {
+      const t = document.getElementById("toast");
+      t.textContent = msg;
+      t.classList.add("show");
+      clearTimeout(window._toastTimer);
+      window._toastTimer = setTimeout(() => t.classList.remove("show"), 2600);
+    }
+
+    // MODAL CRUD
+    function openModal(id) {
+      const backdrop = document.getElementById("modalBackdrop");
+      const btnDel = document.getElementById("btnDeleteModel");
+      if (id) {
+        const m = modelos.find(x => x.id === id);
+        if (!m) return;
+        document.getElementById("modalTitle").textContent = "✏️ Editar Modelo";
+        document.getElementById("editId").value = m.id;
+        document.getElementById("editTitulo").value = m.titulo;
+        document.getElementById("editAto").value = m.ato;
+        document.getElementById("editTema").value = m.tema;
+        document.getElementById("editResumo").value = m.resumo || "";
+        document.getElementById("editTags").value = (m.tags || []).join(", ");
+        document.getElementById("editTexto").value = m.texto;
+        btnDel.style.display = "inline-block";
+      } else {
+        document.getElementById("modalTitle").textContent = "➕ Novo Modelo";
+        document.getElementById("editId").value = "";
+        document.getElementById("editTitulo").value = "";
+        document.getElementById("editAto").value = filtroAto !== "todos" && filtroAto !== "favoritos" ? filtroAto : "despacho";
+        document.getElementById("editTema").value = filtroTema !== "todos" ? filtroTema : LISTA_TEMAS[0];
+        document.getElementById("editResumo").value = "";
+        document.getElementById("editTags").value = "";
+        document.getElementById("editTexto").value = "";
+        btnDel.style.display = "none";
+      }
+      backdrop.classList.add("open");
+    }
+
+    function closeModal() {
+      document.getElementById("modalBackdrop").classList.remove("open");
+    }
+
+    function salvarModeloModal() {
+      const id = document.getElementById("editId").value;
+      const titulo = document.getElementById("editTitulo").value.trim();
+      const ato = document.getElementById("editAto").value;
+      const tema = document.getElementById("editTema").value;
+      const resumo = document.getElementById("editResumo").value.trim();
+      const tags = document.getElementById("editTags").value
+        .split(",")
+        .map(s => s.trim())
+        .filter(Boolean);
+      const texto = document.getElementById("editTexto").value.trim();
+
+      if (!titulo || !texto) {
+        alert("Preencha pelo menos o Título e o Texto do modelo.");
+        return;
+      }
+
+      if (id) {
+        const idx = modelos.findIndex(x => x.id === id);
+        if (idx !== -1) {
+          modelos[idx] = { ...modelos[idx], titulo, ato, tema, resumo, tags, texto };
+        }
+      } else {
+        const novoId = "custom-" + Date.now();
+        modelos.unshift({ id: novoId, titulo, ato, tema, favorito: true, resumo, tags, texto });
+      }
+
+      salvarLocalStorage();
+      marcarAlteracaoPendenteArquivo();
+      closeModal();
+      renderCards();
+      atualizarTextoMontado();
+      mostrarToast("✅ Modelo salvo no painel!");
+    }
+
+    function excluirModeloAtual() {
+      const id = document.getElementById("editId").value;
+      if (!id) return;
+      if (!confirm("Tem certeza que deseja excluir este modelo?")) return;
+      modelos = modelos.filter(x => x.id !== id);
+      selecionadosIds = selecionadosIds.filter(x => x !== id);
+      salvarLocalStorage();
+      marcarAlteracaoPendenteArquivo();
+      closeModal();
+      renderSelectedChips();
+      renderCards();
+      atualizarTextoMontado();
+      mostrarToast("🗑️ Modelo excluído.");
+    }
+
+    function marcarAlteracaoPendenteArquivo() {
+      temAlteracoesNaoExportadas = true;
+      const btn = document.getElementById("btnSaveFile");
+      btn.classList.add("save-highlight");
+      btn.textContent = "💾 Salvar Alterações em modelos.js *";
+    }
+
+    async function salvarNoArquivoJS() {
+      const conteudoJS =
+        "// Banco de Modelos de Despachos, Exigências e Procedimentos - INSS\n" +
+        "// Fonte de embasamento complementar: IN PRES/INSS nº 128/2022 (https://portalin.inss.gov.br/in)\n" +
+        "// Atualizado em: " + new Date().toLocaleString("pt-BR") + "\n\n" +
+        "window.CABECALHOS_EXIGENCIA = " + JSON.stringify(window.CABECALHOS_EXIGENCIA, null, 2) + ";\n\n" +
+        "window.MODELOS_INSS = " + JSON.stringify(modelos, null, 2) + ";\n";
+
+      if (window.showSaveFilePicker) {
+        try {
+          const handle = await window.showSaveFilePicker({
+            suggestedName: "modelos.js",
+            types: [{ description: "Arquivo JavaScript de Modelos", accept: { "text/javascript": [".js"] } }]
+          });
+          const writable = await handle.createWritable();
+          await writable.write(conteudoJS);
+          await writable.close();
+          temAlteracoesNaoExportadas = false;
+          const btn = document.getElementById("btnSaveFile");
+          btn.classList.remove("save-highlight");
+          btn.textContent = "💾 Salvar em modelos.js";
+          mostrarToast("✅ Arquivo modelos.js atualizado com sucesso!");
+          return;
+        } catch (err) {
+          if (err.name === "AbortError") return;
+        }
+      }
+
+      // Fallback download
+      const blob = new Blob([conteudoJS], { type: "text/javascript;charset=utf-8" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = "modelos.js";
+      a.click();
+      URL.revokeObjectURL(url);
+      mostrarToast("📥 Arquivo modelos.js baixado! Substitua na pasta do projeto.");
+    }
+
+    // Atalho "/" para focar na busca
+    document.addEventListener("keydown", e => {
+      if (e.key === "/" && document.activeElement.tagName !== "INPUT" && document.activeElement.tagName !== "TEXTAREA") {
+        e.preventDefault();
+        document.getElementById("searchInput").focus();
+      }
+    });
+
+    carregarDados();
+    renderCards();
+  </script>
+</body>
+</html>
