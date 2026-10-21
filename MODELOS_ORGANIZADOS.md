@@ -466,14 +466,14 @@ Quanto ao pleito de enquadramento como atividade especial por categoria profissi
 *Solicita PPP devidamente preenchido e assinado pelo representante legal e responsável técnico.*
 
 ```text
-- Perfil Profissiográfico Previdenciário (PPP): Apresente o formulário PPP referente à empresa [NOME DA EMPRESA / PERÍODO], totalmente preenchido, carimbado e assinado pelo representante legal da empresa, contendo também a identificação completa e o registro de classe (CREA ou CRM) do responsável técnico pelos registros ambientais (Engenheiro de Segurança do Trabalho ou Médico do Trabalho). Se o laudo técnico for de época diferente da trabalhada (extemporâneo), anexe declaração da empresa informando se o ambiente de trabalho sofreu alterações. Caso o PPP tenha assinatura digital (ICP-Brasil), envie o arquivo PDF digital original para permitir a validação da assinatura (Fundamentação: arts. 272 e 281 da Instrução Normativa PRES/INSS nº 128/2022 e art. 68, § 3º, do Decreto nº 3.048/1999).
+- Perfil Profissiográfico Previdenciário (PPP): Apresente o formulário PPP totalmente preenchido, carimbado e assinado pelo representante legal da empresa, contendo também a identificação completa e o registro de classe (CREA ou CRM) do responsável técnico pelos registros ambientais (Engenheiro de Segurança do Trabalho ou Médico do Trabalho). Se o laudo técnico for de época diferente da trabalhada (extemporâneo), anexe declaração da empresa informando se o ambiente de trabalho sofreu alterações. Caso o PPP tenha assinatura digital (ICP-Brasil), envie o arquivo PDF digital original para permitir a validação da assinatura (Fundamentação: arts. 272 e 281 da Instrução Normativa PRES/INSS nº 128/2022 e art. 68, § 3º, do Decreto nº 3.048/1999).
 ```
 
 ### [EXIGENCIA] Exigência: PPP Eletrônico no eSocial (Períodos a partir de 01/01/2023)
 *Orienta o segurado a solicitar ao empregador o envio do evento S-2240 no eSocial para períodos a partir de 01/01/2023.*
 
 ```text
-- PPP Eletrônico (eSocial - a partir de 01/01/2023): Para períodos trabalhados a partir de 01/01/2023, o INSS analisa exclusivamente o PPP Eletrônico. Como essas informações ainda não constam no seu cadastro (CNIS), solicite ao seu empregador ([NOME DA EMPRESA]) que envie imediatamente os dados de saúde e segurança do trabalho por meio do evento S-2240 no portal do eSocial (login.esocial.gov.br/) (Fundamentação: Portaria MTP nº 313/2021 e art. 284 da Instrução Normativa PRES/INSS nº 128/2022).
+- PPP Eletrônico (eSocial - a partir de 01/01/2023): Para períodos trabalhados a partir de 01/01/2023, o INSS analisa exclusivamente o PPP Eletrônico. Como essas informações ainda não constam no seu cadastro (CNIS), solicite ao seu empregador que envie imediatamente os dados de saúde e segurança do trabalho por meio do evento S-2240 no portal do eSocial (login.esocial.gov.br/) (Fundamentação: Portaria MTP nº 313/2021 e art. 284 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência: Empresa Extinta e Comprovação de Atividade Especial (JA)
