@@ -15,12 +15,20 @@ Este projeto apoia a rotina diária de análise de benefícios, exigências, rec
 
 ## 2. Como Identificar a Intenção do Usuário no Chat
 
-Aja imediatamente conforme o tipo de mensagem enviada pelo usuário:
+Aja imediatamente conforme o tipo de mensagem e demanda apresentada pelo usuário:
 
-### Cenário A — O usuário colou um Despacho Técnico ("Despachão") para converter em Linguagem Simples
-- **Quando ocorre**: O usuário cola um despacho técnico numerado ou corrido (ex.: *"1. Trata-se de Benefício... 2. Foram considerados..."*) ou menciona `@inss-linguagem-simples`.
+### Cenário A — Revisão Gramatical, Ortográfica e Aperfeiçoamento Técnico de Despacho
+- **Quando ocorre**: O usuário pede para corrigir gramática, pontuação, concordância, melhorar a redação técnica, adequar um despacho a determinação judicial, formatar texto administrativo ou aperfeiçoar notas técnicas/encaminhamentos (para o processo administrativo, perícia médica, cumprimento de decisão ou tarefas internas), sem solicitar conversão para linguagem simples.
+- **O que fazer**:
+  1. **Preservar a linguagem técnica e o mérito jurídico**: Mantenha as fundamentações legais, siglas previdenciárias e o tom técnico formal necessário para o processo administrativo/judicial;
+  2. **Corrigir com rigor a norma culta**: Acerte concordância nominal e verbal, regência, pontuação (especialmente em citações de leis e parênteses), paralelismo sintático e fluidez;
+  3. **Sugerir acréscimos processuais quando pertinente**: Se o usuário mencionar determinações judiciais ou detalhes do processo (ex.: números de processo CNJ, NBs, requisições de contagem oficial vs. simulação), proponha ou incorpore os ajustes necessários para o perfeito atendimento formal da demanda;
+  4. **Entregar o despacho pronto para cópia e uso imediato**: Forneça o texto revisado de forma destacada e aponte sucintamente as melhorias realizadas.
+
+### Cenário B — Conversão para Linguagem Simples (Lei nº 15.263/2025 para o Cidadão e 135)
+- **Quando ocorre**: O usuário pede explicitamente para *"converter em linguagem simples"*, *"gerar versão para o cidadão/segurado/atendimento 135"*, ou invoca `@inss-linguagem-simples`.
 - **O que fazer**: Siga **rigorosamente** as instruções de `.gemini/skills/inss-linguagem-simples/SKILL.md`:
-  - **Não** escreva *"Entendido"*, *"Aqui está"* nem comentários antes ou depois.
+  - **Não** escreva *"Entendido"*, *"Aqui está"* nem comentários antes ou depois;
   - Entregue **apenas** a saída padronizada:
     ```text
     COMUNICAÇÃO EM LINGUAGEM SIMPLES (Lei 15.263/2025)
@@ -32,12 +40,12 @@ Aja imediatamente conforme o tipo de mensagem enviada pelo usuário:
     A fundamentação jurídica técnica e o dispositivo legal completos constam no despacho do SIBEPU, anexado ao final, para fins de registro e análise técnica.
     ```
 
-### Cenário B — O usuário pediu para incluir, editar, revisar ou organizar modelos no Painel Web
-- **Quando ocorre**: O usuário envia um novo rascunho de despacho/exigência ou pede alterações no painel/banco de modelos.
+### Cenário C — Inclusão, Edição, Revisão ou Gestão de Modelos no Painel Web (`modelos.js`)
+- **Quando ocorre**: O usuário envia um novo modelo, pede alterações no banco de modelos (`modelos.js`), modificações em favoritos, filtros ou atualizações no painel web.
 - **O que fazer**:
   1. Aplique as **Regras de Ouro de Redação e Fundamentação** (Seção 4 abaixo);
   2. Atualize o arquivo `modelos.js`;
-  3. Valide a sintaxe JavaScript e regere o arquivo `MODELOS_ORGANIZADOS.md`;
+  3. Valide a sintaxe JavaScript (`node`) e mantenha `MODELOS_ORGANIZADOS.md` atualizado;
   4. Faça `git add`, `git commit` e `git push origin main` para publicar automaticamente no GitHub Pages.
 
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 name: inss-linguagem-simples
 description: Redator de Linguagem Simples (Lei 15.263/2025) para despachos do INSS. Converte despachos técnicos e fundamentações jurídicas em versões simples, claras e acessíveis para o segurado e atendentes do 135.
 ---
@@ -9,7 +9,7 @@ Você é um especialista em comunicação pública e Linguagem Simples, atuando 
 
 # GATILHO DE OPERAÇÃO
 
-Todo texto colado pelo usuário é um despacho a ser processado IMEDIATAMENTE neste formato. Não responda com "Entendido", "Aqui está" ou qualquer comentário. Entregue APENAS o resultado final, seguindo rigorosamente a estrutura de saída abaixo.
+Esta skill é acionada quando o usuário solicitar explicitamente a conversão de um despacho em Linguagem Simples (Lei 15.263/2025), versão para o cidadão/segurado ou para a Central 135, ou ao invocar `@inss-linguagem-simples`. Quando acionada para essa finalidade de simplificação, não responda com "Entendido", "Aqui está" ou qualquer comentário: entregue APENAS o resultado final, seguindo rigorosamente a estrutura de saída abaixo. Se o usuário estiver solicitando revisão gramatical/técnica de despacho ou edição de modelos, atenda à demanda técnica específica do usuário.
 
 # ESTRUTURA DE SAÍDA (RIGOROSA — não alterar, não comentar antes ou depois)
 

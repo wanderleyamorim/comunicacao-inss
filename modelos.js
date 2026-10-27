@@ -1,5 +1,6 @@
 // Banco de Modelos de Despachos, Exigências e Procedimentos - INSS
-// Textos higienizados contra bloqueio de WAF (F5 BIG-IP Dataprev / PAT / GET / SIBEPU)
+// Fonte de embasamento complementar: IN PRES/INSS nº 128/2022 (https://portalin.inss.gov.br/in)
+// Atualizado em: 27/10/2026, 06:44:18
 
 window.CABECALHOS_EXIGENCIA = {
   "padrao": {
@@ -25,7 +26,7 @@ window.MODELOS_INSS = [
     "titulo": "Indeferimento por Não Cumprimento de Exigência",
     "ato": "despacho",
     "tema": "Geral / Processual",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "indeferimento",
       "exigência",
@@ -41,7 +42,7 @@ window.MODELOS_INSS = [
     "titulo": "Comunicado Rápido Após Conclusão no PAT",
     "ato": "despacho",
     "tema": "Geral / Processual",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "conclusão",
       "PAT",
@@ -57,7 +58,7 @@ window.MODELOS_INSS = [
     "titulo": "Possibilidade de Interposição de Recurso (30 dias)",
     "ato": "despacho",
     "tema": "Geral / Processual",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "recurso",
       "30 dias",
@@ -74,7 +75,7 @@ window.MODELOS_INSS = [
     "titulo": "Dispensa de Exigência por Economia Processual (Não Alteraria o Mérito)",
     "ato": "despacho",
     "tema": "Geral / Processual",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "economia processual",
       "eficiência",
@@ -139,7 +140,7 @@ window.MODELOS_INSS = [
     "titulo": "Desistência Administrativa Sem Análise do Mérito (Arquivamento)",
     "ato": "despacho",
     "tema": "Geral / Processual",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "desistência",
       "sem análise do mérito",
@@ -171,7 +172,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência: Documentação Pessoal e Carteiras de Trabalho (CTPS)",
     "ato": "exigencia",
     "tema": "Geral / Processual",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "RG",
       "CPF",
@@ -282,7 +283,7 @@ window.MODELOS_INSS = [
     "titulo": "Maternidade: Facultativo Pago na Mesma Competência do Fato Gerador",
     "ato": "despacho",
     "tema": "Salário-Maternidade (B80)",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "B80",
       "facultativo",
@@ -315,7 +316,7 @@ window.MODELOS_INSS = [
     "titulo": "Maternidade: Contribuinte Individual Não Comprovou Atividade (Após Exigência)",
     "ato": "despacho",
     "tema": "Salário-Maternidade (B80)",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "B80",
       "contribuinte individual",
@@ -333,7 +334,7 @@ window.MODELOS_INSS = [
     "titulo": "Maternidade: Empregada Ativa e em Período de Graça como CI (Indeferir sem Exigência)",
     "ato": "despacho",
     "tema": "Salário-Maternidade (B80)",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "B80",
       "empregada",
@@ -367,7 +368,7 @@ window.MODELOS_INSS = [
     "titulo": "Maternidade: Indicador IVIN-JORN-DIFERENCIADA com Salário Igual/Superior ao Mínimo",
     "ato": "despacho",
     "tema": "Salário-Maternidade (B80)",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "B80",
       "jornada diferenciada",
@@ -384,7 +385,7 @@ window.MODELOS_INSS = [
     "titulo": "Maternidade: Empregada com Jornada Parcial mas Salário Maior que o Mínimo",
     "ato": "despacho",
     "tema": "Salário-Maternidade (B80)",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "B80",
       "empregada",
@@ -401,7 +402,7 @@ window.MODELOS_INSS = [
     "titulo": "Maternidade: Recolhimento CI/MEI nos 120 Dias Suprido por Declaração de Afastamento",
     "ato": "despacho",
     "tema": "Salário-Maternidade (B80)",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "B80",
       "MEI",
@@ -452,7 +453,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência: Comprovação de Trabalho Autônomo (Contribuinte Individual - Salário-Maternidade)",
     "ato": "exigencia",
     "tema": "Salário-Maternidade (B80)",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "B80",
       "exigência",
@@ -469,7 +470,7 @@ window.MODELOS_INSS = [
     "titulo": "Rural: Averbação / Deferimento de Período para o CNIS",
     "ato": "despacho",
     "tema": "Rural / Segurado Especial",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "rural",
       "CNIS",
@@ -486,7 +487,7 @@ window.MODELOS_INSS = [
     "titulo": "Rural: Deferimento de Período Abaixo de 12/14/16 Anos (Art. 5º-A IN 128/2022)",
     "ato": "despacho",
     "tema": "Rural / Segurado Especial",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "rural",
       "menor de 12 anos",
@@ -503,7 +504,7 @@ window.MODELOS_INSS = [
     "titulo": "Rural: Indeferimento de Período Abaixo de 12/14 Anos (Não Individualizado)",
     "ato": "despacho",
     "tema": "Rural / Segurado Especial",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "rural",
       "menor de 12 anos",
@@ -601,7 +602,7 @@ window.MODELOS_INSS = [
     "titulo": "Rural: Indeferimento por Autodeclaração Incompleta / Rasurada (Após Exigência)",
     "ato": "despacho",
     "tema": "Rural / Segurado Especial",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "rural",
       "autodeclaração incompleta",
@@ -617,7 +618,7 @@ window.MODELOS_INSS = [
     "titulo": "Rural: Indeferimento de Trabalhador Eventual / Boia-Fria (B41, B42/CTC e B80)",
     "ato": "despacho",
     "tema": "Rural / Segurado Especial",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "rural",
       "boia-fria",
@@ -716,7 +717,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência: Preenchimento da Autodeclaração do Segurado Especial (Meu INSS)",
     "ato": "exigencia",
     "tema": "Rural / Segurado Especial",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "rural",
       "exigência",
@@ -732,7 +733,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência: Documentos para Comprovação de Atividade Rural",
     "ato": "exigencia",
     "tema": "Rural / Segurado Especial",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "rural",
       "exigência",
@@ -765,7 +766,7 @@ window.MODELOS_INSS = [
     "titulo": "Especial: Dispensa de Reanálise de PPPs Já Analisados em Processo Anterior",
     "ato": "despacho",
     "tema": "Atividade Especial / PPP",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "PPP",
       "atividade especial",
@@ -782,7 +783,7 @@ window.MODELOS_INSS = [
     "titulo": "Especial: Encaminhamento à Perícia Médica Federal (Portaria 1.630/2023)",
     "ato": "interno",
     "tema": "Atividade Especial / PPP",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "PPP",
       "PMF",
@@ -798,7 +799,7 @@ window.MODELOS_INSS = [
     "titulo": "Especial: PPP Analisado pelo Administrativo Sem Enquadramento (Sem Envio à PMF)",
     "ato": "despacho",
     "tema": "Atividade Especial / PPP",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "PPP",
       "análise administrativa",
@@ -825,14 +826,14 @@ window.MODELOS_INSS = [
       "art. 270"
     ],
     "resumo": "Registra análise administrativa parcial dos períodos especiais e o encaminhamento dos períodos remanescentes à Perícia Médica Federal.",
-    "texto": "Foram apresentados documentos para comprovação de Atividade Especial, os quais foram parcialmente analisados pelo setor administrativo, conforme relatório conclusivo da análise da exposição a agentes prejudiciais à saúde, nos termos da Portaria PRES/INSS nº 1.630, de 2023, e da Portaria MPS nº 630, de 8 de novembro de 2023. Foram analisadas atividades passíveis de enquadramento por Categoria Profissional até 28/04/1995, nos termos do § 1º do art. 269 da Instrução Normativa PRES/INSS nº 128/2022; exposição a agentes prejudiciais à saúde; e/ou aproveitamento de períodos já analisados em requerimento anterior, com reanálise dispensada, nos termos do art. 270 da mesma Instrução Normativa. Adicionalmente, encaminhou-se o presente processo à Perícia Médica Federal para análise do(s) período(s) remanescente(s) de atividade especial, em conformidade com a Portaria PRES/INSS nº 1.630, de 17 de novembro de 2023, uma vez que a situação fática do(s) referido(s) período(s) se amolda a, no mínimo, uma das hipóteses elencadas no art. 5º da referida norma (seja o inciso I, alíneas \"a\" ou \"b\". ou o inciso II, alíneas \"a\" ou \"b\"), que excepcionam a análise administrativa de conformidade e determinam a apreciação pela Perícia Médica Federal."
+    "texto": "Foram apresentados documentos para comprovação de atividade especial, os quais foram parcialmente analisados pelo setor administrativo, conforme relatório conclusivo da análise da exposição a agentes prejudiciais à saúde, nos termos da Portaria PRES/INSS nº 1.630, de 17 de novembro de 2023, e da Portaria MPS nº 630, de 8 de novembro de 2023. Foram analisadas atividades passíveis de enquadramento por categoria profissional até 28/04/1995, nos termos do § 1º do art. 269 da Instrução Normativa PRES/INSS nº 128/2022; a exposição a agentes prejudiciais à saúde; e/ou o aproveitamento de períodos já analisados em requerimento anterior, com reanálise dispensada, nos termos do art. 270 da mesma Instrução Normativa.\nAdicionalmente, encaminhou-se o presente processo à Perícia Médica Federal para análise do(s) período(s) remanescente(s) de atividade especial, em conformidade com a Portaria PRES/INSS nº 1.630/2023, uma vez que a situação fática do(s) referido(s) período(s) se amolda a, no mínimo, uma das hipóteses elencadas no art. 5º da referida norma (seja o inciso I, alíneas \"a\" ou \"b\", ou o inciso II, alíneas \"a\" ou \"b\"), as quais excepcionam a análise administrativa de conformidade e determinam a apreciação pela Perícia Médica Federal.\nRessalta-se que a verificação da necessidade de informações do código GFIP nos formulários é de responsabilidade da análise técnica, assim como as informações relativas à eficácia de EPC/EPI.\n\n---\n\nEm contato com a Direção Central, a orientação repassada foi no sentido de que, independentemente da forma como forem lançados os períodos, caberá ao perito médico saber que sua análise se dará por período, de data a data, independentemente da quantidade de agentes nocivos. Logo, no tempo direcionado para análise (tarefa PMF), caberá ao profissional competente analisar todos os agentes prejudiciais à saúde a que o segurado esteve exposto naquele período. Dessa forma, orienta-se encaminhar os períodos somente uma vez, sem concomitâncias."
   },
   {
     "id": "esp-conversao-apos-ec103-vedada",
     "titulo": "Especial: Vedação de Conversão de Tempo Especial em Comum Após 13/11/2019 (EC 103)",
     "ato": "despacho",
     "tema": "Atividade Especial / PPP",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "PPP",
       "conversão",
@@ -849,7 +850,7 @@ window.MODELOS_INSS = [
     "titulo": "Especial: PPP Não Enquadrado - Ausência de Representante Legal e/ou Responsável pelos Registros Ambientais",
     "ato": "despacho",
     "tema": "Atividade Especial / PPP",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "PPP",
       "representante legal",
@@ -935,7 +936,7 @@ window.MODELOS_INSS = [
     "titulo": "Especial: Indeferimento de Revisão Administrativa de Aposentadoria (PPPs Não Enquadrados)",
     "ato": "despacho",
     "tema": "Atividade Especial / PPP",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "revisão",
       "PPP",
@@ -952,7 +953,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência: Apresentação de Perfil Profissiográfico Previdenciário (PPP)",
     "ato": "exigencia",
     "tema": "Atividade Especial / PPP",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "PPP",
       "exigência",
@@ -1239,7 +1240,7 @@ window.MODELOS_INSS = [
     "titulo": "Interno: Solicitação de Consulta GFIPWEB ao SAIS (Indicador PDV-GFIP / PDIV-DADOS-GFIP)",
     "ato": "interno",
     "tema": "CNIS, DARF, GPS e Vínculos",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "GFIPWEB",
       "CONGFIP",
@@ -1271,7 +1272,7 @@ window.MODELOS_INSS = [
     "titulo": "Interno: Desativação do FERR/CNIS + Roteiro Passo a Passo no Prisma (Portaria 874/2021)",
     "ato": "interno",
     "tema": "CNIS, DARF, GPS e Vínculos",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "FERR",
       "CNIS",
@@ -1307,7 +1308,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência: Regularização de Contribuições Abaixo do Salário Mínimo (DARF - Pós-EC 103/2019)",
     "ato": "exigencia",
     "tema": "CNIS, DARF, GPS e Vínculos",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "DARF",
       "abaixo do mínimo",
@@ -1454,7 +1455,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência: Declaração de Tempo de Contribuição ao RGPS - Órgão Público (DTC - Anexos IV e V)",
     "ato": "exigencia",
     "tema": "CNIS, DARF, GPS e Vínculos",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "DTC",
       "órgão público",
@@ -1471,7 +1472,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência Representação: Ausência de Procuração ou Termo de Representação (ACT)",
     "ato": "exigencia",
     "tema": "Representação / Procuração",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "procuração",
       "ausência",
@@ -1489,7 +1490,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência Representação: Assinatura Eletrônica do Outorgante Ausente ou Inválida",
     "ato": "exigencia",
     "tema": "Representação / Procuração",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "procuração",
       "assinatura eletrônica",
@@ -1506,7 +1507,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência Representação: Divergência entre a Assinatura da Procuração e o Documento de Identidade",
     "ato": "exigencia",
     "tema": "Representação / Procuração",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "procuração",
       "divergência de assinatura",
@@ -1603,7 +1604,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência Representação: Envio do Arquivo PDF Original Assinado Digitalmente",
     "ato": "exigencia",
     "tema": "Representação / Procuração",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "procuração eletrônica",
       "arquivo original",
@@ -1619,7 +1620,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência Representação: Nível de Assinatura Eletrônica Insuficiente (Assinatura Simples)",
     "ato": "exigencia",
     "tema": "Representação / Procuração",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "assinatura simples",
       "assinatura avançada",
@@ -1669,7 +1670,7 @@ window.MODELOS_INSS = [
     "titulo": "Despacho Representação: Encerramento Sem Análise do Mérito (Não Cumprimento em 30 Dias - Art. 574, § 4º, II)",
     "ato": "despacho",
     "tema": "Representação / Procuração",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "encerramento",
       "sem análise do mérito",
@@ -1704,7 +1705,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência LOAS/BPC: Renda Per Capita Superior ao Limite (Dedução de Gastos com Saúde)",
     "ato": "exigencia",
     "tema": "LOAS / BPC",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "LOAS",
       "BPC",
@@ -1723,7 +1724,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência LOAS/BPC: Inscrição ou Atualização do Cadastro Único (CadÚnico)",
     "ato": "exigencia",
     "tema": "LOAS / BPC",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "LOAS",
       "BPC",
@@ -1758,7 +1759,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência LOAS/BPC: Regularização de Biometria (CIN, CNH ou Título Eleitoral)",
     "ato": "exigencia",
     "tema": "LOAS / BPC",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "LOAS",
       "BPC",
@@ -1776,7 +1777,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência LOAS/BPC: Vínculo Societário Ativo (CNPJ / MEI - Declaração e DEFIS / DASN-SIMEI)",
     "ato": "exigencia",
     "tema": "LOAS / BPC",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "LOAS",
       "BPC",
@@ -1814,7 +1815,7 @@ window.MODELOS_INSS = [
     "titulo": "Despacho LOAS/BPC: Rendas que Passaram a Integrar o Cálculo Familiar (Decreto nº 12.534/2025)",
     "ato": "despacho",
     "tema": "LOAS / BPC",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "LOAS",
       "BPC",
@@ -1848,7 +1849,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência REAVBPC: Notificação de Defesa por Superação de Renda (30 dias)",
     "ato": "exigencia",
     "tema": "Reavaliação BPC (REAVBPC)",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "REAVBPC",
       "defesa",
@@ -1866,7 +1867,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência REAVBPC: Atualização do CadÚnico (Consta Recebimento de Benefício para o Titular)",
     "ato": "exigencia",
     "tema": "Reavaliação BPC (REAVBPC)",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "REAVBPC",
       "CadÚnico",
@@ -1927,7 +1928,7 @@ window.MODELOS_INSS = [
     "titulo": "Despacho REAVBPC (Manutenção): Defesa Procedente por Dedução de Despesas com Saúde",
     "ato": "despacho",
     "tema": "Reavaliação BPC (REAVBPC)",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "REAVBPC",
       "manutenção",
@@ -1944,7 +1945,7 @@ window.MODELOS_INSS = [
     "titulo": "Despacho REAVBPC (Manutenção): Defesa Procedente por Atualização do CadÚnico",
     "ato": "despacho",
     "tema": "Reavaliação BPC (REAVBPC)",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "REAVBPC",
       "manutenção",
@@ -1961,7 +1962,7 @@ window.MODELOS_INSS = [
     "titulo": "Despacho REAVBPC (Manutenção): Exclusão de Pessoa que Não Integra o Grupo Familiar Legal",
     "ato": "despacho",
     "tema": "Reavaliação BPC (REAVBPC)",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "REAVBPC",
       "manutenção",
@@ -1978,7 +1979,7 @@ window.MODELOS_INSS = [
     "titulo": "Despacho REAVBPC (Suspensão): Defesa Improcedente - Documentos/Despesas Insuficientes",
     "ato": "despacho",
     "tema": "Reavaliação BPC (REAVBPC)",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "REAVBPC",
       "suspensão",
@@ -1994,7 +1995,7 @@ window.MODELOS_INSS = [
     "titulo": "Despacho REAVBPC (Suspensão): Decurso de Prazo Sem Apresentação de Defesa",
     "ato": "despacho",
     "tema": "Reavaliação BPC (REAVBPC)",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "REAVBPC",
       "suspensão",
@@ -2026,7 +2027,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência Manutenção (OL 710): Cadastro de Procurador ou Atualização de Representante Legal",
     "ato": "exigencia",
     "tema": "Manutenção (OL 710) e MOB",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "OL 710",
       "manutenção",
@@ -2045,7 +2046,7 @@ window.MODELOS_INSS = [
     "titulo": "Despacho Manutenção: Maior de 16 Anos Receber Pagamento Diretamente (Exclusão de RL)",
     "ato": "despacho",
     "tema": "Manutenção (OL 710) e MOB",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "OL 710",
       "maior de 16 anos",
@@ -2097,7 +2098,7 @@ window.MODELOS_INSS = [
     "titulo": "Interno Manutenção: Complemento Positivo (CP) ou PAB Pendente de Autorização (CEAB 19/2024)",
     "ato": "interno",
     "tema": "Manutenção (OL 710) e MOB",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "CP",
       "complemento positivo",
@@ -2115,7 +2116,7 @@ window.MODELOS_INSS = [
     "titulo": "Interno Manutenção: Crédito Não Gerado Automaticamente - Emissão Manual (CEAB 19/2024)",
     "ato": "interno",
     "tema": "Manutenção (OL 710) e MOB",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "crédito manual",
       "CP",
@@ -2185,7 +2186,7 @@ window.MODELOS_INSS = [
     "titulo": "Despacho Pensão / MOB: Dispensa de Consignação Pós-Óbito na Pensão (Portaria 1.255/2025 - Atribuição do MOB)",
     "ato": "despacho",
     "tema": "Manutenção (OL 710) e MOB",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "pós-óbito",
       "pensão por morte",
@@ -2220,7 +2221,7 @@ window.MODELOS_INSS = [
     "titulo": "Interno (LIBDUP - V1): Liberação de Crítica após Consignação de Benefício Incapacitante",
     "ato": "interno",
     "tema": "Manutenção (OL 710) e MOB",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "LIBDUP",
       "Portaria Conjunta 32/2025",
@@ -2236,7 +2237,7 @@ window.MODELOS_INSS = [
     "titulo": "Interno (LIBDUP - V2): Liberação de Crítica - Pensão por Morte (B21) Acumulada com Auxílio-Acidente (B94)",
     "ato": "interno",
     "tema": "Manutenção (OL 710) e MOB",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "LIBDUP",
       "B21",
@@ -2255,7 +2256,7 @@ window.MODELOS_INSS = [
     "titulo": "Interno (LIBDUP - V3): Liberação de Crítica - Salário-Maternidade (B80) Acumulado com Auxílio-Acidente (B94)",
     "ato": "interno",
     "tema": "Manutenção (OL 710) e MOB",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "LIBDUP",
       "B80",
@@ -2305,7 +2306,7 @@ window.MODELOS_INSS = [
     "titulo": "Roteiro / Checklist: Passo a Passo de Recurso com Implantação (PAT / e-Sisrec / Prisma)",
     "ato": "roteiro",
     "tema": "Recursos, Revisões, CTC e BI",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "roteiro",
       "checklist",
@@ -2324,7 +2325,7 @@ window.MODELOS_INSS = [
     "titulo": "Recurso (Comunicação/Exigência): Comunicação de Decisão da Junta de Recursos (JR - fls. 251 do Guia)",
     "ato": "exigencia",
     "tema": "Recursos, Revisões, CTC e BI",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "recurso",
       "comunicação",
@@ -2342,7 +2343,7 @@ window.MODELOS_INSS = [
     "titulo": "Recurso (Despacho): Despacho Conclusivo - Evento Arquivar (Com ou Sem Novo Elemento - fls. 247/254)",
     "ato": "despacho",
     "tema": "Recursos, Revisões, CTC e BI",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "recurso",
       "despacho conclusivo",
@@ -2391,7 +2392,7 @@ window.MODELOS_INSS = [
     "titulo": "Despacho Revisão: Conclusão de Revisão com Alteração de RMI/MR e Geração de Complemento Positivo (CP)",
     "ato": "despacho",
     "tema": "Recursos, Revisões, CTC e BI",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "revisão",
       "conclusão",
@@ -2442,7 +2443,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência CTC: Documentação Completa para Emissão de Certidão de Tempo de Contribuição (CTC)",
     "ato": "exigencia",
     "tema": "Recursos, Revisões, CTC e BI",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "CTC",
       "exigência completa",
@@ -2544,7 +2545,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência BI: Declaração da Data do Último Dia Trabalhado (DUT) e Afastamento no eSocial",
     "ato": "exigencia",
     "tema": "Recursos, Revisões, CTC e BI",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "BI",
       "incapacidade",
@@ -2563,7 +2564,7 @@ window.MODELOS_INSS = [
     "titulo": "Despacho BI: Indeferimento por Não Apresentação da Declaração de Último Dia Trabalhado (DUT)",
     "ato": "despacho",
     "tema": "Recursos, Revisões, CTC e BI",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "BI",
       "incapacidade",
@@ -2598,7 +2599,7 @@ window.MODELOS_INSS = [
     "titulo": "Exigência Pensão por Morte: Documentação para Companheiro(a) (União Estável)",
     "ato": "exigencia",
     "tema": "Recursos, Revisões, CTC e BI",
-    "favorito": true,
+    "favorito": false,
     "tags": [
       "pensão por morte",
       "B21",
