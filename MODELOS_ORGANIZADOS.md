@@ -4,7 +4,7 @@
 
 ## Sumário por Tema
 
-1. **Geral / Processual** (15 modelos)
+1. **Geral / Processual** (16 modelos)
 2. **Salário-Maternidade (B80)** (12 modelos)
 3. **Rural / Segurado Especial** (18 modelos)
 4. **Atividade Especial / PPP** (15 modelos)
@@ -133,6 +133,13 @@ Processo reanalisado considerando as normativas administrativas do INSS. Visto q
 
 ```text
 - Aviso sobre o Andamento do Processo: Os seus documentos já foram recebidos e a análise do seu pedido continuará internamente pelo INSS. Você não precisa enviar novos documentos nem responder a esta mensagem neste momento. Por favor, mantenha o pedido na situação "Em exigência" (não clique em "Cumprir exigência" novamente) apenas para controle interno do sistema.
+```
+
+### [EXIGENCIA] Exigência: Certidão Judicial de Recolhimento à Prisão (Auxílio-Reclusão)
+*Solicita certidão judicial atualizada (Vara de Execução Penal ou Criminal) com data exata da prisão e comprovação do regime prisional fechado.*
+
+```text
+- Certidão Judicial de Recolhimento à Prisão: Apresentar Certidão Judicial atualizada (emitida pela Vara de Execução Penal ou Vara Criminal competente), na qual constem expressamente a data exata da prisão e o atual regime prisional (fechado). Motivo: É necessário apresentar certidão judicial que confirme o regime de cumprimento de pena (Fundamentação: art. 80 da Lei nº 8.213/1991 e art. 381 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ## 2. Salário-Maternidade (B80)
@@ -390,7 +397,13 @@ Foram apresentados documentos para comprovação de Atividade Especial, analisad
 *Registra análise administrativa parcial dos períodos especiais e o encaminhamento dos períodos remanescentes à Perícia Médica Federal.*
 
 ```text
-Foram apresentados documentos para comprovação de Atividade Especial, os quais foram parcialmente analisados pelo setor administrativo, conforme relatório conclusivo da análise da exposição a agentes prejudiciais à saúde, nos termos da Portaria PRES/INSS nº 1.630, de 2023, e da Portaria MPS nº 630, de 8 de novembro de 2023. Foram analisadas atividades passíveis de enquadramento por Categoria Profissional até 28/04/1995, nos termos do § 1º do art. 269 da Instrução Normativa PRES/INSS nº 128/2022; exposição a agentes prejudiciais à saúde; e/ou aproveitamento de períodos já analisados em requerimento anterior, com reanálise dispensada, nos termos do art. 270 da mesma Instrução Normativa. Adicionalmente, encaminhou-se o presente processo à Perícia Médica Federal para análise do(s) período(s) remanescente(s) de atividade especial, em conformidade com a Portaria PRES/INSS nº 1.630, de 17 de novembro de 2023, uma vez que a situação fática do(s) referido(s) período(s) se amolda a, no mínimo, uma das hipóteses elencadas no art. 5º da referida norma (seja o inciso I, alíneas "a" ou "b". ou o inciso II, alíneas "a" ou "b"), que excepcionam a análise administrativa de conformidade e determinam a apreciação pela Perícia Médica Federal.
+Foram apresentados documentos para comprovação de atividade especial, os quais foram parcialmente analisados pelo setor administrativo, conforme relatório conclusivo da análise da exposição a agentes prejudiciais à saúde, nos termos da Portaria PRES/INSS nº 1.630, de 17 de novembro de 2023, e da Portaria MPS nº 630, de 8 de novembro de 2023. Foram analisadas atividades passíveis de enquadramento por categoria profissional até 28/04/1995, nos termos do § 1º do art. 269 da Instrução Normativa PRES/INSS nº 128/2022; a exposição a agentes prejudiciais à saúde; e/ou o aproveitamento de períodos já analisados em requerimento anterior, com reanálise dispensada, nos termos do art. 270 da mesma Instrução Normativa.
+Adicionalmente, encaminhou-se o presente processo à Perícia Médica Federal para análise do(s) período(s) remanescente(s) de atividade especial, em conformidade com a Portaria PRES/INSS nº 1.630/2023, uma vez que a situação fática do(s) referido(s) período(s) se amolda a, no mínimo, uma das hipóteses elencadas no art. 5º da referida norma (seja o inciso I, alíneas "a" ou "b", ou o inciso II, alíneas "a" ou "b"), as quais excepcionam a análise administrativa de conformidade e determinam a apreciação pela Perícia Médica Federal.
+Ressalta-se que a verificação da necessidade de informações do código GFIP nos formulários é de responsabilidade da análise técnica, assim como as informações relativas à eficácia de EPC/EPI.
+
+---
+
+Em contato com a Direção Central, a orientação repassada foi no sentido de que, independentemente da forma como forem lançados os períodos, caberá ao perito médico saber que sua análise se dará por período, de data a data, independentemente da quantidade de agentes nocivos. Logo, no tempo direcionado para análise (tarefa PMF), caberá ao profissional competente analisar todos os agentes prejudiciais à saúde a que o segurado esteve exposto naquele período. Dessa forma, orienta-se encaminhar os períodos somente uma vez, sem concomitâncias.
 ```
 
 ### [DESPACHO] Especial: Vedação de Conversão de Tempo Especial em Comum Após 13/11/2019 (EC 103)
@@ -703,7 +716,7 @@ OL do benefício: [OL BENEFÍCIO]
 *Solicita documentos contemporâneos que comprovem a prestação de serviço ou retirada de pró-labore declarada em GFIP fora do prazo.*
 
 ```text
-- Comprovação de Trabalho Prestado a Empresa (GFIP enviada fora do prazo): Para validar as contribuições declaradas fora do prazo pela empresa [NOME DA EMPRESA] ([PERÍODO]), apresente documentos da época do trabalho que confirmem a prestação de serviço e os valores recebidos: recibos de pró-labore (se sócio/administrador), Recibos de Pagamento a Autônomo (RPA) ou comprovantes de pagamento com identificação do CNPJ e do desconto do INSS, Declaração de Imposto de Renda da época (com recibo de entrega) ou declaração da empresa baseada em seus registros contábeis/fiscais (Fundamentação: art. 95 da Instrução Normativa PRES/INSS nº 128/2022).
+- Comprovação de Trabalho Prestado a Empresa (GFIP enviada fora do prazo): Para validar as contribuições declaradas fora do prazo ([PERÍODO]), apresente documentos da época do trabalho que confirmem a prestação de serviço e os valores recebidos: recibos de pró-labore (se sócio/administrador), Recibos de Pagamento a Autônomo (RPA) ou comprovantes de pagamento com identificação do CNPJ e do desconto do INSS, Declaração de Imposto de Renda da época (com recibo de entrega) ou declaração da empresa baseada em seus registros contábeis/fiscais (Fundamentação: art. 95 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ### [EXIGENCIA] Exigência: Declaração e Comprovantes de Trabalho em Jornada Intermitente ou Parcial

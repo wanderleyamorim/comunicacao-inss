@@ -1,6 +1,6 @@
 // Banco de Modelos de Despachos, Exigências e Procedimentos - INSS
 // Fonte de embasamento complementar: IN PRES/INSS nº 128/2022 (https://portalin.inss.gov.br/in)
-// Atualizado em: 27/10/2026, 06:44:18
+// Atualizado em: 06/11/2026, 09:07:53
 
 window.CABECALHOS_EXIGENCIA = {
   "padrao": {
@@ -262,6 +262,24 @@ window.MODELOS_INSS = [
     "texto": "- Aviso sobre o Andamento do Processo: Os seus documentos já foram recebidos e a análise do seu pedido continuará internamente pelo INSS. Você não precisa enviar novos documentos nem responder a esta mensagem neste momento. Por favor, mantenha o pedido na situação \"Em exigência\" (não clique em \"Cumprir exigência\" novamente) apenas para controle interno do sistema."
   },
   {
+    "id": "ger-exig-auxilio-reclusao-certidao-prisao",
+    "titulo": "Exigência: Certidão Judicial de Recolhimento à Prisão (Auxílio-Reclusão)",
+    "ato": "exigencia",
+    "tema": "Geral / Processual",
+    "favorito": false,
+    "tags": [
+      "auxílio-reclusão",
+      "B25",
+      "reclusão",
+      "prisão",
+      "regime fechado",
+      "certidão judicial",
+      "Vara de Execução Penal"
+    ],
+    "resumo": "Solicita certidão judicial atualizada (Vara de Execução Penal ou Criminal) com data exata da prisão e comprovação do regime prisional fechado.",
+    "texto": "- Certidão Judicial de Recolhimento à Prisão: Apresentar Certidão Judicial atualizada (emitida pela Vara de Execução Penal ou Vara Criminal competente), na qual constem expressamente a data exata da prisão e o atual regime prisional (fechado). Motivo: É necessário apresentar certidão judicial que confirme o regime de cumprimento de pena (Fundamentação: art. 80 da Lei nº 8.213/1991 e art. 381 da Instrução Normativa PRES/INSS nº 128/2022)."
+  },
+  {
     "id": "mat-facultativo-antes-16-anos",
     "titulo": "Maternidade: Facultativo Antes dos 16 Anos (Inviabilidade Legal)",
     "ato": "despacho",
@@ -470,7 +488,7 @@ window.MODELOS_INSS = [
     "titulo": "Rural: Averbação / Deferimento de Período para o CNIS",
     "ato": "despacho",
     "tema": "Rural / Segurado Especial",
-    "favorito": false,
+    "favorito": true,
     "tags": [
       "rural",
       "CNIS",
@@ -1401,7 +1419,7 @@ window.MODELOS_INSS = [
       "art. 95"
     ],
     "resumo": "Solicita documentos contemporâneos que comprovem a prestação de serviço ou retirada de pró-labore declarada em GFIP fora do prazo.",
-    "texto": "- Comprovação de Trabalho Prestado a Empresa (GFIP enviada fora do prazo): Para validar as contribuições declaradas fora do prazo pela empresa [NOME DA EMPRESA] ([PERÍODO]), apresente documentos da época do trabalho que confirmem a prestação de serviço e os valores recebidos: recibos de pró-labore (se sócio/administrador), Recibos de Pagamento a Autônomo (RPA) ou comprovantes de pagamento com identificação do CNPJ e do desconto do INSS, Declaração de Imposto de Renda da época (com recibo de entrega) ou declaração da empresa baseada em seus registros contábeis/fiscais (Fundamentação: art. 95 da Instrução Normativa PRES/INSS nº 128/2022)."
+    "texto": "- Comprovação de Trabalho Prestado a Empresa (GFIP enviada fora do prazo): Para validar as contribuições declaradas fora do prazo ([PERÍODO]), apresente documentos da época do trabalho que confirmem a prestação de serviço e os valores recebidos: recibos de pró-labore (se sócio/administrador), Recibos de Pagamento a Autônomo (RPA) ou comprovantes de pagamento com identificação do CNPJ e do desconto do INSS, Declaração de Imposto de Renda da época (com recibo de entrega) ou declaração da empresa baseada em seus registros contábeis/fiscais (Fundamentação: art. 95 da Instrução Normativa PRES/INSS nº 128/2022)."
   },
   {
     "id": "cnis-exig-jornada-intermitente-parcial",
