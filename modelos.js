@@ -1,6 +1,6 @@
 // Banco de Modelos de Despachos, Exigências e Procedimentos - INSS
 // Fonte de embasamento complementar: IN PRES/INSS nº 128/2022 (https://portalin.inss.gov.br/in)
-// Atualizado em: 12/11/2026, 09:37:00
+// Atualizado em: 12/11/2026, 17:20:00
 
 window.CABECALHOS_EXIGENCIA = {
   "padrao": {
@@ -278,6 +278,25 @@ window.MODELOS_INSS = [
     ],
     "resumo": "Solicita certidão judicial atualizada (Vara de Execução Penal ou Criminal) com data exata da prisão e comprovação do regime prisional fechado.",
     "texto": "- Certidão Judicial de Recolhimento à Prisão: Apresentar Certidão Judicial atualizada (emitida pela Vara de Execução Penal ou Vara Criminal competente), na qual constem expressamente a data exata da prisão e o atual regime prisional (fechado). Motivo: É necessário apresentar certidão judicial que confirme o regime de cumprimento de pena (Fundamentação: art. 80 da Lei nº 8.213/1991 e art. 381 da Instrução Normativa PRES/INSS nº 128/2022)."
+  },
+  {
+    "id": "ger-exig-comprovacao-residencia-exterior",
+    "titulo": "Exigência: Comprovação de Residência e Domicílio no Brasil (Dúvida sobre Residência no Exterior)",
+    "ato": "exigencia",
+    "tema": "Geral / Processual",
+    "favorito": false,
+    "tags": [
+      "residência",
+      "domicílio",
+      "exterior",
+      "passaporte",
+      "polícia federal",
+      "movimento migratório",
+      "B80",
+      "exigência"
+    ],
+    "resumo": "Solicita comprovante de residência recente no Brasil com comprovante de pagamento, Certidão de Movimentos Migratórios da PF ou declaração de domicílio.",
+    "texto": "- Comprovação de Residência e Domicílio no Brasil: Apresentar comprovante recente de endereço residencial no Brasil em seu nome emitido nos últimos 3 meses (conta de energia elétrica, água, gás encanado ou internet fixa residencial, acompanhada do respectivo comprovante de pagamento) ou Certidão de Movimentos Migratórios emitida gratuitamente no site da Polícia Federal (gov.br/pf), acompanhada de declaração formal informando onde você reside com ânimo definitivo, para fins de comprovação da efetiva fixação de residência no território nacional (Fundamentação: art. 19-B e art. 179 do Decreto nº 3.048/1999 e art. 566 da Instrução Normativa PRES/INSS nº 128/2022)."
   },
   {
     "id": "mat-facultativo-antes-16-anos",

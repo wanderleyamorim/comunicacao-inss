@@ -4,7 +4,7 @@
 
 ## Sumário por Tema
 
-1. **Geral / Processual** (16 modelos)
+1. **Geral / Processual** (17 modelos)
 2. **Salário-Maternidade (B80)** (13 modelos)
 3. **Rural / Segurado Especial** (18 modelos)
 4. **Atividade Especial / PPP** (15 modelos)
@@ -140,6 +140,13 @@ Processo reanalisado considerando as normativas administrativas do INSS. Visto q
 
 ```text
 - Certidão Judicial de Recolhimento à Prisão: Apresentar Certidão Judicial atualizada (emitida pela Vara de Execução Penal ou Vara Criminal competente), na qual constem expressamente a data exata da prisão e o atual regime prisional (fechado). Motivo: É necessário apresentar certidão judicial que confirme o regime de cumprimento de pena (Fundamentação: art. 80 da Lei nº 8.213/1991 e art. 381 da Instrução Normativa PRES/INSS nº 128/2022).
+```
+
+### [EXIGENCIA] Exigência: Comprovação de Residência e Domicílio no Brasil (Dúvida sobre Residência no Exterior)
+*Solicita comprovante de residência recente no Brasil com comprovante de pagamento, Certidão de Movimentos Migratórios da PF ou declaração de domicílio.*
+
+```text
+- Comprovação de Residência e Domicílio no Brasil: Apresentar comprovante recente de endereço residencial no Brasil em seu nome emitido nos últimos 3 meses (conta de energia elétrica, água, gás encanado ou internet fixa residencial, acompanhada do respectivo comprovante de pagamento) ou Certidão de Movimentos Migratórios emitida gratuitamente no site da Polícia Federal (gov.br/pf), acompanhada de declaração formal informando onde você reside com ânimo definitivo, para fins de comprovação da efetiva fixação de residência no território nacional (Fundamentação: art. 19-B e art. 179 do Decreto nº 3.048/1999 e art. 566 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ## 2. Salário-Maternidade (B80)
