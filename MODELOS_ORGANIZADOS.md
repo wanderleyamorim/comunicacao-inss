@@ -234,7 +234,7 @@ Haverá a suspensão dos pagamentos em conformidade com o art. 357, § 2º, da I
 *Solicita certidão de nascimento transcrita em Cartório do 1º Ofício de Registro Civil no Brasil para filho nascido no exterior.*
 
 ```text
-- Certidão de Nascimento de Filho Nascido no Exterior (Transcrição em Cartório): Para filho(a) nascido(a) no exterior, é necessário apresentar a Certidão de Nascimento devidamente transcrita (transladada) em um Cartório do 1º Ofício de Registro Civil de Pessoas Naturais do domicílio do(a) brasileiro(a) no Brasil ou no Cartório do 1º Ofício de Registro Civil do Distrito Federal. A certidão emitida exclusivamente por consulado ou autoridade estrangeira precisa ser transcrita em cartório brasileiro para comprovação do fato gerador do benefício (Fundamentação: art. 32 da Lei nº 6.015/1973, Resolução CNJ nº 155/2012 e art. 359 da Instrução Normativa PRES/INSS nº 128/2022).
+- Certidão de Nascimento de Filho Nascido no Exterior (Transcrição em Cartório): Para filho(a) nascido(a) no exterior, é necessário apresentar a Certidão de Nascimento devidamente transcrita (transladada) em um Cartório do 1º Ofício de Registro Civil de Pessoas Naturais do domicílio do(a) brasileiro(a) no Brasil ou no Cartório do 1º Ofício de Registro Civil do Distrito Federal. A certidão emitida por consulado brasileiro ou por autoridade estrangeira competente precisa ser transladada em cartório brasileiro para produzir efeitos perante o INSS (Fundamentação: art. 564, § 2º, inciso I, da Instrução Normativa PRES/INSS nº 128/2022, art. 32 da Lei nº 6.015/1973 e Resolução CNJ nº 155/2012).
 ```
 
 ## 3. Rural / Segurado Especial
