@@ -5,7 +5,7 @@
 ## Sumário por Tema
 
 1. **Geral / Processual** (16 modelos)
-2. **Salário-Maternidade (B80)** (12 modelos)
+2. **Salário-Maternidade (B80)** (13 modelos)
 3. **Rural / Segurado Especial** (18 modelos)
 4. **Atividade Especial / PPP** (15 modelos)
 5. **CNIS, DARF, GPS e Vínculos** (27 modelos)
@@ -228,6 +228,13 @@ Haverá a suspensão dos pagamentos em conformidade com o art. 357, § 2º, da I
 
 ```text
 - Comprovação de Trabalho por Conta Própria (Contribuinte Individual): Apresente documentos da época dos pagamentos que comprovem que você realmente exerceu atividade remunerada por conta própria antes do parto (como Recibos de Pagamento a Autônomo - RPA, Notas Fiscais de serviço, contratos de prestação de serviços, Declaração de Imposto de Renda com recibo de entrega, alvará de funcionamento ou comprovantes de ISS). Apenas pagar a guia do INSS (GPS/DARF) sem comprovar o trabalho efetivo não garante a filiação como contribuinte individual nem permite acumular o benefício com vínculo de carteira assinada (Fundamentação: arts. 90 e 361 da Instrução Normativa PRES/INSS nº 128/2022 c/c art. 59 da Portaria DIRBEN/INSS nº 990/2022 e art. 447 da Portaria DIRBEN/INSS nº 991/2022).
+```
+
+### [EXIGENCIA] Exigência: Certidão de Nascimento de Filho Nascido no Exterior (Transcrição em Cartório)
+*Solicita certidão de nascimento transcrita em Cartório do 1º Ofício de Registro Civil no Brasil para filho nascido no exterior.*
+
+```text
+- Certidão de Nascimento de Filho Nascido no Exterior (Transcrição em Cartório): Para filho(a) nascido(a) no exterior, é necessário apresentar a Certidão de Nascimento devidamente transcrita (transladada) em um Cartório do 1º Ofício de Registro Civil de Pessoas Naturais do domicílio do(a) brasileiro(a) no Brasil ou no Cartório do 1º Ofício de Registro Civil do Distrito Federal. A certidão emitida exclusivamente por consulado ou autoridade estrangeira precisa ser transcrita em cartório brasileiro para comprovação do fato gerador do benefício (Fundamentação: art. 32 da Lei nº 6.015/1973, Resolução CNJ nº 155/2012 e art. 359 da Instrução Normativa PRES/INSS nº 128/2022).
 ```
 
 ## 3. Rural / Segurado Especial
@@ -523,7 +530,7 @@ Não foi oportunizada a regularização, via DARF, das contribuições abaixo do
 *Veda a regularização pós-óbito de contribuições abaixo do mínimo após o dia 15 de janeiro do ano civil subsequente.*
 
 ```text
-Não foi oportunizada a regularização, via DARF, das contribuições abaixo do limite mínimo mensal (relatório de pendências em anexo) para fins de concessão de benefício aos dependentes, uma vez que os ajustes pretendidos e o recolhimento das competências do ano civil correspondente superaram o limite temporal máximo de até o dia 15 (quinze) do mês subsequente ao do encerramento do referido ano. A medida observa o disposto no art. 106, § 2º, inciso I, e no art. 127 da Instrução Normativa PRES/INSS nº 128, de 28 de março de 2022, em consonância com o art. 119 da Portaria DIRBEN/INSS nº 990, de 28 de março de 2022, e com o art. 19-E, § 7º, do Decreto nº 3.048/1999. Consequentemente, resta vedada a geração de guia complementar extemporânea pós-óbito e o cômputo dos referidos períodos.
+Não foi oportunizada a regularização, via DARF, das contribuições abaixo do limite mínimo mensal (relatório de pendências em anexo) para fins de concessão de benefício aos dependentes, uma vez que a solicitação dos referidos ajustes superou o limite temporal de até o dia 15 (quinze) de janeiro do ano subsequente ao óbito do segurado. A decisão observa o disposto no art. 19-E, § 7º, do Decreto nº 3.048/1999 (RPS), no art. 106, § 2º, inciso I, e art. 127 da Instrução Normativa PRES/INSS nº 128/2022, e no art. 119 da Portaria DIRBEN/INSS nº 990/2022, em consonância com a interpretação firmada pela CGAIS, DVR e DCCI no Processo SEI nº 35014.161262/2026-12 (que pacificou que o marco temporal de 15 de janeiro vincula a formalização do requerimento). Por conseguinte, restando intempestiva a manifestação dos interessados, resta precluso o direito à complementação pós-óbito e vedado o cômputo dos períodos com recolhimento inferior ao piso.
 ```
 
 ### [DESPACHO] CNIS / Guia: Orientações para Regularizar GPS (Pré-Reforma) e DARF (Pós-Reforma - Portaria 1.553/2023)
