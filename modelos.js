@@ -1,6 +1,6 @@
 // Banco de Modelos de Despachos, Exigências e Procedimentos - INSS
 // Fonte de embasamento complementar: IN PRES/INSS nº 128/2022 (https://portalin.inss.gov.br/in)
-// Atualizado em: 12/11/2026, 17:20:00
+// Atualizado em: 20/11/2026, 10:12:00
 
 window.CABECALHOS_EXIGENCIA = {
   "padrao": {
@@ -226,10 +226,11 @@ window.MODELOS_INSS = [
       "dúvida fundada",
       "termo de requerimento",
       "original",
-      "art. 63"
+      "art. 563",
+      "art. 35 Portaria 993"
     ],
     "resumo": "Solicita Termo de Requerimento assinado fisicamente (ou assinatura eletrônica avançada/qualificada) ou conferência presencial.",
-    "texto": "- Confirmação da Assinatura do(a) Requerente: Identificamos divergência ou dúvida quanto à autenticidade da assinatura no documento apresentado. Para confirmar a sua solicitação, envie o Termo de Requerimento de Serviços original assinado de próprio punho (conforme o seu documento de identidade) ou assinado eletronicamente no padrão avançado/qualificado (como a assinatura Gov.br Prata/Ouro ou certificado ICP-Brasil). Se preferir, você pode comparecer a uma Agência do INSS levando o seu documento de identificação original para conferência presencial (Fundamentação: art. 63, § 1º, inciso II, e parágrafo único da Instrução Normativa PRES/INSS nº 128/2022, c/c art. 33, § 2º, da Portaria DIRBEN/INSS nº 993/2022 e Decreto nº 10.543/2020)."
+    "texto": "- Confirmação da Assinatura do(a) Requerente: Identificamos divergência ou dúvida quanto à autenticidade da assinatura no documento apresentado. Para confirmar a sua solicitação, envie o Termo de Requerimento de Serviços original assinado de próprio punho (conforme o seu documento de identidade) ou assinado eletronicamente no padrão avançado/qualificado (como a assinatura Gov.br Prata/Ouro ou certificado ICP-Brasil). Se preferir, você pode comparecer a uma Agência do INSS levando o seu documento de identificação original para conferência presencial (Fundamentação: art. 563, § 1º, da Instrução Normativa PRES/INSS nº 128/2022, c/c art. 35, § 6º, da Portaria DIRBEN/INSS nº 993/2022 e Decreto nº 10.543/2020)."
   },
   {
     "id": "ger-exig-dilacao-prazo-5dias",
@@ -296,7 +297,7 @@ window.MODELOS_INSS = [
       "exigência"
     ],
     "resumo": "Solicita comprovante de residência recente no Brasil com comprovante de pagamento, Certidão de Movimentos Migratórios da PF ou declaração de domicílio.",
-    "texto": "- Comprovação de Residência e Domicílio no Brasil: Apresentar comprovante recente de endereço residencial no Brasil em seu nome emitido nos últimos 3 meses (conta de energia elétrica, água, gás encanado ou internet fixa residencial, acompanhada do respectivo comprovante de pagamento) ou Certidão de Movimentos Migratórios emitida gratuitamente no site da Polícia Federal (gov.br/pf), acompanhada de declaração formal informando onde você reside com ânimo definitivo, para fins de comprovação da efetiva fixação de residência no território nacional (Fundamentação: art. 19-B e art. 179 do Decreto nº 3.048/1999 e art. 566 da Instrução Normativa PRES/INSS nº 128/2022)."
+    "texto": "- Comprovação de Residência e Domicílio no Brasil: Apresentar comprovante recente de endereço residencial no Brasil em seu nome emitido nos últimos 3 meses (conta de energia elétrica, água, gás encanado ou internet fixa residencial, acompanhada do respectivo comprovante de pagamento) ou Certidão de Movimentos Migratórios emitida gratuitamente no site da Polícia Federal (gov.br/pf), acompanhada de declaração formal informando onde você reside com ânimo definitivo, para fins de comprovação da efetiva fixação de residência no território nacional (Fundamentação: arts. 19-B e 19-F do Decreto nº 3.048/1999 e art. 566 da Instrução Normativa PRES/INSS nº 128/2022)."
   },
   {
     "id": "mat-facultativo-antes-16-anos",
@@ -702,7 +703,7 @@ window.MODELOS_INSS = [
       "art. 17"
     ],
     "resumo": "Esclarece que a indenização de período rural pós-10/1991 não retroage a 13/11/2019 para fins de direito adquirido ou regras de transição.",
-    "texto": "Quanto ao período homologado de [PERÍODO HOMOLOGADO, EX: 01/11/1991 a 26/02/1998], com possibilidade de emissão de GPS para recolhimento de período em atraso/indenização de período rural para fins de cômputo no tempo de contribuição e concessão do benefício, é importante esclarecer que o Decreto nº 10.410/2020 promoveu alterações no cômputo dos períodos recolhidos em atraso, revogando o art. 59 do Decreto nº 3.048/1999 e modificando o entendimento aplicável aos recolhimentos realizados em atraso. Dessa forma, não é permitido o cômputo de período recolhido em atraso após o fato gerador, sendo considerado apenas mediante a alteração da DER para a data do pagamento. Além disso, o referido período não integrará o cálculo do tempo de contribuição apurado até 13/11/2019, conforme disposto no art. 3º da Emenda Constitucional nº 103/2019. Assim, mesmo que ocorra o pagamento, o período não será computado no tempo de contribuição apurado até 13/11/2019 para fins de direito adquirido, o que também impede sua utilização no requisito temporal até 13/11/2019 das regras de transição previstas nos arts. 17 e 20 da EC nº 103/2019, conforme previsto nos §§ 5º e 6º do art. 9º da Portaria PRES/INSS nº 1.382, de 19/11/2021 (c/c art. 198, § 5º, da Instrução Normativa PRES/INSS nº 128/2022). Pelo exposto, evidencia-se que o recolhimento em atraso solicitado não surtirá efeitos para o reconhecimento do direito no presente caso, visto que, para o art. 17 (pedágio de 50%), o(a) requerente não possui o tempo mínimo de 28/33 anos até a data de 13/11/2019. As fontes utilizadas para embasar essa decisão foram: Comunicado nº 02/2020 - DIVBEN, de 26/04/2021; Parecer CONJUR/MPS nº 219/2011; Nota nº 134/2011/CGMBEN/PFEINSS/PGF/AGU; Parecer CONJUR/MPS nº 616/2010; § 4º do artigo 28 e artigo 188-A do RPS (Decreto nº 3.048/1999) e Portaria PRES/INSS nº 1.382, de 19/11/2021."
+    "texto": "Quanto ao período homologado de [PERÍODO HOMOLOGADO, EX: 01/11/1991 a 26/02/1998], com possibilidade de emissão de GPS para recolhimento de período em atraso/indenização de período rural para fins de cômputo no tempo de contribuição e concessão do benefício, é importante esclarecer que o Decreto nº 10.410/2020 promoveu alterações no cômputo dos períodos recolhidos em atraso, revogando o art. 59 do Decreto nº 3.048/1999 e modificando o entendimento aplicável aos recolhimentos realizados em atraso. Dessa forma, não é permitido o cômputo de período recolhido em atraso após o fato gerador, sendo considerado apenas mediante a alteração da DER para a data do pagamento. Além disso, o referido período não integrará o cálculo do tempo de contribuição apurado até 13/11/2019, conforme disposto no art. 3º da Emenda Constitucional nº 103/2019. Assim, mesmo que ocorra o pagamento, o período não será computado no tempo de contribuição apurado até 13/11/2019 para fins de direito adquirido, o que também impede sua utilização no requisito temporal até 13/11/2019 das regras de transição previstas nos arts. 17 e 20 da EC nº 103/2019, conforme previsto nos §§ 5º e 6º do art. 9º da Portaria PRES/INSS nº 1.382, de 19/11/2021 (c/c art. 208 e art. 194, inciso V, da Instrução Normativa PRES/INSS nº 128/2022). Pelo exposto, evidencia-se que o recolhimento em atraso solicitado não surtirá efeitos para o reconhecimento do direito no presente caso, visto que, para o art. 17 (pedágio de 50%), o(a) requerente não possui o tempo mínimo de 28/33 anos até a data de 13/11/2019. As fontes utilizadas para embasar essa decisão foram: Comunicado nº 02/2020 - DIVBEN, de 26/04/2021; Parecer CONJUR/MPS nº 219/2011; Nota nº 134/2011/CGMBEN/PFEINSS/PGF/AGU; Parecer CONJUR/MPS nº 616/2010; § 4º do artigo 28 e artigo 188-A do RPS (Decreto nº 3.048/1999) e Portaria PRES/INSS nº 1.382, de 19/11/2021."
   },
   {
     "id": "rur-nao-adianta-indenizar-ec103-resumido",
@@ -718,7 +719,7 @@ window.MODELOS_INSS = [
       "art. 188-A"
     ],
     "resumo": "Versão direta explicando a dispensa de emissão de GPS indenizatória pós-10/1991 por não implementar transição da EC 103/2019.",
-    "texto": "Vale ressaltar que o período de [PERÍODO, EX: 11/1991 a XX/XXXX] não foi indenizado. Com a alteração do art. 28, § 4º, do Decreto nº 3.048/1999 (pelo Decreto nº 10.410/2020), o período a ser indenizado não contaria para o cálculo do direito até 13/11/2019, conforme a Emenda Constitucional nº 103/2019. Assim, mesmo com o acréscimo do período a indenizar, o tempo de contribuição em 13/11/2019 permaneceria o mesmo, não implementando tempo/idade suficientes para as regras de transição dos arts. 15, 16, 17 e 20 da EC nº 103/2019.\nA fundamentação legal para a não consideração do período indenizado na aferição do direito adquirido é a Emenda Constitucional nº 103, de 13/11/2019, que considera o tempo efetivamente apurado até aquela data. Dessa forma, eventual indenização realizada posteriormente produz efeitos apenas a partir da data do pagamento, em consonância com o disposto no art. 188-A do Decreto nº 3.048/1999 e no art. 198, § 5º, da Instrução Normativa PRES/INSS nº 128/2022.\nPortanto, deixa-se de emitir GPS indenizatória do período rural posterior a 10/1991, pois não garantiria a concessão do benefício pleiteado."
+    "texto": "Vale ressaltar que o período de [PERÍODO, EX: 11/1991 a XX/XXXX] não foi indenizado. Com a alteração do art. 28, § 4º, do Decreto nº 3.048/1999 (pelo Decreto nº 10.410/2020), o período a ser indenizado não contaria para o cálculo do direito até 13/11/2019, conforme a Emenda Constitucional nº 103/2019. Assim, mesmo com o acréscimo do período a indenizar, o tempo de contribuição em 13/11/2019 permaneceria o mesmo, não implementando tempo/idade suficientes para as regras de transição dos arts. 15, 16, 17 e 20 da EC nº 103/2019.\nA fundamentação legal para a não consideração do período indenizado na aferição do direito adquirido é a Emenda Constitucional nº 103, de 13/11/2019, que considera o tempo efetivamente apurado até aquela data. Dessa forma, eventual indenização realizada posteriormente produz efeitos apenas a partir da data do pagamento, em consonância com o disposto no art. 188-A do Decreto nº 3.048/1999 e no art. 208 e art. 194, inciso V, da Instrução Normativa PRES/INSS nº 128/2022.\nPortanto, deixa-se de emitir GPS indenizatória do período rural posterior a 10/1991, pois não garantiria a concessão do benefício pleiteado."
   },
   {
     "id": "rur-aposentadoria-hibrida-qualidade-segurado",
@@ -896,10 +897,10 @@ window.MODELOS_INSS = [
       "13/11/2019",
       "EC 103",
       "art. 25",
-      "art. 259"
+      "art. 269"
     ],
     "resumo": "Nega a conversão de tempo especial em comum para períodos trabalhados após a Reforma da Previdência (13/11/2019).",
-    "texto": "O artigo 25, § 2º, da Emenda Constitucional nº 103/2019 (c/c o art. 259 da Instrução Normativa PRES/INSS nº 128/2022) garante a conversão de tempo especial em comum apenas para o trabalho realizado até 13 de novembro de 2019. A norma proíbe essa conversão de acréscimo temporal para as atividades exercidas após a entrada em vigor da Reforma da Previdência."
+    "texto": "O artigo 25, § 2º, da Emenda Constitucional nº 103/2019 (c/c o art. 188-P, § 5º, do Decreto nº 3.048/1999 e o art. 269, § 2º, da Instrução Normativa PRES/INSS nº 128/2022) garante a conversão de tempo especial em comum apenas para o trabalho realizado até 13 de novembro de 2019. A norma proíbe essa conversão de acréscimo temporal para as atividades exercidas após a entrada em vigor da Reforma da Previdência."
   },
   {
     "id": "esp-ppp-sem-representante-ou-responsavel-ambiental",
@@ -946,11 +947,11 @@ window.MODELOS_INSS = [
       "fracionamento",
       "PRISMA",
       "PMF",
-      "art. 70-E",
+      "art. 188-P",
       "art. 274"
     ],
     "resumo": "Despacho PAT e minuta de e-mail à CGRPMF explicando o envio em bloco dos PPPs de trabalhador avulso para posterior fracionamento no Prisma.",
-    "texto": "Despacho no PAT:\nDestaque-se que, excepcionalmente, não foi realizado o fracionamento prévio das atividades especiais constantes nos formulários apresentados (Campo 15 do PPP) em face do elevado número de vínculos e das limitações operacionais do sistema GET. Desse modo, após a avaliação técnica por parte da Perícia Médica Federal, ocorrendo o enquadramento de qualquer período (integral ou parcial), serão os mesmos fracionados no sistema de benefícios (PRISMA) para fins de enquadramento e eventual conversão em tempo comum, na forma prevista no art. 70-E do Decreto nº 3.048/1999 e nos arts. 274 e 289 da Instrução Normativa PRES/INSS nº 128/2022.\n\n-\nMinuta de E-mail para a Perícia Médica Federal (CGRPMF):\nAssunto: Encaminhamento para Análise de PPP - Trabalhador Avulso - CPF: [CPF]\n\nPrezado(a) [NOME DO DESTINATÁRIO],\nConforme alinhamento, solicito a gentileza de encaminhar este e-mail à Coordenação Regional da Perícia Médica Federal ([E-MAIL DA DIVSAT/CGRPMF]), com a seguinte solicitação:\n\nSolicitamos a análise dos Perfis Profissiográficos Previdenciários (PPPs) cadastrados nas tarefas vinculadas ao CPF [CPF].\nInformamos que, devido a limitações operacionais no fluxo entre os sistemas PMF Tarefas, PAT e Prisma, o envio dos referidos PPPs foi realizado em bloco, correspondendo aos vínculos migrados do CNIS, sem o fracionamento detalhado por períodos. Tal procedimento foi adotado por se tratar de trabalhador avulso, cujo grande volume de formulários inviabilizaria o retorno da análise se cadastrado de outra forma.\nConsta despacho no processo PAT com o seguinte teor:\n\"Destaque-se que, excepcionalmente, não foi realizado o fracionamento das atividades especiais constantes nos formulários apresentados (Campo 15 do PPP) face ao número de vínculos e às limitações operacionais do sistema GET. Desse modo, após a avaliação técnica por parte da Perícia Médica Federal, ocorrendo o enquadramento de qualquer período (integral ou parcial), serão os mesmos fracionados no sistema de benefícios (PRISMA) para fins de enquadramento e eventual conversão em comum, na forma prevista no art. 70-E do Decreto nº 3.048/1999.\""
+    "texto": "Despacho no PAT:\nDestaque-se que, excepcionalmente, não foi realizado o fracionamento prévio das atividades especiais constantes nos formulários apresentados (Campo 15 do PPP) em face do elevado número de vínculos e das limitações operacionais do sistema GET. Desse modo, após a avaliação técnica por parte da Perícia Médica Federal, ocorrendo o enquadramento de qualquer período (integral ou parcial), serão os mesmos fracionados no sistema de benefícios (PRISMA) para fins de enquadramento e eventual conversão em tempo comum, na forma prevista no art. 188-P, § 5º, do Decreto nº 3.048/1999 e nos arts. 269, § 2º, 274 e 289 da Instrução Normativa PRES/INSS nº 128/2022.\n\n-\nMinuta de E-mail para a Perícia Médica Federal (CGRPMF):\nAssunto: Encaminhamento para Análise de PPP - Trabalhador Avulso - CPF: [CPF]\n\nPrezado(a) [NOME DO DESTINATÁRIO],\nConforme alinhamento, solicito a gentileza de encaminhar este e-mail à Coordenação Regional da Perícia Médica Federal ([E-MAIL DA DIVSAT/CGRPMF]), com a seguinte solicitação:\n\nSolicitamos a análise dos Perfis Profissiográficos Previdenciários (PPPs) cadastrados nas tarefas vinculadas ao CPF [CPF].\nInformamos que, devido a limitações operacionais no fluxo entre os sistemas PMF Tarefas, PAT e Prisma, o envio dos referidos PPPs foi realizado em bloco, correspondendo aos vínculos migrados do CNIS, sem o fracionamento detalhado por períodos. Tal procedimento foi adotado por se tratar de trabalhador avulso, cujo grande volume de formulários inviabilizaria o retorno da análise se cadastrado de outra forma.\nConsta despacho no processo PAT com o seguinte teor:\n\"Destaque-se que, excepcionalmente, não foi realizado o fracionamento das atividades especiais constantes nos formulários apresentados (Campo 15 do PPP) face ao número de vínculos e às limitações operacionais do sistema GET. Desse modo, após a avaliação técnica por parte da Perícia Médica Federal, ocorrendo o enquadramento de qualquer período (integral ou parcial), serão os mesmos fracionados no sistema de benefícios (PRISMA) para fins de enquadramento e eventual conversão em comum, na forma prevista no art. 188-P, § 5º, do Decreto nº 3.048/1999 e no art. 269, § 2º, da Instrução Normativa PRES/INSS nº 128/2022.\""
   },
   {
     "id": "esp-ppp-ci-somente-cooperado",
@@ -1068,10 +1069,12 @@ window.MODELOS_INSS = [
       "magistério",
       "educação básica",
       "exigência",
-      "art. 249"
+      "art. 214",
+      "art. 250 a 255",
+      "art. 263 Portaria 991"
     ],
     "resumo": "Solicita declaração do estabelecimento de ensino atestando regência de classe e nível de ensino.",
-    "texto": "- Comprovação de Tempo de Professor: Apresente declaração emitida pela escola ou instituição de ensino (ou órgão oficial de educação) informando o período exato em que você exerceu atividade de magistério (regência de classe, direção de unidade escolar ou coordenação/assessoramento pedagógico) e especificando o nível de ensino (Educação Infantil, Ensino Fundamental ou Ensino Médio), acompanhada dos registros na Carteira de Trabalho ou portarias de nomeação/designação (Fundamentação: arts. 249 a 254 da Instrução Normativa PRES/INSS nº 128/2022)."
+    "texto": "- Comprovação de Tempo de Professor: Apresente declaração emitida pela escola ou instituição de ensino (ou órgão oficial de educação) informando o período exato em que você exerceu atividade de magistério (regência de classe, direção de unidade escolar ou coordenação/assessoramento pedagógico) e especificando o nível de ensino (Educação Infantil, Ensino Fundamental ou Ensino Médio), acompanhada dos registros na Carteira de Trabalho ou portarias de nomeação/designação (Fundamentação: art. 54, § 3º, inciso II, do Decreto nº 3.048/1999, arts. 214 e 250 a 255 da Instrução Normativa PRES/INSS nº 128/2022 e art. 263, inciso I, da Portaria DIRBEN/INSS nº 991/2022)."
   },
   {
     "id": "cnis-alteracao-conforme-ctps",
@@ -1153,11 +1156,11 @@ window.MODELOS_INSS = [
       "recolhimento em atraso",
       "indenização",
       "Decreto 10.410/2020",
-      "art. 198",
+      "art. 208",
       "art. 577"
     ],
     "resumo": "Esclarece que recolhimentos em atraso/indenização somente contam como tempo de contribuição a partir da data do efetivo pagamento.",
-    "texto": "Solicita-se declarar se autoriza a reafirmação/mudança da DER para o dia posterior ao pagamento das contribuições de indenização ([DATA DO PAGAMENTO]), pois, conforme disciplinam o Decreto nº 10.410, de 30 de junho de 2020 (art. 28, § 4º, e art. 188-A do Decreto nº 3.048/1999) e os arts. 198, § 5º, e 577 da Instrução Normativa PRES/INSS nº 128/2022, pagamentos em atraso referentes a indenização somente são computados para efeito de tempo de contribuição após a data do efetivo recolhimento."
+    "texto": "Solicita-se declarar se autoriza a reafirmação/mudança da DER para o dia posterior ao pagamento das contribuições de indenização ([DATA DO PAGAMENTO]), pois, conforme disciplinam o Decreto nº 10.410, de 30 de junho de 2020 (art. 28, § 4º, e art. 188-A do Decreto nº 3.048/1999) e os arts. 208 e 577 da Instrução Normativa PRES/INSS nº 128/2022, pagamentos em atraso referentes a indenização somente são computados para efeito de tempo de contribuição após a data do efetivo recolhimento."
   },
   {
     "id": "cnis-aluno-aprendiz-indeferimento",
@@ -1470,10 +1473,10 @@ window.MODELOS_INSS = [
       "jornada parcial",
       "contracheques",
       "contrato de trabalho",
-      "art. 240"
+      "art. 47"
     ],
     "resumo": "Solicita declaração conjunta de empregador e empregado, contrato de trabalho e contracheques dos meses trabalhados.",
-    "texto": "- Comprovação de Jornada de Trabalho (Intermitente ou Parcial): Apresente o contrato individual de trabalho, os contracheques dos meses trabalhados e uma declaração assinada pela empresa informando a modalidade da jornada (parcial ou intermitente) e os meses em que houve convocação e efetivo trabalho (Fundamentação: art. 240, inciso VII, e art. 427 da Instrução Normativa PRES/INSS nº 128/2022)."
+    "texto": "- Comprovação de Jornada de Trabalho (Intermitente ou Parcial): Apresente o contrato individual de trabalho, os contracheques dos meses trabalhados e uma declaração assinada pela empresa informando a modalidade da jornada (parcial ou intermitente) e os meses em que houve convocação e efetivo trabalho (Fundamentação: art. 45, inciso II, art. 47 e art. 48, § 1º, da Instrução Normativa PRES/INSS nº 128/2022)."
   },
   {
     "id": "cnis-exig-convalidacao-facultativo",
@@ -1666,10 +1669,10 @@ window.MODELOS_INSS = [
       "arquivo original",
       "PDF assinado",
       "validação",
-      "art. 108"
+      "art. 560"
     ],
     "resumo": "Solicita o arquivo PDF digital original (e não foto/impressão digitalizada) para permitir a validação da assinatura eletrônica.",
-    "texto": "- Envio do Arquivo Digital Original da Procuração Eletrônica: Não foi possível validar a assinatura eletrônica da procuração porque o arquivo anexado é uma imagem, foto ou cópia impressa/regravada, o que corrompe o certificado digital. Anexe o arquivo PDF digital original exatamente no formato em que foi gerado e assinado na plataforma eletrônica, sem imprimir nem converter, para que o INSS possa verificar a validade da assinatura online (Fundamentação: art. 108, §§ 1º e 4º, da Instrução Normativa PRES/INSS nº 128/2022; Medida Provisória nº 2.200-2/2001, art. 10)."
+    "texto": "- Envio do Arquivo Digital Original da Procuração Eletrônica: Não foi possível validar a assinatura eletrônica da procuração porque o arquivo anexado é uma imagem, foto ou cópia impressa/regravada, o que corrompe o certificado digital. Anexe o arquivo PDF digital original exatamente no formato em que foi gerado e assinado na plataforma eletrônica, sem imprimir nem converter, para que o INSS possa verificar a validade da assinatura online (Fundamentação: art. 560, §§ 1º e 3º, da Instrução Normativa PRES/INSS nº 128/2022; Medida Provisória nº 2.200-2/2001, art. 10)."
   },
   {
     "id": "rep-exig-nivel-assinatura-simples-insuficiente",
@@ -1686,7 +1689,7 @@ window.MODELOS_INSS = [
       "art. 560"
     ],
     "resumo": "Recusa assinatura eletrônica simples em procuração e solicita assinatura no mínimo avançada (Gov.br Prata/Ouro) ou qualificada (ICP-Brasil).",
-    "texto": "- Procuração com Assinatura Eletrônica Avançada ou Qualificada: A procuração apresentada foi assinada com \"assinatura eletrônica simples\", que não possui o nível de segurança exigido por lei para outorga de poderes no INSS. Apresente nova procuração assinada pelo(a) segurado(a) com assinatura eletrônica no mínimo Avançada (como a assinatura Gov.br de conta nível Prata ou Ouro) ou Qualificada (certificado digital ICP-Brasil), ou envie procuração física assinada à mão conforme o documento de identidade (Fundamentação: Decreto nº 10.543/2020, art. 4º, II; Lei nº 14.063/2020, art. 5º; arts. 108 e 560 da Instrução Normativa PRES/INSS nº 128/2022)."
+    "texto": "- Procuração com Assinatura Eletrônica Avançada ou Qualificada: A procuração apresentada foi assinada com \"assinatura eletrônica simples\", que não possui o nível de segurança exigido por lei para outorga de poderes no INSS. Apresente nova procuração assinada pelo(a) segurado(a) com assinatura eletrônica no mínimo Avançada (como a assinatura Gov.br de conta nível Prata ou Ouro) ou Qualificada (certificado digital ICP-Brasil), ou envie procuração física assinada à mão conforme o documento de identidade (Fundamentação: Decreto nº 10.543/2020, art. 4º, II; Lei nº 14.063/2020, art. 5º; arts. 541, 542 e 560 da Instrução Normativa PRES/INSS nº 128/2022)."
   },
   {
     "id": "rep-exig-ausencia-dados-verificacao-eletronica",
@@ -1737,7 +1740,7 @@ window.MODELOS_INSS = [
       "art. 575"
     ],
     "resumo": "Despacho estruturado em 9 itens para encerrar processo sem resolução de mérito após 30 dias sem sanar vício de representação (alínea a) ou habilitação (alínea b).",
-    "texto": "1. Trata-se de requerimento de [NOME DO BENEFÍCIO / SERVIÇO SOLICITADO] que será encerrado sem análise do mérito, em razão do não cumprimento integral das exigências formuladas para a correta instrução e habilitação do pedido, conforme detalhado abaixo.\n2. Em [DATA DE EMISSÃO DA EXIGÊNCIA], foi emitida carta de exigência, da qual o(a) interessado(a) tomou ciência em [DATA DA CIÊNCIA OU 6º DIA APÓS E-MAIL/SMS], solicitando a apresentação de documentos/esclarecimentos imprescindíveis, especificamente quanto a [NATUREZA DA EXIGÊNCIA, EX: regularização da representação processual / apresentação do arquivo original da procuração com assinatura eletrônica válida]. Foi concedido o prazo legal para cumprimento.\n3. Verifica-se que, decorrido o prazo de 30 (trinta) dias da ciência da referida exigência, o(a) interessado(a) não apresentou os elementos solicitados de forma a sanar as seguintes pendências:\n- [DESCREVER A PENDÊNCIA NÃO SANADA, EX: Não apresentação de procuração com assinatura eletrônica avançada ou qualificada do outorgante / Não fornecimento do arquivo PDF original para validação / Manutenção de vício de representação].\n4. O não atendimento das referidas exigências impede a análise de mérito do requerimento, configurando, nos termos do art. 574, § 4º, inciso II, da Instrução Normativa PRES/INSS nº 128, de 28 de março de 2022:\n[ALÍNEA APLICÁVEL: a) vício de representação não sanado; e/ou b) ausência de elementos suficientes para a habilitação do pedido.]\n5. A regularidade da representação e a validade dos documentos eletrônicos são requisitos essenciais para a segurança jurídica dos atos processuais, conforme estabelecido pela Medida Provisória nº 2.200-2/2001, pela Lei nº 14.063/2020, pelo Decreto nº 10.543/2020 e pelos artigos 108 e 560 da Instrução Normativa PRES/INSS nº 128/2022.\n6. Desta forma, diante da inércia do(a) interessado(a) em cumprir as exigências no prazo estabelecido, e considerando a ausência de elementos mínimos para prosseguir com a análise do direito pleiteado, impõe-se o encerramento do processo sem resolução de mérito, por desistência do pedido.\n7. Nos termos do art. 575 da Instrução Normativa PRES/INSS nº 128/2022, o(a) interessado(a) será comunicado(a) desta decisão, com a exposição dos motivos e a fundamentação legal.\n8. Ressalta-se que o presente encerramento não impede a formulação de novo requerimento, que poderá ser realizado a qualquer tempo, devendo, contudo, ser instruído desde o início com toda a documentação necessária para a comprovação do direito, observadas as normativas vigentes.\n9. Processo encerrado sem análise do mérito, e a tarefa correspondente finalizada nesta data."
+    "texto": "1. Trata-se de requerimento de [NOME DO BENEFÍCIO / SERVIÇO SOLICITADO] que será encerrado sem análise do mérito, em razão do não cumprimento integral das exigências formuladas para a correta instrução e habilitação do pedido, conforme detalhado abaixo.\n2. Em [DATA DE EMISSÃO DA EXIGÊNCIA], foi emitida carta de exigência, da qual o(a) interessado(a) tomou ciência em [DATA DA CIÊNCIA OU 6º DIA APÓS E-MAIL/SMS], solicitando a apresentação de documentos/esclarecimentos imprescindíveis, especificamente quanto a [NATUREZA DA EXIGÊNCIA, EX: regularização da representação processual / apresentação do arquivo original da procuração com assinatura eletrônica válida]. Foi concedido o prazo legal para cumprimento.\n3. Verifica-se que, decorrido o prazo de 30 (trinta) dias da ciência da referida exigência, o(a) interessado(a) não apresentou os elementos solicitados de forma a sanar as seguintes pendências:\n- [DESCREVER A PENDÊNCIA NÃO SANADA, EX: Não apresentação de procuração com assinatura eletrônica avançada ou qualificada do outorgante / Não fornecimento do arquivo PDF original para validação / Manutenção de vício de representação].\n4. O não atendimento das referidas exigências impede a análise de mérito do requerimento, configurando, nos termos do art. 574, § 4º, inciso II, da Instrução Normativa PRES/INSS nº 128, de 28 de março de 2022:\n[ALÍNEA APLICÁVEL: a) vício de representação não sanado; e/ou b) ausência de elementos suficientes para a habilitação do pedido.]\n5. A regularidade da representação e a validade dos documentos eletrônicos são requisitos essenciais para a segurança jurídica dos atos processuais, conforme estabelecido pela Medida Provisória nº 2.200-2/2001, pela Lei nº 14.063/2020, pelo Decreto nº 10.543/2020 e pelos artigos 541, 542 e 560 da Instrução Normativa PRES/INSS nº 128/2022.\n6. Desta forma, diante da inércia do(a) interessado(a) em cumprir as exigências no prazo estabelecido, e considerando a ausência de elementos mínimos para prosseguir com a análise do direito pleiteado, impõe-se o encerramento do processo sem resolução de mérito, por desistência do pedido.\n7. Nos termos do art. 575 da Instrução Normativa PRES/INSS nº 128/2022, o(a) interessado(a) será comunicado(a) desta decisão, com a exposição dos motivos e a fundamentação legal.\n8. Ressalta-se que o presente encerramento não impede a formulação de novo requerimento, que poderá ser realizado a qualquer tempo, devendo, contudo, ser instruído desde o início com toda a documentação necessária para a comprovação do direito, observadas as normativas vigentes.\n9. Processo encerrado sem análise do mérito, e a tarefa correspondente finalizada nesta data."
   },
   {
     "id": "rep-roteiro-exemplos-alineas-a-b",
@@ -2044,7 +2047,7 @@ window.MODELOS_INSS = [
       "Portaria Conjunta 35/2026"
     ],
     "resumo": "Julga improcedente a defesa quando as despesas apresentadas não cumprem os requisitos de dedução legal e suspende o BPC.",
-    "texto": "ASSUNTO: ANÁLISE DE DEFESA E CONCLUSÃO - SUSPENSÃO\nTrata-se de Reavaliação do BPC por superação de renda (REAVBPC).\nDefesa apresentada; contudo, os documentos não foram suficientes para afastar a superação de renda identificada pelo cruzamento de dados (CNIS/CadÚnico).\nAs despesas apresentadas não se enquadram nas hipóteses de dedução legal da Portaria Conjunta MC/MTP/INSS nº 14/2021 e do art. 20, § 11-A, c/c art. 21 da Lei nº 8.742/1993:\na) documentação médica que indique a necessidade de tratamento contínuo de saúde e comprovação de que não existe oferta gratuita do tratamento, ou de que houve negativa de disponibilização pelo SUS; e/ou\nb) documentação que demonstre a necessidade de utilização do Serviço de Proteção Especial (Centro-Dia) e de sua não disponibilização pelo SUAS.\nMantida a renda per capita familiar superior a 1/4 do salário mínimo, descaracterizando o requisito de miserabilidade do art. 20, § 3º, da Lei nº 8.742/1993. Não foram encontradas ações judiciais no Sapiens e/ou ACPs impeditivas para o município de residência do(a) titular.\nCONCLUSÃO: Considero a defesa IMPROCEDENTE. Benefício SUSPENSO, conforme o art. 47 do Decreto nº 6.214/2007 e procedimentos da Portaria Conjunta DIRBEN/DTI/INSS nº 35/2026.\nNotifique-se o(a) interessado(a) quanto à decisão e ao prazo de 30 (trinta) dias para interposição de recurso ao CRPS."
+    "texto": "ASSUNTO: ANÁLISE DE DEFESA E CONCLUSÃO - SUSPENSÃO\nTrata-se de Reavaliação do BPC por superação de renda (REAVBPC).\nDefesa apresentada; contudo, os documentos não foram suficientes para afastar a superação de renda identificada pelo cruzamento de dados (CNIS/CadÚnico).\nAs despesas apresentadas não se enquadram nas hipóteses de dedução legal da Portaria Conjunta MC/MTP/INSS nº 14/2021 e do art. 20, § 11-A, c/c art. 21 da Lei nº 8.742/1993:\na) documentação médica que indique a necessidade de tratamento contínuo de saúde e comprovação de que não existe oferta gratuita do tratamento, ou de que houve negativa de disponibilização pelo SUS; e/ou\nb) documentação que demonstre a necessidade de utilização do Serviço de Proteção Especial (Centro-Dia) e de sua não disponibilização pelo SUAS.\nMantida a renda per capita familiar superior a 1/4 do salário mínimo, descaracterizando o requisito de miserabilidade do art. 20, § 3º, da Lei nº 8.742/1993. Não foram encontradas ações judiciais no Sapiens e/ou ACPs impeditivas para o município de residência do(a) titular.\nCONCLUSÃO: Considero a defesa IMPROCEDENTE. Benefício SUSPENSO, conforme o art. 42, § 2º, do Decreto nº 6.214/2007 (com redação dada pelo Decreto nº 12.534/2025) e procedimentos da Portaria Conjunta DIRBEN/DTI/INSS nº 35/2026.\nNotifique-se o(a) interessado(a) quanto à decisão e ao prazo de 30 (trinta) dias para interposição de recurso ao CRPS."
   },
   {
     "id": "reav-desp-suspensao-decurso-prazo",
@@ -2060,7 +2063,7 @@ window.MODELOS_INSS = [
       "art. 21 LOAS"
     ],
     "resumo": "Determina a suspensão do BPC por decurso do prazo de 30 dias sem apresentação de defesa pelo beneficiário.",
-    "texto": "ASSUNTO: DECURSO DE PRAZO - SUSPENSÃO DO BENEFÍCIO\nTrata-se de Reavaliação do BPC (REAVBPC). Notificação de defesa emitida em [DATA DA NOTIFICAÇÃO].\nDecorrido o prazo legal de 30 (trinta) dias sem manifestação do(a) interessado(a) (Decurso de Prazo), conforme verificado nos sistemas PAT e SIBE PU.\nA análise das bases governamentais confirma a manutenção da renda per capita superior ao limite legal.\nCONCLUSÃO: Diante da ausência de elementos que justifiquem a manutenção, e em cumprimento ao art. 21 da Lei nº 8.742/1993 e ao art. 47 do Decreto nº 6.214/2007, procedo à SUSPENSÃO do benefício no sistema.\nAberto prazo de 30 dias para recurso."
+    "texto": "ASSUNTO: DECURSO DE PRAZO - SUSPENSÃO DO BENEFÍCIO\nTrata-se de Reavaliação do BPC (REAVBPC). Notificação de defesa emitida em [DATA DA NOTIFICAÇÃO].\nDecorrido o prazo legal de 30 (trinta) dias sem manifestação do(a) interessado(a) (Decurso de Prazo), conforme verificado nos sistemas PAT e SIBE PU.\nA análise das bases governamentais confirma a manutenção da renda per capita superior ao limite legal.\nCONCLUSÃO: Diante da ausência de elementos que justifiquem a manutenção, e em cumprimento ao art. 21 da Lei nº 8.742/1993 e ao art. 42, § 2º, do Decreto nº 6.214/2007 (com redação dada pelo Decreto nº 12.534/2025), procedo à SUSPENSÃO do benefício no sistema.\nAberto prazo de 30 dias para recurso."
   },
   {
     "id": "reav-desp-suspensao-cadunico-pendente-titular",
@@ -2113,7 +2116,7 @@ window.MODELOS_INSS = [
       "art. 145 Portaria 992"
     ],
     "resumo": "Registra a exclusão do Representante Legal para titular maior de 16 anos em benefício não judicial.",
-    "texto": "Nada de relevante encontrado no HISATU e no HISOCR. Benefício de concessão não judicial. Excluído o Representante Legal (RL) conforme o § 1º do artigo 145 da Portaria DIRBEN/INSS nº 992, de 28 de março de 2022 (c/c o art. 529 da Instrução Normativa PRES/INSS nº 128/2022)."
+    "texto": "Nada de relevante encontrado no HISATU e no HISOCR. Benefício de concessão não judicial. Excluído o Representante Legal (RL) conforme o § 1º do artigo 145 da Portaria DIRBEN/INSS nº 992, de 28 de março de 2022 (c/c o art. 603, parágrafo único, da Instrução Normativa PRES/INSS nº 128/2022)."
   },
   {
     "id": "man-desp-pedido-inclusao-rural-apenas-beneficio",
@@ -2196,10 +2199,10 @@ window.MODELOS_INSS = [
       "valores não recebidos",
       "Portaria Conjunta 90/2023",
       "CEAB 19/2024",
-      "art. 628"
+      "art. 624"
     ],
     "resumo": "Encaminha tarefa iniciada após concessão de Pensão por Morte para liberação de resíduo não recebido em vida pelo instituidor.",
-    "texto": "Esta tarefa foi iniciada por um servidor do INSS após a conclusão do serviço \"Pensão por Morte\", com o protocolo nº [PROTOCOLO DA PENSÃO].\nApós análise, constatou-se o direito ao pagamento de valores não recebidos até o óbito do(a) beneficiário(a) instituidor(a) (NB [NB DO INSTITUIDOR]).\nEncaminhamos para conferência, recálculo e liberação do valor.\nDespacho em consonância com a Portaria Conjunta DIRBEN/DTI/INSS nº 90/2023, o Comunicado CEAB nº 19/2024 e o art. 628 da Instrução Normativa PRES/INSS nº 128/2022."
+    "texto": "Esta tarefa foi iniciada por um servidor do INSS após a conclusão do serviço \"Pensão por Morte\", com o protocolo nº [PROTOCOLO DA PENSÃO].\nApós análise, constatou-se o direito ao pagamento de valores não recebidos até o óbito do(a) beneficiário(a) instituidor(a) (NB [NB DO INSTITUIDOR]).\nEncaminhamos para conferência, recálculo e liberação do valor.\nDespacho em consonância com a Portaria Conjunta DIRBEN/DTI/INSS nº 90/2023, o Comunicado CEAB nº 19/2024 e o art. 624 da Instrução Normativa PRES/INSS nº 128/2022."
   },
   {
     "id": "man-desp-mob-carta-defesa-erro-concessao",
@@ -2214,10 +2217,10 @@ window.MODELOS_INSS = [
       "contraditório",
       "erro material",
       "art. 179 RPS",
-      "art. 609"
+      "art. 588"
     ],
     "resumo": "Notifica o beneficiário para apresentar defesa em 30 dias em face de concessão indevida por erro sistêmico (renda per capita acima do limite).",
-    "texto": "Referente ao processo [PROTOCOLO], em observância ao § 1º do artigo 179 do Regulamento da Previdência Social (Decreto nº 3.048/1999) e ao art. 609 da Instrução Normativa PRES/INSS nº 128/2022, devido a erro material na concessão, o INSS notifica o(a) beneficiário(a), seu representante legal ou seu procurador para apresentar defesa, provas ou os documentos de que dispuser, no prazo de 30 (trinta) dias:\nEsclarecemos que o benefício foi concedido equivocadamente pelo sistema, quando deveria ter sido indeferido por renda familiar per capita superior ao limite legal permitido, uma vez que os documentos apresentados no cumprimento de exigências não supriram os requisitos de dedução. Diante desse erro operacional que resultou na concessão indevida do benefício, faculta-se a apresentação de carta de defesa no prazo de 30 dias, caso entenda pela regularidade da concessão."
+    "texto": "Referente ao processo [PROTOCOLO], em observância ao § 1º do artigo 179 do Regulamento da Previdência Social (Decreto nº 3.048/1999) e ao arts. 588 e 590 da Instrução Normativa PRES/INSS nº 128/2022 e art. 14 da Portaria DIRBEN/INSS nº 997/2022, devido a erro material na concessão, o INSS notifica o(a) beneficiário(a), seu representante legal ou seu procurador para apresentar defesa, provas ou os documentos de que dispuser, no prazo de 30 (trinta) dias:\nEsclarecemos que o benefício foi concedido equivocadamente pelo sistema, quando deveria ter sido indeferido por renda familiar per capita superior ao limite legal permitido, uma vez que os documentos apresentados no cumprimento de exigências não supriram os requisitos de dedução. Diante desse erro operacional que resultou na concessão indevida do benefício, faculta-se a apresentação de carta de defesa no prazo de 30 dias, caso entenda pela regularidade da concessão."
   },
   {
     "id": "man-desp-mob-carta-defesa-reducao-rmi",
@@ -2232,10 +2235,10 @@ window.MODELOS_INSS = [
       "revisão",
       "reclamatória trabalhista",
       "art. 179 RPS",
-      "art. 609"
+      "art. 588"
     ],
     "resumo": "Notifica o beneficiário para apresentar defesa em 30 dias quando a revisão solicitada resulta em diminuição da RMI e da MR.",
-    "texto": "Referente ao processo [PROTOCOLO], benefício [ESPÉCIE / NB], em respeito ao § 1º do artigo 179 do Regulamento da Previdência Social (Decreto nº 3.048/1999) e ao art. 609 da Instrução Normativa PRES/INSS nº 128/2022, devido à diminuição do valor da Renda Mensal Inicial (RMI), o INSS notifica o(a) beneficiário(a), seu representante legal ou seu procurador para apresentar defesa, provas ou os documentos de que dispuser, no prazo de 30 (trinta) dias.\nO benefício foi revisto para atender ao solicitado pelo(a) segurado(a) ([MOTIVO DA REVISÃO, EX: inclusão dos valores da Reclamatória Trabalhista]), resultando na redução da RMI de R$ [RMI ANTERIOR] para R$ [NOVA RMI]; consequentemente, a Renda Mensal Atual (MR) também passou de R$ [MR ANTERIOR] para R$ [NOVA MR]. Solicitamos que apresente carta de defesa no prazo legal, caso entenda que os valores apurados estão incorretos."
+    "texto": "Referente ao processo [PROTOCOLO], benefício [ESPÉCIE / NB], em respeito ao § 1º do artigo 179 do Regulamento da Previdência Social (Decreto nº 3.048/1999) e ao arts. 588 e 590 da Instrução Normativa PRES/INSS nº 128/2022 e art. 15 da Portaria DIRBEN/INSS nº 997/2022, devido à diminuição do valor da Renda Mensal Inicial (RMI), o INSS notifica o(a) beneficiário(a), seu representante legal ou seu procurador para apresentar defesa, provas ou os documentos de que dispuser, no prazo de 30 (trinta) dias.\nO benefício foi revisto para atender ao solicitado pelo(a) segurado(a) ([MOTIVO DA REVISÃO, EX: inclusão dos valores da Reclamatória Trabalhista]), resultando na redução da RMI de R$ [RMI ANTERIOR] para R$ [NOVA RMI]; consequentemente, a Renda Mensal Atual (MR) também passou de R$ [MR ANTERIOR] para R$ [NOVA MR]. Solicitamos que apresente carta de defesa no prazo legal, caso entenda que os valores apurados estão incorretos."
   },
   {
     "id": "man-desp-nao-cobranca-pos-obito-pensao-1255",
@@ -2340,7 +2343,7 @@ window.MODELOS_INSS = [
       "Portaria Conjunta 32/2025"
     ],
     "resumo": "Solicita LIBDUP informando que foram marcados como certificados apenas os períodos efetivamente utilizados no órgão de lotação.",
-    "texto": "Em conformidade com o § 1º do artigo 7º da Portaria Conjunta DIRBEN/DTI/INSS nº 32, de 19/12/2025, solicita-se o procedimento de LIBDUP.\nNB em concessão: [ESPÉCIE E NB EM CONCESSÃO]\nCTC nº: [NÚMERO DA CTC]\nTarefa PAT: [PROTOCOLO PAT]\nEsclarece-se que foram marcados como certificados os períodos efetivamente utilizados no Órgão de Lotação, conforme declaração oficial constante às fls. [NÚMERO DAS FOLHAS]."
+    "texto": "Em conformidade com o § 1º do artigo 7º da Portaria Conjunta DIRBEN/DTI/INSS nº 32, de 19/12/2025, solicita-se o procedimento de LIBDUP.\nNB em concessão: [ESPÉCIE E NB EM CONCESSÃO]\nCTC nº: [NÚMERO DA CTC]\nTarefa PAT: [PROTOCOLO PAT]\nEsclarece-se que foram marcados como certificados os períodos efetivamente utilizados no Órgão de Lotação, conforme constam nos períodos da CTC emitida."
   },
   {
     "id": "man-interno-admissibilidade-irregularidade",
@@ -2352,10 +2355,10 @@ window.MODELOS_INSS = [
       "admissibilidade de irregularidade",
       "MOB",
       "20.150.516",
-      "art. 607"
+      "art. 590"
     ],
     "resumo": "Lembrete operacional para abertura de tarefa de Admissibilidade de Irregularidade e transferência para a OL 20.150.516.",
-    "texto": "Procedimento Operacional - Admissibilidade de Irregularidade:\nNesses casos, abrir uma tarefa de \"Admissibilidade de Irregularidade\" no GET e transferir para a OL [OL DE DESTINO: 20.150.516], nos termos dos arts. 607 e seguintes da Instrução Normativa PRES/INSS nº 128/2022."
+    "texto": "Procedimento Operacional - Admissibilidade de Irregularidade:\nNesses casos, abrir uma tarefa de \"Admissibilidade de Irregularidade\" no GET e transferir para a OL [OL DE DESTINO: 20.150.516], nos termos dos art. 179 do Decreto nº 3.048/1999 e art. 590 da Instrução Normativa PRES/INSS nº 128/2022."
   },
   {
     "id": "rec-roteiro-implantacao-recurso",
@@ -2508,10 +2511,10 @@ window.MODELOS_INSS = [
       "Anexo IV",
       "Anexo V",
       "CTPS física",
-      "art. 506"
+      "art. 511"
     ],
     "resumo": "Lista completa de documentos para emissão de CTC (RG/CPF, Declaração do Órgão de Lotação, DTC Anexos IV e V, Requerimento de Períodos e CTPS física).",
-    "texto": "- Documentação para Emissão de Certidão de Tempo de Contribuição (CTC - Protocolo [PROTOCOLO PAT]):\n  1. Identificação: Documento oficial com foto, CPF e comprovante de endereço recente;\n  2. Declaração do Órgão de Lotação Atual: Declaração oficial do órgão público informando seu nome, matrícula, cargo/função, RG, CPF e se o vínculo está ativo;\n  3. Vínculos com Órgãos Públicos sob Regime Geral - RGPS (DTC): Caso tenha trabalhado em prefeitura ou outro órgão público vinculado ao INSS (cargo comissionado, temporário ou emprego público), apresente o ato de nomeação/exoneração acompanhado obrigatoriamente da Declaração de Tempo de Contribuição ao RGPS (Anexo IV da IN 128/2022) e da relação de salários (Anexo V da IN 128/2022);\n  4. Indicação dos Períodos que Deseja Certificar: Pedido assinado informando exatamente quais vínculos ou períodos você deseja levar na CTC e para qual órgão público (RPPS) ela será destinada;\n  5. Carteiras de Trabalho Físicas (CTPS): Envie fotos ou digitalizações coloridas e legíveis de todas as páginas com anotações das suas Carteiras de Trabalho físicas (identificação, contratos, alterações salariais, férias, FGTS e anotações gerais), em ordem cronológica (não é aceita apenas a CTPS Digital para conferência de vínculos antigos);\n  6. Outros Documentos: Comprovantes de baixa de vínculos que estejam em aberto no CNIS.\n(Fundamentação: art. 69, § 1º, e arts. 506 a 518 da Instrução Normativa PRES/INSS nº 128/2022)."
+    "texto": "- Documentação para Emissão de Certidão de Tempo de Contribuição (CTC - Protocolo [PROTOCOLO PAT]):\n  1. Identificação: Documento oficial com foto, CPF e comprovante de endereço recente;\n  2. Declaração do Órgão de Lotação Atual: Declaração oficial do órgão público informando seu nome, matrícula, cargo/função, RG, CPF e se o vínculo está ativo;\n  3. Vínculos com Órgãos Públicos sob Regime Geral - RGPS (DTC): Caso tenha trabalhado em prefeitura ou outro órgão público vinculado ao INSS (cargo comissionado, temporário ou emprego público), apresente o ato de nomeação/exoneração acompanhado obrigatoriamente da Declaração de Tempo de Contribuição ao RGPS (Anexo IV da IN 128/2022) e da relação de salários (Anexo V da IN 128/2022);\n  4. Indicação dos Períodos que Deseja Certificar: Pedido assinado informando exatamente quais vínculos ou períodos você deseja levar na CTC e para qual órgão público (RPPS) ela será destinada;\n  5. Carteiras de Trabalho Físicas (CTPS): Envie fotos ou digitalizações coloridas e legíveis de todas as páginas com anotações das suas Carteiras de Trabalho físicas (identificação, contratos, alterações salariais, férias, FGTS e anotações gerais), em ordem cronológica (não é aceita apenas a CTPS Digital para conferência de vínculos antigos);\n  6. Outros Documentos: Comprovantes de baixa de vínculos que estejam em aberto no CNIS.\n(Fundamentação: art. 69, § 1º, e arts. 511 a 518 da Instrução Normativa PRES/INSS nº 128/2022)."
   },
   {
     "id": "ctc-exig-revisao-ctc",
@@ -2541,10 +2544,10 @@ window.MODELOS_INSS = [
       "RPPS para RGPS",
       "contagem recíproca",
       "Portaria 1.467/2022",
-      "art. 506"
+      "art. 511"
     ],
     "resumo": "Solicita CTC original emitida pelo RPPS acompanhada da Relação das Remunerações a partir de 07/1994.",
-    "texto": "- Certidão de Tempo de Contribuição de Órgão Público (Para Trazer Tempo ao INSS): Para somar no INSS o tempo trabalhado em regime próprio de servidor público (RPPS), apresente a Certidão de Tempo de Contribuição (CTC) original emitida pelo órgão público, totalmente preenchida e assinada (contendo matrícula, cargo, datas de início e fim, faltas/licenças e tempo líquido), acompanhada da Relação das Remunerações de Contribuição para os períodos a partir de julho de 1994 (Fundamentação: Portaria MTP nº 1.467/2022 e arts. 506 a 518 da Instrução Normativa PRES/INSS nº 128/2022)."
+    "texto": "- Certidão de Tempo de Contribuição de Órgão Público (Para Trazer Tempo ao INSS): Para somar no INSS o tempo trabalhado em regime próprio de servidor público (RPPS), apresente a Certidão de Tempo de Contribuição (CTC) original emitida pelo órgão público, totalmente preenchida e assinada (contendo matrícula, cargo, datas de início e fim, faltas/licenças e tempo líquido), acompanhada da Relação das Remunerações de Contribuição para os períodos a partir de julho de 1994 (Fundamentação: Portaria MTP nº 1.467/2022 e arts. 511 a 518 da Instrução Normativa PRES/INSS nº 128/2022)."
   },
   {
     "id": "ctc-exig-declaracao-uso-tempo-rpps",
@@ -2574,10 +2577,10 @@ window.MODELOS_INSS = [
       "acumulação de benefícios",
       "pensão",
       "aposentadoria",
-      "art. 642"
+      "art. 641"
     ],
     "resumo": "Solicita preenchimento de declaração e contracheque sobre aposentadoria ou pensão recebida em RPPS (civil ou militar).",
-    "texto": "- Declaração de Benefício Recebido em Outro Regime de Previdência (RPPS / Militar): Informe os dados da aposentadoria ou pensão que você recebe em outro regime de previdência (tipo de benefício, data de início, nome do órgão pagador, esfera municipal/estadual/federal, natureza civil ou militar e valor bruto atual), preenchendo e assinando o formulário em anexo acompanhado do último contracheque (Fundamentação: art. 24 da Emenda Constitucional nº 103/2019 e art. 642 da Instrução Normativa PRES/INSS nº 128/2022)."
+    "texto": "- Declaração de Benefício Recebido em Outro Regime de Previdência (RPPS / Militar): Informe os dados da aposentadoria ou pensão que você recebe em outro regime de previdência (tipo de benefício, data de início, nome do órgão pagador, esfera municipal/estadual/federal, natureza civil ou militar e valor bruto atual), preenchendo e assinando o formulário em anexo acompanhado do último contracheque (Fundamentação: art. 24 da Emenda Constitucional nº 103/2019 e art. 641, § 6º, da Instrução Normativa PRES/INSS nº 128/2022 e art. 3º, § 5º, da Portaria DIRBEN/INSS nº 994/2022)."
   },
   {
     "id": "ctc-exig-documentacao-especifica-reclamatoria-vigilante",
@@ -2665,10 +2668,10 @@ window.MODELOS_INSS = [
       "2 provas",
       "JA",
       "art. 180",
-      "art. 504"
+      "art. 568"
     ],
     "resumo": "Solicita documentos pessoais, certidão de óbito e ao menos 2 provas materiais de união estável (sendo 1 dos últimos 24 meses) ou 1 prova + JA.",
-    "texto": "- Documentação para Pensão por Morte - Companheiro(a) (União Estável): Apresente os seguintes documentos:\n  1. Documento de identificação oficial com foto e CPF (seu e da pessoa falecida);\n  2. Certidão de Óbito;\n  3. Certidão de Nascimento ou de Casamento atualizada (sua e da pessoa falecida);\n  4. Carteira de Trabalho (CTPS) e comprovantes de trabalho ou contribuição da pessoa falecida;\n  5. Pelo menos 2 (dois) documentos que comprovem a união estável e a vida em comum, sendo que ao menos 1 (um) deles deve ter sido emitido nos últimos 24 meses antes do falecimento (como certidão de filhos em comum, conta bancária conjunta, comprovantes de mesmo endereço residencial em nome de ambos, declaração de Imposto de Renda, plano de saúde ou seguro de vida como dependente);\n  6. Caso você possua apenas 1 (um) documento de prova da união estável (emitido nos últimos 24 meses), poderá solicitar Justificação Administrativa (JA), preenchendo o formulário em anexo com a indicação de 2 (duas) a 6 (seis) testemunhas (Fundamentação: arts. 180 e 504 da Instrução Normativa PRES/INSS nº 128/2022)."
+    "texto": "- Documentação para Pensão por Morte - Companheiro(a) (União Estável): Apresente os seguintes documentos:\n  1. Documento de identificação oficial com foto e CPF (seu e da pessoa falecida);\n  2. Certidão de Óbito;\n  3. Certidão de Nascimento ou de Casamento atualizada (sua e da pessoa falecida);\n  4. Carteira de Trabalho (CTPS) e comprovantes de trabalho ou contribuição da pessoa falecida;\n  5. Pelo menos 2 (dois) documentos que comprovem a união estável e a vida em comum, sendo que ao menos 1 (um) deles deve ter sido emitido nos últimos 24 meses antes do falecimento (como certidão de filhos em comum, conta bancária conjunta, comprovantes de mesmo endereço residencial em nome de ambos, declaração de Imposto de Renda, plano de saúde ou seguro de vida como dependente);\n  6. Caso você possua apenas 1 (um) documento de prova da união estável (emitido nos últimos 24 meses), poderá solicitar Justificação Administrativa (JA), preenchendo o formulário em anexo com a indicação de 2 (duas) a 6 (seis) testemunhas (Fundamentação: arts. 180, 568 e 570 da Instrução Normativa PRES/INSS nº 128/2022)."
   },
   {
     "id": "pao-exig-pensao-morte-pais",
@@ -2681,11 +2684,11 @@ window.MODELOS_INSS = [
       "B21",
       "pais",
       "dependência econômica",
-      "art. 176",
+      "art. 178",
       "art. 180"
     ],
     "resumo": "Solicita documentos pessoais, certidões, 2 provas materiais de dependência econômica e declaração de inexistência de dependentes preferenciais.",
-    "texto": "- Documentação para Pensão por Morte - Pais do(a) Segurado(a) Falecido(a): Apresente os seguintes documentos:\n  1. Documento de identificação oficial com foto e CPF (dos pais e do filho falecido);\n  2. Certidão de Óbito do(a) filho(a);\n  3. Certidão de Nascimento do(a) filho(a) falecido(a) (comprovando a filiação) e certidão de estado civil dos pais;\n  4. Carteira de Trabalho (CTPS) e comprovantes de contribuição do(a) falecido(a);\n  5. Pelo menos 2 (dois) documentos que comprovem que vocês dependiam financeiramente do(a) filho(a) falecido(a), sendo ao menos 1 (um) emitido nos últimos 24 meses antes do óbito (como comprovantes de pagamento de contas da casa, transferências bancárias regulares, compras de medicamentos/alimentos ou declaração de Imposto de Renda);\n  6. Declaração assinada informando que o(a) falecido(a) não deixou cônjuge, companheiro(a) ou filhos (dependentes de 1ª classe) (Fundamentação: arts. 176 e 180 da Instrução Normativa PRES/INSS nº 128/2022)."
+    "texto": "- Documentação para Pensão por Morte - Pais do(a) Segurado(a) Falecido(a): Apresente os seguintes documentos:\n  1. Documento de identificação oficial com foto e CPF (dos pais e do filho falecido);\n  2. Certidão de Óbito do(a) filho(a);\n  3. Certidão de Nascimento do(a) filho(a) falecido(a) (comprovando a filiação) e certidão de estado civil dos pais;\n  4. Carteira de Trabalho (CTPS) e comprovantes de contribuição do(a) falecido(a);\n  5. Pelo menos 2 (dois) documentos que comprovem que vocês dependiam financeiramente do(a) filho(a) falecido(a), sendo ao menos 1 (um) emitido nos últimos 24 meses antes do óbito (como comprovantes de pagamento de contas da casa, transferências bancárias regulares, compras de medicamentos/alimentos ou declaração de Imposto de Renda);\n  6. Declaração assinada informando que o(a) falecido(a) não deixou cônjuge, companheiro(a) ou filhos (dependentes de 1ª classe) (Fundamentação: arts. 178, inciso II e §§ 1º e 2º, e art. 180 da Instrução Normativa PRES/INSS nº 128/2022)."
   },
   {
     "id": "pao-exig-pensao-morte-ex-conjuge",
