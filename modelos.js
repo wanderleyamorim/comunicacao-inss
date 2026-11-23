@@ -1172,11 +1172,14 @@ window.MODELOS_INSS = [
       "aluno-aprendiz",
       "escola técnica",
       "orçamento público",
+      "encomendas",
+      "MS 31.518",
       "art. 135",
+      "art. 136",
       "art. 137"
     ],
-    "resumo": "Indefere período de aluno-aprendiz por falta de certidão escolar comprovando retribuição à conta do orçamento público ou CTC de RPPS.",
-    "texto": "No tocante ao período requerido na condição de aluno-aprendiz ([PERÍODO]), verifica-se o não atendimento aos requisitos materiais e formais previstos nos arts. 135 a 137 da Instrução Normativa PRES/INSS nº 128/2022 e nos arts. 128 a 129 da Portaria DIRBEN/INSS nº 990/2022 (Livro I de Cadastro), tendo em vista a ausência de certidão escolar que ateste a retribuição pecuniária à conta do orçamento público (ainda que de forma indireta, mediante fornecimento de alimentação, fardamento ou material escolar) ou de Certidão de Tempo de Contribuição (CTC) expedida por Regime Próprio de Previdência Social competente, razão pela qual o referido interregno é indeferido e não é passível de cômputo no âmbito do RGPS."
+    "resumo": "Indefere período de aluno-aprendiz por ausência ou insuficiência de certidão escolar comprovando vínculo, execução do ofício (encomendas) e retribuição ao erário, ou CTC de RPPS.",
+    "texto": "No tocante ao período requerido na condição de aluno-aprendiz ([PERÍODO]), verifica-se o não atendimento aos requisitos materiais e formais previstos nos arts. 135 a 137 da Instrução Normativa PRES/INSS nº 128/2022 e nos arts. 128, 128-A e 129 da Portaria DIRBEN/INSS nº 990/2022 (Livro I de Cadastro), tendo em vista a ausência ou insuficiência de certidão escolar que ateste o vínculo, a efetiva execução do ofício (mediante serviços prestados ou execução de encomendas para terceiros, na linha do entendimento do STF no MS 31.518/DF) e a retribuição pecuniária à conta do orçamento público (ainda que de forma indireta, mediante fornecimento de alimentação, fardamento, material escolar ou parcela de renda de encomendas), ou de Certidão de Tempo de Contribuição (CTC) expedida pelo Regime Próprio de Previdência Social competente, razão pela qual o referido interregno é indeferido e não é passível de cômputo no âmbito do RGPS."
   },
   {
     "id": "cnis-seminarista-religioso-indeferimento",
